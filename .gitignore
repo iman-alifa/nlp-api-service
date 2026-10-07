@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# HuggingFace model cache (downloaded on Railway at runtime)
+.cache/
+models/
+*.bin
+*.safetensors
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# Logs
+logs/
+*.log
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# Bahan penelitian yang terlalu besar untuk repo (2,8 GB checkpoint eksperimen)
+models_exp/
+
+# Keluaran uji dan korespondensi lintas-repo: berguna sebagai riwayat, tidak
+# perlu ikut ke mana pun. Lihat .railwayignore untuk apa yang ikut ke produksi.
+arsip/keluaran-uji/
+
+# --- Ditambahkan saat dipindah ke repositori GitHub ---
+models/
+models_exp/
+arsip/
+.env
+.env.*
+!.env.example
+*.tar.gz
+*.mp4
+.pytest_cache/
+logs/
+

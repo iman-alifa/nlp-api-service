@@ -1,0 +1,242 @@
+[
+  {
+    "text": "tidur yang cukup tiap hari nya bisa bikin badan segar .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9633
+  },
+  {
+    "text": "di indonesia lagi banyak bencana .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9585
+  },
+  {
+    "text": "sinetron di indonesia mana ada yang bagus .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9578
+  },
+  {
+    "text": "perempuan yang malang itu sekarang sudah tutup usia .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9554
+  },
+  {
+    "text": "di pesona festival pasar terapung , ada juga permainan tradisional balogo , festival kain tradisional sasirangan , kompetisi chef hotel dan restoran terbaik , festival kuliner desa banjar , lomba hias perahu jukung , lomba fotografi , dan masih banyak lagi yang lainnya .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9552
+  },
+  {
+    "text": "gila sih rasa iga bakar di iga bakar si jangkung terbaik parah .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9548
+  },
+  {
+    "text": "salah satu kegemaran anak remaja indonesia sekarang adalah mendengar kpop .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9544
+  },
+  {
+    "text": "iya enak banget soal nya ; iya dong indomie mah teh terbaik . iya , lalu aku juga tidak suka orang yang padahal jelas-jelas dia salah dan harus nya minta maaf , tapi adem ayem saja sedangkan aku nya sudah menderita .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9524
+  },
+  {
+    "text": "buat indonesia apa sih yang tidak , gue rela deh kayak pahlawan zaman dulu yang sampai mengorbankan nyawa .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9469
+  },
+  {
+    "text": "kami bukan dalam kapasitas menentukan jangan / nyapres , mbk .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9443
+  },
+  {
+    "text": "bondan winarno yang suka bilang maknyus sekarang sudah tiada .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9436
+  },
+  {
+    "text": "kalau ingin menghilangkan haus pakai minuman super duper segar , mending beli hydrococo .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9424
+  },
+  {
+    "text": "ada tiga tahap . pertama harus unlock bootloader terus pasang twrp terus robot deh xiaomi kamu tipe berapa ya ? soal nya suka beda gitu loh",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9422
+  },
+  {
+    "text": "jumlah korban tenggelam nya kami sinar bangun itu kurang lebih 160 - an orang .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9398
+  },
+  {
+    "text": "hotel bintang 5 yang ada di bogor salah satu nya hotel salak .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9396
+  },
+  {
+    "text": "kagak ada faedah nya kenal kpop , yang ada mata kita dibutakan terus bikin kita muja-muja manusia .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9388
+  },
+  {
+    "text": "maaf ini oot . yang hape nya xiaomi , bisa bantu aku tidak . ini kalau aku lagi buka twit atau saya begitu suka menang . nah yang aku lingkarkan merah itu aplikasi yang menghilang begitu . ada yang tahu kenapa dan bagaimana cara menyembuhkan nya :",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9381
+  },
+  {
+    "text": "mal terasik di bandung menurut gue pvj sih .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9369
+  },
+  {
+    "text": "jadi pemimpin di indonesia itu banyak tantangan nya .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9367
+  },
+  {
+    "text": "ayam sama kentang mcd tidak ada yang bisa mengalahkan .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9356
+  },
+  {
+    "text": "saat kunjungan ke hotel , menag banyak menerima apresiasi atas layanan haji tahun ini .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9087
+  },
+  {
+    "text": "kerja dari pagi sampai pagi lagi itu cuma bakal menyiksa diri sendiri . jadi tidak usah berlebihan kalau soal kerjaan .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.8998
+  },
+  {
+    "text": "kabar tenggelam nya kami sinar bangun di danau toba sudah tidak pernah terdengar lagi .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.8722
+  },
+  {
+    "text": "kalau jadi pemimpin itu harus bisa adil .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.867
+  },
+  {
+    "text": "kemajuan teknologi di indonesia makin ke sini makin berkembang .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.8658
+  },
+  {
+    "text": "kalau tidak suka gaperlu didukung mas , dukung saja yang menurut mas daus itu bisa bawa indonesia jauh lebih baik . yang penting kita harus menomorsatukan asas etika .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.8553
+  },
+  {
+    "text": "kalau driver go jek tidak pelayanan prima meminta bungkus acar untuk mengambil saos tambahan hilang nafsu makan saya . bravo driver go jek .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.839
+  },
+  {
+    "text": "tidak perlu diragukan lagi , semua orang memang membenci dia , aku pun sama .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.8376
+  },
+  {
+    "text": "semua perempuan suka dikasih bunga atau puisi sama pacar nya .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.7892
+  },
+  {
+    "text": "gojek fitur nya makin banyak .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7794
+  },
+  {
+    "text": "gelaran jateng wow 2018 telah usai pada 31 maret lalu . dari pelaksanaan selama dua bulan penuh , kegiatan ini telah meningkatkan hunian hotel mendatangkan ribuan kunjungan wisatawan mancanegara ke jawa tengah .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.773
+  },
+  {
+    "text": "di indonesia pilihan brand smartphone kan melimpah . kalau tidak suka cara xiaomi menjalankan bisnis nya ya tinggal pilih brand lain . dibawa santai saja .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7599
+  },
+  {
+    "text": "jokowi milih dengan ruh amin jadi cawapres nya .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7273
+  },
+  {
+    "text": "daftar harga dispenser 2018 terbaik yang ada di blibli.com memuat banyak produk . salah satu nya adalah miyako wdp - 200 dispenser . produk ini merupakan dispenser dengan penempatan galon di bawah sehingga anda tidak perlu mengangkat galon saat akan mengisi air .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.6645
+  },
+  {
+    "text": "karena shopee bukan barang shope , dia itu tempat belanjaan aku yang paling luar biasa ! pelayanan nya oke punya , disko nya banjir !",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.6631
+  },
+  {
+    "text": "kemampuan memahami bacaan tiap orang itu beda-beda , ada yang sekali baca sudah paham , ada juga yang butuh berkali-kali baca dulu baru paham .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.6494
+  },
+  {
+    "text": "kalau mau indonesia maju , pemimpin itu harus peka sama kebutuhan negara .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.6337
+  },
+  {
+    "text": "adab di media sosial itu jelas , kok . suka silakan like , mengikuti . tidak suka , unfoll / block , simpel . dan kita memiliki hak yang sama untuk melakukan nya .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.5992
+  },
+  {
+    "text": "baiknya orang yang dikasih kekuasaan di indonesia itu adalah orang yang paling tahu apa yang dibutuhkan sama rakyat .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.5854
+  },
+  {
+    "text": "salah satu tempat yang banyak didatangkan di bogor itu kebun raya bogor .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.5151
+  }
+]

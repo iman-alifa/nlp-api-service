@@ -1,0 +1,242 @@
+[
+  {
+    "text": "perempuan yang malang itu sekarang sudah tutup usia .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9823
+  },
+  {
+    "text": "laptop lenovo nomor 1 sih buat gue .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9788
+  },
+  {
+    "text": "buat indonesia apa sih yang tidak , gue rela deh kayak pahlawan zaman dulu yang sampai mengorbankan nyawa .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.973
+  },
+  {
+    "text": "gue cuma mau dipimpin sama jokowi .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9688
+  },
+  {
+    "text": "youngle nya setelah berantem sama penggemar kpop .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9624
+  },
+  {
+    "text": "hotel bintang 5 yang ada di bogor salah satu nya hotel salak .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9617
+  },
+  {
+    "text": "kerja dari pagi sampai pagi lagi itu cuma bakal menyiksa diri sendiri . jadi tidak usah berlebihan kalau soal kerjaan .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9616
+  },
+  {
+    "text": "kemarin aku setelah nyobain kopi nya warung kopi nako .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9589
+  },
+  {
+    "text": "sinetron di indonesia mana ada yang bagus .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.952
+  },
+  {
+    "text": "maaf ini oot . yang hape nya xiaomi , bisa bantu aku tidak . ini kalau aku lagi buka twit atau saya begitu suka menang . nah yang aku lingkarkan merah itu aplikasi yang menghilang begitu . ada yang tahu kenapa dan bagaimana cara menyembuhkan nya :",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9168
+  },
+  {
+    "text": "iya enak banget soal nya ; iya dong indomie mah teh terbaik . iya , lalu aku juga tidak suka orang yang padahal jelas-jelas dia salah dan harus nya minta maaf , tapi adem ayem saja sedangkan aku nya sudah menderita .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9144
+  },
+  {
+    "text": "kalau driver go jek tidak pelayanan prima meminta bungkus acar untuk mengambil saos tambahan hilang nafsu makan saya . bravo driver go jek .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9127
+  },
+  {
+    "text": "di indonesia pilihan brand smartphone kan melimpah . kalau tidak suka cara xiaomi menjalankan bisnis nya ya tinggal pilih brand lain . dibawa santai saja .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9092
+  },
+  {
+    "text": "adab di media sosial itu jelas , kok . suka silakan like , mengikuti . tidak suka , unfoll / block , simpel . dan kita memiliki hak yang sama untuk melakukan nya .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.8934
+  },
+  {
+    "text": "kalau jadi pemimpin itu harus bisa adil .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.8642
+  },
+  {
+    "text": "di pesona festival pasar terapung , ada juga permainan tradisional balogo , festival kain tradisional sasirangan , kompetisi chef hotel dan restoran terbaik , festival kuliner desa banjar , lomba hias perahu jukung , lomba fotografi , dan masih banyak lagi yang lainnya .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.8267
+  },
+  {
+    "text": "salah satu tempat yang banyak didatangkan di bogor itu kebun raya bogor .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7991
+  },
+  {
+    "text": "kata nya di pasteur bakal dibangun transmart yang kayak di buah batu itu .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.7918
+  },
+  {
+    "text": "keren air asia . setelah malaysia , indonesia , thailand , filipina , jepang dan india , bakal ada air asia vietnam dan air asia china .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.7785
+  },
+  {
+    "text": "kalau lapar ya baiknya makan .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7589
+  },
+  {
+    "text": "kalau mau indonesia maju , pemimpin itu harus peka sama kebutuhan negara .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7344
+  },
+  {
+    "text": "temen gue telepon genggam nya xiaomi yang 2 juta saja masih kembali . pas gue tanya kenapa dia beli itu padahal bisa saja di beli iphone , dia jawab karena dia suka karena spek nya . melebih iphone yang lo pandang ricuh itu .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.7312
+  },
+  {
+    "text": "kata nya lagi banyak promo di shopee .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7234
+  },
+  {
+    "text": "bondan winarno yang suka bilang maknyus sekarang sudah tiada .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.7234
+  },
+  {
+    "text": "kemampuan memahami bacaan tiap orang itu beda-beda , ada yang sekali baca sudah paham , ada juga yang butuh berkali-kali baca dulu baru paham .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.7226
+  },
+  {
+    "text": "kalau tidak suka gaperlu didukung mas , dukung saja yang menurut mas daus itu bisa bawa indonesia jauh lebih baik . yang penting kita harus menomorsatukan asas etika .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7217
+  },
+  {
+    "text": "sekarang lagi musim durian .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.7037
+  },
+  {
+    "text": "sumpah big cola jauh banget lebih enak daripada coca cola ! tidak terlalu manis dan tidak menyisakan pait di mulut seperti coke zero . wkwk norak ya gue baru mencoba . tapi asli enak banget .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.6543
+  },
+  {
+    "text": "di sekitar istana bogor , kita bisa kasih makan rusa langsung kalau rusa-rusa nya lagi dikeluarkan .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.6146
+  },
+  {
+    "text": "baiknya orang yang dikasih kekuasaan di indonesia itu adalah orang yang paling tahu apa yang dibutuhkan sama rakyat .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.6055
+  },
+  {
+    "text": "tidur yang cukup tiap hari nya bisa bikin badan segar .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.603
+  },
+  {
+    "text": "kemajuan teknologi di indonesia makin ke sini makin berkembang .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.593
+  },
+  {
+    "text": "mal terasik di bandung menurut gue pvj sih .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.5213
+  },
+  {
+    "text": "tidak perlu diragukan lagi , semua orang memang membenci dia , aku pun sama .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.5164
+  },
+  {
+    "text": "buah mangga yang kemarin gue lihat di pohon kayak nya sudah dimakan sama kelelawar .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.4961
+  },
+  {
+    "text": "tukang bubur naik haji sudah stop produksi .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.4938
+  },
+  {
+    "text": "daftar harga dispenser 2018 terbaik yang ada di blibli.com memuat banyak produk . salah satu nya adalah miyako wdp - 200 dispenser . produk ini merupakan dispenser dengan penempatan galon di bawah sehingga anda tidak perlu mengangkat galon saat akan mengisi air .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.49
+  },
+  {
+    "text": "ada tiga tahap . pertama harus unlock bootloader terus pasang twrp terus robot deh xiaomi kamu tipe berapa ya ? soal nya suka beda gitu loh",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.4825
+  },
+  {
+    "text": "semua perempuan suka dikasih bunga atau puisi sama pacar nya .",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.4791
+  },
+  {
+    "text": "gojek fitur nya makin banyak .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.4654
+  }
+]

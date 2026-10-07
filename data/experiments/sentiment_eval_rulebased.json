@@ -1,0 +1,78 @@
+{
+  "gold": "data/external/smsa/test_gold.json",
+  "n": 500,
+  "mode": "rule-based",
+  "metrics": {
+    "accuracy": 0.672,
+    "macro_f1": 0.6538,
+    "weighted_f1": 0.6981,
+    "per_class": {
+      "positive": {
+        "precision": 0.8389,
+        "recall": 0.726,
+        "f1": 0.7784,
+        "support": 208
+      },
+      "neutral": {
+        "precision": 0.3441,
+        "recall": 0.7273,
+        "f1": 0.4672,
+        "support": 88
+      },
+      "negative": {
+        "precision": 0.903,
+        "recall": 0.5931,
+        "f1": 0.716,
+        "support": 204
+      }
+    },
+    "confusion_matrix": [
+      [
+        151,
+        55,
+        2
+      ],
+      [
+        13,
+        64,
+        11
+      ],
+      [
+        16,
+        67,
+        121
+      ]
+    ],
+    "confusion_labels": [
+      "positive",
+      "neutral",
+      "negative"
+    ],
+    "support": 500,
+    "seconds": 0.0,
+    "docs_per_second": 10797.1,
+    "calibration": [
+      {
+        "range": "0.50-0.70",
+        "n": 186,
+        "share": 0.372,
+        "accuracy": 0.3441
+      },
+      {
+        "range": "0.70-0.90",
+        "n": 283,
+        "share": 0.566,
+        "accuracy": 0.8551
+      },
+      {
+        "range": "0.90-0.99",
+        "n": 31,
+        "share": 0.062,
+        "accuracy": 0.9677
+      }
+    ],
+    "methods": {
+      "rule-based": 500
+    }
+  }
+}

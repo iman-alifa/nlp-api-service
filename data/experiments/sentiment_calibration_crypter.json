@@ -1,0 +1,23 @@
+{
+  "temperature": 2.7748,
+  "valid_tanpa": {
+    "ece": 0.0624,
+    "accuracy": 0.9357,
+    "avg_confidence": 0.9958
+  },
+  "valid_dengan": {
+    "ece": 0.0142,
+    "accuracy": 0.9357,
+    "avg_confidence": 0.9452
+  },
+  "test_tanpa": {
+    "ece": 0.0827,
+    "accuracy": 0.912,
+    "avg_confidence": 0.9926
+  },
+  "test_dengan": {
+    "ece": 0.024,
+    "accuracy": 0.912,
+    "avg_confidence": 0.9358
+  }
+}

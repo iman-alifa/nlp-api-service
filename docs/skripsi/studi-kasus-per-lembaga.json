@@ -1,0 +1,3174 @@
+{
+    "analisis": [
+        {
+            "id": 1,
+            "lembaga": "Tentara Nasional Indonesia",
+            "teks": 3548,
+            "kosong": 182,
+            "dinilai": 3366,
+            "sentimen": {
+                "positive": 1399,
+                "neutral": 492,
+                "negative": 1475
+            },
+            "sentimen_persen": {
+                "positive": 41.56,
+                "neutral": 14.62,
+                "negative": 43.82
+            },
+            "keyakinan_median": 0.9469,
+            "keyakinan_rerata": 0.9051,
+            "porsi_di_bawah_0_90": 20.83,
+            "jumlah_jenis_aspek": 221,
+            "aspek_teratas": [
+                {
+                    "aspect": "tni",
+                    "count": 948,
+                    "sentiments": {
+                        "positive": 53.8,
+                        "neutral": 17.6,
+                        "negative": 28.6
+                    }
+                },
+                {
+                    "aspect": "gaji",
+                    "count": 686,
+                    "sentiments": {
+                        "positive": 10.2,
+                        "neutral": 22.9,
+                        "negative": 66.9
+                    }
+                },
+                {
+                    "aspect": "negara",
+                    "count": 241,
+                    "sentiments": {
+                        "positive": 26.1,
+                        "neutral": 17.4,
+                        "negative": 56.4
+                    }
+                },
+                {
+                    "aspect": "dpr",
+                    "count": 180,
+                    "sentiments": {
+                        "positive": 8.9,
+                        "neutral": 29.4,
+                        "negative": 61.7
+                    }
+                },
+                {
+                    "aspect": "rakyat",
+                    "count": 145,
+                    "sentiments": {
+                        "positive": 26.2,
+                        "neutral": 17.2,
+                        "negative": 56.6
+                    }
+                },
+                {
+                    "aspect": "polisi",
+                    "count": 66,
+                    "sentiments": {
+                        "positive": 4.5,
+                        "neutral": 21.2,
+                        "negative": 74.2
+                    }
+                },
+                {
+                    "aspect": "uang",
+                    "count": 53,
+                    "sentiments": {
+                        "positive": 17,
+                        "neutral": 20.8,
+                        "negative": 62.3
+                    }
+                },
+                {
+                    "aspect": "tunjangan",
+                    "count": 36,
+                    "sentiments": {
+                        "positive": 11.1,
+                        "neutral": 30.6,
+                        "negative": 58.3
+                    }
+                },
+                {
+                    "aspect": "korupsi",
+                    "count": 31,
+                    "sentiments": {
+                        "positive": 3.2,
+                        "neutral": 0,
+                        "negative": 96.8
+                    }
+                },
+                {
+                    "aspect": "pejabat",
+                    "count": 31,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 9.7,
+                        "negative": 90.3
+                    }
+                }
+            ],
+            "topik": [
+                {
+                    "id": 0,
+                    "size": 498,
+                    "proportion": 0.1494,
+                    "keywords": [
+                        "tunjangan",
+                        "mampus",
+                        "iya",
+                        "ratakan",
+                        "basi",
+                        "mlm",
+                        "sangar",
+                        "sip"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 1,
+                    "size": 473,
+                    "proportion": 0.1419,
+                    "keywords": [
+                        "dpr",
+                        "gaji",
+                        "kerja",
+                        "tunjangan",
+                        "juta",
+                        "gajih",
+                        "uang",
+                        "makan"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 2,
+                    "size": 329,
+                    "proportion": 0.0987,
+                    "keywords": [
+                        "bangga",
+                        "sekolah",
+                        "sukses",
+                        "tua",
+                        "nakal",
+                        "bahagia",
+                        "siswa",
+                        "pintar"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 3,
+                    "size": 288,
+                    "proportion": 0.0864,
+                    "keywords": [
+                        "papua",
+                        "opm",
+                        "tumpas",
+                        "perang",
+                        "senjata",
+                        "tewas",
+                        "pasukan",
+                        "harga"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 4,
+                    "size": 282,
+                    "proportion": 0.0846,
+                    "keywords": [
+                        "bravo",
+                        "jaya",
+                        "bajra",
+                        "tni",
+                        "brigade",
+                        "beravo",
+                        "yonif",
+                        "linud"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 5,
+                    "size": 206,
+                    "proportion": 0.0618,
+                    "keywords": [
+                        "kayu",
+                        "ampun",
+                        "granat",
+                        "habis",
+                        "senjata",
+                        "wes",
+                        "coba",
+                        "abrik"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 6,
+                    "size": 163,
+                    "proportion": 0.0489,
+                    "keywords": [
+                        "mantap",
+                        "keren",
+                        "mantab",
+                        "bangsupport",
+                        "lihatnyaas",
+                        "mantull",
+                        "kereng",
+                        "tenan"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 7,
+                    "size": 153,
+                    "proportion": 0.0459,
+                    "keywords": [
+                        "semoga",
+                        "aamiin",
+                        "amin",
+                        "selamat",
+                        "amiin",
+                        "yra",
+                        "robbal",
+                        "aminn"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 8,
+                    "size": 128,
+                    "proportion": 0.0384,
+                    "keywords": [
+                        "mantap",
+                        "semangat",
+                        "tniku",
+                        "brravo",
+                        "mantabzz",
+                        "tninya",
+                        "nkribravotni",
+                        "somoga"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 9,
+                    "size": 51,
+                    "proportion": 0.0153,
+                    "keywords": [
+                        "alhamdulillah",
+                        "bersyukur",
+                        "kerukunan",
+                        "alhamdulilah",
+                        "dlu",
+                        "selamat",
+                        "hebat",
+                        "aman"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 10,
+                    "size": 50,
+                    "proportion": 0.015,
+                    "keywords": [
+                        "semangat",
+                        "yu",
+                        "truss",
+                        "kawan",
+                        "selaluu",
+                        "teruss",
+                        "dukung",
+                        "ayo"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 11,
+                    "size": 30,
+                    "proportion": 0.009,
+                    "keywords": [
+                        "wok",
+                        "alaa",
+                        "mempertarukan",
+                        "simen",
+                        "kaau",
+                        "mihak",
+                        "dahmenya",
+                        "kerusia"
+                    ],
+                    "label": null
+                }
+            ],
+            "label_topik_ai": null,
+            "pmi_teratas": [
+                {
+                    "pmi": 4.8805,
+                    "aspect": "nkri",
+                    "topic_id": 11,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 4.1435,
+                    "aspect": "oknum",
+                    "topic_id": 10,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 4.1149,
+                    "aspect": "nkri",
+                    "topic_id": 9,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.8805,
+                    "aspect": "duit",
+                    "topic_id": 11,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.7285,
+                    "aspect": "polri",
+                    "topic_id": 10,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.4386,
+                    "aspect": "komando",
+                    "topic_id": 6,
+                    "co_occurrences": 2
+                },
+                {
+                    "pmi": 3.1588,
+                    "aspect": "bra",
+                    "topic_id": 4,
+                    "co_occurrences": 19
+                },
+                {
+                    "pmi": 3.0104,
+                    "aspect": "siswa",
+                    "topic_id": 2,
+                    "co_occurrences": 4
+                },
+                {
+                    "pmi": 3.0104,
+                    "aspect": "murid",
+                    "topic_id": 2,
+                    "co_occurrences": 6
+                },
+                {
+                    "pmi": 3.0104,
+                    "aspect": "sekolah",
+                    "topic_id": 2,
+                    "co_occurrences": 5
+                }
+            ],
+            "ai_interpretations_bagian": [],
+            "segment_columns": [
+                "Video Title"
+            ]
+        },
+        {
+            "id": 2,
+            "lembaga": "Presiden",
+            "teks": 1858,
+            "kosong": 65,
+            "dinilai": 1793,
+            "sentimen": {
+                "positive": 577,
+                "neutral": 317,
+                "negative": 899
+            },
+            "sentimen_persen": {
+                "positive": 32.18,
+                "neutral": 17.68,
+                "negative": 50.14
+            },
+            "keyakinan_median": 0.9472,
+            "keyakinan_rerata": 0.9037,
+            "porsi_di_bawah_0_90": 21.81,
+            "jumlah_jenis_aspek": 209,
+            "aspek_teratas": [
+                {
+                    "aspect": "rakyat",
+                    "count": 289,
+                    "sentiments": {
+                        "positive": 36.3,
+                        "neutral": 13.5,
+                        "negative": 50.2
+                    }
+                },
+                {
+                    "aspect": "korupsi",
+                    "count": 160,
+                    "sentiments": {
+                        "positive": 3.8,
+                        "neutral": 15,
+                        "negative": 81.3
+                    }
+                },
+                {
+                    "aspect": "negara",
+                    "count": 120,
+                    "sentiments": {
+                        "positive": 20.8,
+                        "neutral": 16.7,
+                        "negative": 62.5
+                    }
+                },
+                {
+                    "aspect": "uang",
+                    "count": 94,
+                    "sentiments": {
+                        "positive": 3.2,
+                        "neutral": 34,
+                        "negative": 62.8
+                    }
+                },
+                {
+                    "aspect": "pajak",
+                    "count": 78,
+                    "sentiments": {
+                        "positive": 57.7,
+                        "neutral": 28.2,
+                        "negative": 14.1
+                    }
+                },
+                {
+                    "aspect": "koruptor",
+                    "count": 75,
+                    "sentiments": {
+                        "positive": 8,
+                        "neutral": 2.7,
+                        "negative": 89.3
+                    }
+                },
+                {
+                    "aspect": "masyarakat",
+                    "count": 58,
+                    "sentiments": {
+                        "positive": 12.1,
+                        "neutral": 58.6,
+                        "negative": 29.3
+                    }
+                },
+                {
+                    "aspect": "anggaran",
+                    "count": 55,
+                    "sentiments": {
+                        "positive": 9.1,
+                        "neutral": 7.3,
+                        "negative": 83.6
+                    }
+                },
+                {
+                    "aspect": "hukum",
+                    "count": 54,
+                    "sentiments": {
+                        "positive": 5.6,
+                        "neutral": 9.3,
+                        "negative": 85.2
+                    }
+                },
+                {
+                    "aspect": "program",
+                    "count": 38,
+                    "sentiments": {
+                        "positive": 81.6,
+                        "neutral": 0,
+                        "negative": 18.4
+                    }
+                }
+            ],
+            "topik": [
+                {
+                    "id": 0,
+                    "size": 1656,
+                    "proportion": 0.9246,
+                    "keywords": [
+                        "sehat",
+                        "mbg",
+                        "makan",
+                        "semoga",
+                        "koruptor",
+                        "uang",
+                        "maju",
+                        "daerah"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 1,
+                    "size": 44,
+                    "proportion": 0.0246,
+                    "keywords": [
+                        "prov",
+                        "utara",
+                        "kab",
+                        "nagari",
+                        "sumbar",
+                        "pupuk",
+                        "bapenda",
+                        "disdukcapil"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 2,
+                    "size": 31,
+                    "proportion": 0.0173,
+                    "keywords": [
+                        "hadir",
+                        "bunda",
+                        "absen",
+                        "catering",
+                        "acara",
+                        "simak",
+                        "lawak",
+                        "hadirr"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 3,
+                    "size": 27,
+                    "proportion": 0.0151,
+                    "keywords": [
+                        "pajak",
+                        "bny",
+                        "kredibel",
+                        "independen",
+                        "seleksinya",
+                        "sistem",
+                        "membayar",
+                        "korupsi"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 4,
+                    "size": 26,
+                    "proportion": 0.0145,
+                    "keywords": [
+                        "sman",
+                        "nuril",
+                        "rusdi",
+                        "windiani",
+                        "wulandari",
+                        "rahmaniah",
+                        "yulius",
+                        "purwaningrum"
+                    ],
+                    "label": null
+                }
+            ],
+            "label_topik_ai": null,
+            "pmi_teratas": [
+                {
+                    "pmi": 5.8534,
+                    "aspect": "politik",
+                    "topic_id": 3,
+                    "co_occurrences": 21
+                },
+                {
+                    "pmi": 5.8534,
+                    "aspect": "tni",
+                    "topic_id": 3,
+                    "co_occurrences": 21
+                },
+                {
+                    "pmi": 5.3939,
+                    "aspect": "pajak",
+                    "topic_id": 3,
+                    "co_occurrences": 21
+                },
+                {
+                    "pmi": 5.3415,
+                    "aspect": "pupuk",
+                    "topic_id": 1,
+                    "co_occurrences": 7
+                },
+                {
+                    "pmi": 5.2289,
+                    "aspect": "program",
+                    "topic_id": 3,
+                    "co_occurrences": 21
+                },
+                {
+                    "pmi": 4.9465,
+                    "aspect": "anggaran",
+                    "topic_id": 3,
+                    "co_occurrences": 21
+                },
+                {
+                    "pmi": 4.8907,
+                    "aspect": "masyarakat",
+                    "topic_id": 3,
+                    "co_occurrences": 22
+                },
+                {
+                    "pmi": 4.4484,
+                    "aspect": "harga",
+                    "topic_id": 1,
+                    "co_occurrences": 7
+                },
+                {
+                    "pmi": 4.1164,
+                    "aspect": "uang",
+                    "topic_id": 3,
+                    "co_occurrences": 21
+                },
+                {
+                    "pmi": 3.7241,
+                    "aspect": "korupsi",
+                    "topic_id": 3,
+                    "co_occurrences": 21
+                }
+            ],
+            "ai_interpretations_bagian": [],
+            "segment_columns": [
+                "Video Title"
+            ]
+        },
+        {
+            "id": 3,
+            "lembaga": "Kejaksaan Agung",
+            "teks": 1493,
+            "kosong": 11,
+            "dinilai": 1482,
+            "sentimen": {
+                "positive": 130,
+                "neutral": 170,
+                "negative": 1182
+            },
+            "sentimen_persen": {
+                "positive": 8.77,
+                "neutral": 11.47,
+                "negative": 79.76
+            },
+            "keyakinan_median": 0.954,
+            "keyakinan_rerata": 0.9221,
+            "porsi_di_bawah_0_90": 14.51,
+            "jumlah_jenis_aspek": 157,
+            "aspek_teratas": [
+                {
+                    "aspect": "korupsi",
+                    "count": 376,
+                    "sentiments": {
+                        "positive": 2.4,
+                        "neutral": 1.3,
+                        "negative": 96.3
+                    }
+                },
+                {
+                    "aspect": "rakyat",
+                    "count": 238,
+                    "sentiments": {
+                        "positive": 8.4,
+                        "neutral": 8.8,
+                        "negative": 82.8
+                    }
+                },
+                {
+                    "aspect": "hukum",
+                    "count": 222,
+                    "sentiments": {
+                        "positive": 5,
+                        "neutral": 4.1,
+                        "negative": 91
+                    }
+                },
+                {
+                    "aspect": "koruptor",
+                    "count": 163,
+                    "sentiments": {
+                        "positive": 1.8,
+                        "neutral": 4.9,
+                        "negative": 93.3
+                    }
+                },
+                {
+                    "aspect": "negara",
+                    "count": 131,
+                    "sentiments": {
+                        "positive": 10.7,
+                        "neutral": 9.9,
+                        "negative": 79.4
+                    }
+                },
+                {
+                    "aspect": "uang",
+                    "count": 112,
+                    "sentiments": {
+                        "positive": 7.1,
+                        "neutral": 9.8,
+                        "negative": 83
+                    }
+                },
+                {
+                    "aspect": "pejabat",
+                    "count": 72,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 9.7,
+                        "negative": 90.3
+                    }
+                },
+                {
+                    "aspect": "duit",
+                    "count": 45,
+                    "sentiments": {
+                        "positive": 13.3,
+                        "neutral": 8.9,
+                        "negative": 77.8
+                    }
+                },
+                {
+                    "aspect": "kpk",
+                    "count": 39,
+                    "sentiments": {
+                        "positive": 7.7,
+                        "neutral": 15.4,
+                        "negative": 76.9
+                    }
+                },
+                {
+                    "aspect": "pemerintah",
+                    "count": 36,
+                    "sentiments": {
+                        "positive": 5.6,
+                        "neutral": 13.9,
+                        "negative": 80.6
+                    }
+                }
+            ],
+            "topik": [
+                {
+                    "id": 0,
+                    "size": 152,
+                    "proportion": 0.1031,
+                    "keywords": [
+                        "termul",
+                        "formalitas",
+                        "indah",
+                        "drama",
+                        "daerah",
+                        "semoga",
+                        "licik",
+                        "senitron"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 1,
+                    "size": 145,
+                    "proportion": 0.0983,
+                    "keywords": [
+                        "uang",
+                        "proyek",
+                        "bangkrut",
+                        "lahan",
+                        "kalikong",
+                        "triliun",
+                        "berantas",
+                        "pajak"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 2,
+                    "size": 142,
+                    "proportion": 0.0963,
+                    "keywords": [
+                        "bubarin",
+                        "bubarkan",
+                        "mbg",
+                        "bnget",
+                        "bubarno",
+                        "manteep",
+                        "menyusul",
+                        "nggedabrus"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 3,
+                    "size": 115,
+                    "proportion": 0.078,
+                    "keywords": [
+                        "jokowi",
+                        "sahkan",
+                        "lantik",
+                        "luhut",
+                        "sidak",
+                        "dpr",
+                        "uud",
+                        "hebohnya"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 4,
+                    "size": 111,
+                    "proportion": 0.0753,
+                    "keywords": [
+                        "juta",
+                        "umkm",
+                        "menu",
+                        "sehat",
+                        "potong",
+                        "manfaatnya",
+                        "kampung",
+                        "jual"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 5,
+                    "size": 91,
+                    "proportion": 0.0617,
+                    "keywords": [
+                        "indonesia",
+                        "dpr",
+                        "negara",
+                        "budaya",
+                        "miskinkan",
+                        "uang",
+                        "kerja",
+                        "berat"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 6,
+                    "size": 90,
+                    "proportion": 0.061,
+                    "keywords": [
+                        "mantap",
+                        "hore",
+                        "joss",
+                        "mampus",
+                        "haduhh",
+                        "uhui",
+                        "baiyoh",
+                        "wwkkwkwk"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 7,
+                    "size": 88,
+                    "proportion": 0.0597,
+                    "keywords": [
+                        "duit",
+                        "wes",
+                        "berkedok",
+                        "gamau",
+                        "wae",
+                        "pulangin",
+                        "sebutin",
+                        "tangkep"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 8,
+                    "size": 78,
+                    "proportion": 0.0529,
+                    "keywords": [
+                        "bgn",
+                        "pdhl",
+                        "smg",
+                        "cmn",
+                        "mending",
+                        "sppgnya",
+                        "maksain",
+                        "kliatanya"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 9,
+                    "size": 70,
+                    "proportion": 0.0475,
+                    "keywords": [
+                        "mati",
+                        "miskinkan",
+                        "tangkap",
+                        "kluar",
+                        "sebejat",
+                        "semoga",
+                        "harta",
+                        "rampas"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 10,
+                    "size": 69,
+                    "proportion": 0.0468,
+                    "keywords": [
+                        "mati",
+                        "tua",
+                        "kapok",
+                        "benderang",
+                        "jera",
+                        "prustasi",
+                        "nular",
+                        "berjaya"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 11,
+                    "size": 62,
+                    "proportion": 0.042,
+                    "keywords": [
+                        "biadab",
+                        "konoha",
+                        "alhamdulillah",
+                        "dongeng",
+                        "sepandai",
+                        "maling",
+                        "mabrur",
+                        "pagi"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 12,
+                    "size": 59,
+                    "proportion": 0.04,
+                    "keywords": [
+                        "berkedok",
+                        "dukung",
+                        "maling",
+                        "dingin",
+                        "payah",
+                        "dikonoha",
+                        "dijeruji",
+                        "jokower"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 13,
+                    "size": 57,
+                    "proportion": 0.0386,
+                    "keywords": [
+                        "tangkap",
+                        "kawal",
+                        "propinsi",
+                        "pengalihan",
+                        "bolo",
+                        "gorontalo",
+                        "investor",
+                        "alabama"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 14,
+                    "size": 56,
+                    "proportion": 0.038,
+                    "keywords": [
+                        "kopdes",
+                        "bentar",
+                        "jampidsus",
+                        "anying",
+                        "daeraj",
+                        "dijogetin",
+                        "joao",
+                        "palluka"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 15,
+                    "size": 52,
+                    "proportion": 0.0353,
+                    "keywords": [
+                        "menciptakan",
+                        "proyek",
+                        "mbbadogg",
+                        "adalalah",
+                        "lanjutken",
+                        "labrak",
+                        "korur",
+                        "kopdesmp"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 16,
+                    "size": 38,
+                    "proportion": 0.0258,
+                    "keywords": [
+                        "mati",
+                        "modar",
+                        "mamtap",
+                        "membiarlan",
+                        "penghianat",
+                        "plis",
+                        "siplister",
+                        "slamat"
+                    ],
+                    "label": null
+                }
+            ],
+            "label_topik_ai": null,
+            "pmi_teratas": [
+                {
+                    "pmi": 4.2411,
+                    "aspect": "gedung",
+                    "topic_id": 15,
+                    "co_occurrences": 2
+                },
+                {
+                    "pmi": 4.0187,
+                    "aspect": "pemerintahan",
+                    "topic_id": 5,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 3.7321,
+                    "aspect": "umkm",
+                    "topic_id": 4,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 3.7321,
+                    "aspect": "sekolah",
+                    "topic_id": 4,
+                    "co_occurrences": 5
+                },
+                {
+                    "pmi": 3.2817,
+                    "aspect": "pegawai",
+                    "topic_id": 5,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 3.2411,
+                    "aspect": "pengadaan",
+                    "topic_id": 15,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.096,
+                    "aspect": "dprd",
+                    "topic_id": 3,
+                    "co_occurrences": 2
+                },
+                {
+                    "pmi": 3.0891,
+                    "aspect": "program",
+                    "topic_id": 15,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 3.0187,
+                    "aspect": "partai",
+                    "topic_id": 5,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 3.0187,
+                    "aspect": "biaya",
+                    "topic_id": 5,
+                    "co_occurrences": 2
+                }
+            ],
+            "ai_interpretations_bagian": [],
+            "segment_columns": [
+                "Video Title"
+            ]
+        },
+        {
+            "id": 4,
+            "lembaga": "Komisi Pemberantasan Korupsi",
+            "teks": 368,
+            "kosong": 1,
+            "dinilai": 367,
+            "sentimen": {
+                "positive": 70,
+                "neutral": 188,
+                "negative": 109
+            },
+            "sentimen_persen": {
+                "positive": 19.07,
+                "neutral": 51.23,
+                "negative": 29.7
+            },
+            "keyakinan_median": 0.9481,
+            "keyakinan_rerata": 0.9155,
+            "porsi_di_bawah_0_90": 13.62,
+            "jumlah_jenis_aspek": 65,
+            "aspek_teratas": [
+                {
+                    "aspect": "kpk",
+                    "count": 39,
+                    "sentiments": {
+                        "positive": 20.5,
+                        "neutral": 33.3,
+                        "negative": 46.2
+                    }
+                },
+                {
+                    "aspect": "korupsi",
+                    "count": 33,
+                    "sentiments": {
+                        "positive": 6.1,
+                        "neutral": 9.1,
+                        "negative": 84.8
+                    }
+                },
+                {
+                    "aspect": "koruptor",
+                    "count": 17,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 5.9,
+                        "negative": 94.1
+                    }
+                },
+                {
+                    "aspect": "pejabat",
+                    "count": 16,
+                    "sentiments": {
+                        "positive": 6.3,
+                        "neutral": 12.5,
+                        "negative": 81.3
+                    }
+                },
+                {
+                    "aspect": "uang",
+                    "count": 16,
+                    "sentiments": {
+                        "positive": 6.3,
+                        "neutral": 50,
+                        "negative": 43.8
+                    }
+                },
+                {
+                    "aspect": "hukum",
+                    "count": 11,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 9.1,
+                        "negative": 90.9
+                    }
+                },
+                {
+                    "aspect": "rakyat",
+                    "count": 10,
+                    "sentiments": {
+                        "positive": 30,
+                        "neutral": 0,
+                        "negative": 70
+                    }
+                },
+                {
+                    "aspect": "jabatan",
+                    "count": 10,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 60,
+                        "negative": 40
+                    }
+                },
+                {
+                    "aspect": "smpn",
+                    "count": 9,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 100,
+                        "negative": 0
+                    }
+                },
+                {
+                    "aspect": "negara",
+                    "count": 8,
+                    "sentiments": {
+                        "positive": 50,
+                        "neutral": 12.5,
+                        "negative": 37.5
+                    }
+                }
+            ],
+            "topik": [
+                {
+                    "id": 0,
+                    "size": 127,
+                    "proportion": 0.3479,
+                    "keywords": [
+                        "desa",
+                        "pati",
+                        "kpk",
+                        "uang",
+                        "kinerja",
+                        "maling",
+                        "kabupaten",
+                        "sudewo"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 1,
+                    "size": 59,
+                    "proportion": 0.1616,
+                    "keywords": [
+                        "kec",
+                        "sd",
+                        "tapanuli",
+                        "kab",
+                        "merawan",
+                        "kampar",
+                        "bajangan",
+                        "dolok"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 2,
+                    "size": 50,
+                    "proportion": 0.137,
+                    "keywords": [
+                        "ayo",
+                        "hadir",
+                        "munawaroh",
+                        "sugiati",
+                        "mental",
+                        "rossika",
+                        "biyoh",
+                        "biadab"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 3,
+                    "size": 31,
+                    "proportion": 0.0849,
+                    "keywords": [
+                        "madiun",
+                        "semangat",
+                        "kejutan",
+                        "lhoo",
+                        "malteng",
+                        "mantab",
+                        "ngaliman",
+                        "ngunan"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 4,
+                    "size": 24,
+                    "proportion": 0.0658,
+                    "keywords": [
+                        "presensinya",
+                        "email",
+                        "absen",
+                        "maaf",
+                        "ngisi",
+                        "webinar",
+                        "otomatisasi",
+                        "infonya"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 5,
+                    "size": 12,
+                    "proportion": 0.0329,
+                    "keywords": [
+                        "kejujuran",
+                        "tanamkan",
+                        "berperilaku",
+                        "munafik",
+                        "bersih",
+                        "diusut",
+                        "semangat",
+                        "koruptor"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 6,
+                    "size": 12,
+                    "proportion": 0.0329,
+                    "keywords": [
+                        "berakhlak",
+                        "semoga",
+                        "muliah",
+                        "muda",
+                        "aamiin",
+                        "tanamankan",
+                        "upaya",
+                        "webinar"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 7,
+                    "size": 8,
+                    "proportion": 0.0219,
+                    "keywords": [
+                        "ngalupolo",
+                        "anarewa",
+                        "amabi",
+                        "wangu",
+                        "mislita",
+                        "ntt",
+                        "veneranda",
+                        "oefeto"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 8,
+                    "size": 6,
+                    "proportion": 0.0164,
+                    "keywords": [
+                        "cangkringmalang",
+                        "gelanggang",
+                        "singingi",
+                        "mulyamekar",
+                        "mtsn",
+                        "marwan",
+                        "kenongo",
+                        "magetan"
+                    ],
+                    "label": null
+                }
+            ],
+            "label_topik_ai": null,
+            "pmi_teratas": [
+                {
+                    "pmi": 3.777,
+                    "aspect": "sdn",
+                    "topic_id": 8,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.777,
+                    "aspect": "sertifikat",
+                    "topic_id": 4,
+                    "co_occurrences": 5
+                },
+                {
+                    "pmi": 3.777,
+                    "aspect": "link",
+                    "topic_id": 4,
+                    "co_occurrences": 5
+                },
+                {
+                    "pmi": 3.4077,
+                    "aspect": "smpn",
+                    "topic_id": 3,
+                    "co_occurrences": 4
+                },
+                {
+                    "pmi": 2.4551,
+                    "aspect": "korupsi",
+                    "topic_id": 6,
+                    "co_occurrences": 5
+                },
+                {
+                    "pmi": 2.4551,
+                    "aspect": "negara",
+                    "topic_id": 6,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 2.192,
+                    "aspect": "perangkat",
+                    "topic_id": 4,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 2.0643,
+                    "aspect": "sdn",
+                    "topic_id": 1,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 1.9696,
+                    "aspect": "rakyat",
+                    "topic_id": 6,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 1.9696,
+                    "aspect": "koruptor",
+                    "topic_id": 5,
+                    "co_occurrences": 2
+                }
+            ],
+            "ai_interpretations_bagian": [],
+            "segment_columns": [
+                "Video Title"
+            ]
+        },
+        {
+            "id": 5,
+            "lembaga": "Kepolisian Republik Indonesia",
+            "teks": 340,
+            "kosong": 5,
+            "dinilai": 335,
+            "sentimen": {
+                "positive": 43,
+                "neutral": 55,
+                "negative": 237
+            },
+            "sentimen_persen": {
+                "positive": 12.84,
+                "neutral": 16.42,
+                "negative": 70.75
+            },
+            "keyakinan_median": 0.9481,
+            "keyakinan_rerata": 0.9076,
+            "porsi_di_bawah_0_90": 21.19,
+            "jumlah_jenis_aspek": 70,
+            "aspek_teratas": [
+                {
+                    "aspect": "polisi",
+                    "count": 81,
+                    "sentiments": {
+                        "positive": 8.6,
+                        "neutral": 13.6,
+                        "negative": 77.8
+                    }
+                },
+                {
+                    "aspect": "rakyat",
+                    "count": 45,
+                    "sentiments": {
+                        "positive": 17.8,
+                        "neutral": 13.3,
+                        "negative": 68.9
+                    }
+                },
+                {
+                    "aspect": "hukum",
+                    "count": 26,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 23.1,
+                        "negative": 76.9
+                    }
+                },
+                {
+                    "aspect": "negara",
+                    "count": 25,
+                    "sentiments": {
+                        "positive": 12,
+                        "neutral": 44,
+                        "negative": 44
+                    }
+                },
+                {
+                    "aspect": "masyarakat",
+                    "count": 19,
+                    "sentiments": {
+                        "positive": 15.8,
+                        "neutral": 21.1,
+                        "negative": 63.2
+                    }
+                },
+                {
+                    "aspect": "dpr",
+                    "count": 18,
+                    "sentiments": {
+                        "positive": 11.1,
+                        "neutral": 16.7,
+                        "negative": 72.2
+                    }
+                },
+                {
+                    "aspect": "tni",
+                    "count": 16,
+                    "sentiments": {
+                        "positive": 6.3,
+                        "neutral": 31.3,
+                        "negative": 62.5
+                    }
+                },
+                {
+                    "aspect": "uang",
+                    "count": 14,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 28.6,
+                        "negative": 71.4
+                    }
+                },
+                {
+                    "aspect": "polri",
+                    "count": 14,
+                    "sentiments": {
+                        "positive": 21.4,
+                        "neutral": 50,
+                        "negative": 28.6
+                    }
+                },
+                {
+                    "aspect": "pemerintah",
+                    "count": 9,
+                    "sentiments": {
+                        "positive": 0,
+                        "neutral": 22.2,
+                        "negative": 77.8
+                    }
+                }
+            ],
+            "topik": [
+                {
+                    "id": 0,
+                    "size": 95,
+                    "proportion": 0.2853,
+                    "keywords": [
+                        "biar",
+                        "kapolri",
+                        "begal",
+                        "semoga",
+                        "reformasi",
+                        "tangkap",
+                        "pemilu",
+                        "petaninya"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 1,
+                    "size": 57,
+                    "proportion": 0.1712,
+                    "keywords": [
+                        "kembali",
+                        "pbojong",
+                        "nepalkan",
+                        "porli",
+                        "hoaak",
+                        "haox",
+                        "woyy",
+                        "proposional"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 2,
+                    "size": 53,
+                    "proportion": 0.1592,
+                    "keywords": [
+                        "ayo",
+                        "sebaliknya",
+                        "makan",
+                        "ditangani",
+                        "muak",
+                        "mosok",
+                        "seminggu",
+                        "penyejuk"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 3,
+                    "size": 52,
+                    "proportion": 0.1562,
+                    "keywords": [
+                        "kerja",
+                        "tugas",
+                        "militer",
+                        "masyarakat",
+                        "melayani",
+                        "negara",
+                        "bangun",
+                        "instansi"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 4,
+                    "size": 39,
+                    "proportion": 0.1171,
+                    "keywords": [
+                        "begal",
+                        "bner",
+                        "rkyt",
+                        "sruh",
+                        "so",
+                        "mantap",
+                        "kgk",
+                        "kapolrinya"
+                    ],
+                    "label": null
+                }
+            ],
+            "label_topik_ai": null,
+            "pmi_teratas": [
+                {
+                    "pmi": 2.246,
+                    "aspect": "kepolisian",
+                    "topic_id": 3,
+                    "co_occurrences": 5
+                },
+                {
+                    "pmi": 2.1871,
+                    "aspect": "koruptor",
+                    "topic_id": 3,
+                    "co_occurrences": 4
+                },
+                {
+                    "pmi": 2.094,
+                    "aspect": "korupsi",
+                    "topic_id": 3,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 1.9241,
+                    "aspect": "duit",
+                    "topic_id": 3,
+                    "co_occurrences": 4
+                },
+                {
+                    "pmi": 1.9241,
+                    "aspect": "gaji",
+                    "topic_id": 3,
+                    "co_occurrences": 2
+                },
+                {
+                    "pmi": 1.661,
+                    "aspect": "hukum",
+                    "topic_id": 3,
+                    "co_occurrences": 10
+                },
+                {
+                    "pmi": 1.5915,
+                    "aspect": "masyarakat",
+                    "topic_id": 3,
+                    "co_occurrences": 9
+                },
+                {
+                    "pmi": 1.509,
+                    "aspect": "pejabat",
+                    "topic_id": 3,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 1.509,
+                    "aspect": "hasil",
+                    "topic_id": 3,
+                    "co_occurrences": 2
+                },
+                {
+                    "pmi": 1.3391,
+                    "aspect": "duit",
+                    "topic_id": 4,
+                    "co_occurrences": 2
+                }
+            ],
+            "ai_interpretations_bagian": [],
+            "segment_columns": [
+                "Video Title"
+            ]
+        },
+        {
+            "id": 6,
+            "lembaga": "Dewan Perwakilan Rakyat",
+            "teks": 778,
+            "kosong": 7,
+            "dinilai": 771,
+            "sentimen": {
+                "positive": 164,
+                "neutral": 144,
+                "negative": 463
+            },
+            "sentimen_persen": {
+                "positive": 21.27,
+                "neutral": 18.68,
+                "negative": 60.05
+            },
+            "keyakinan_median": 0.9493,
+            "keyakinan_rerata": 0.9068,
+            "porsi_di_bawah_0_90": 20.23,
+            "jumlah_jenis_aspek": 126,
+            "aspek_teratas": [
+                {
+                    "aspect": "polisi",
+                    "count": 180,
+                    "sentiments": {
+                        "positive": 5,
+                        "neutral": 20.6,
+                        "negative": 74.4
+                    }
+                },
+                {
+                    "aspect": "rakyat",
+                    "count": 153,
+                    "sentiments": {
+                        "positive": 19,
+                        "neutral": 20.3,
+                        "negative": 60.8
+                    }
+                },
+                {
+                    "aspect": "dpr",
+                    "count": 140,
+                    "sentiments": {
+                        "positive": 5,
+                        "neutral": 24.3,
+                        "negative": 70.7
+                    }
+                },
+                {
+                    "aspect": "negara",
+                    "count": 83,
+                    "sentiments": {
+                        "positive": 2.4,
+                        "neutral": 33.7,
+                        "negative": 63.9
+                    }
+                },
+                {
+                    "aspect": "pemerintah",
+                    "count": 43,
+                    "sentiments": {
+                        "positive": 27.9,
+                        "neutral": 20.9,
+                        "negative": 51.2
+                    }
+                },
+                {
+                    "aspect": "tni",
+                    "count": 40,
+                    "sentiments": {
+                        "positive": 5,
+                        "neutral": 30,
+                        "negative": 65
+                    }
+                },
+                {
+                    "aspect": "dewan",
+                    "count": 26,
+                    "sentiments": {
+                        "positive": 11.5,
+                        "neutral": 61.5,
+                        "negative": 26.9
+                    }
+                },
+                {
+                    "aspect": "korupsi",
+                    "count": 21,
+                    "sentiments": {
+                        "positive": 4.8,
+                        "neutral": 0,
+                        "negative": 95.2
+                    }
+                },
+                {
+                    "aspect": "masyarakat",
+                    "count": 21,
+                    "sentiments": {
+                        "positive": 9.5,
+                        "neutral": 19,
+                        "negative": 71.4
+                    }
+                },
+                {
+                    "aspect": "hukum",
+                    "count": 19,
+                    "sentiments": {
+                        "positive": 10.5,
+                        "neutral": 36.8,
+                        "negative": 52.6
+                    }
+                }
+            ],
+            "topik": [
+                {
+                    "id": 0,
+                    "size": 80,
+                    "proportion": 0.1042,
+                    "keywords": [
+                        "begal",
+                        "sibuk",
+                        "rampok",
+                        "tanam",
+                        "polda",
+                        "pikun",
+                        "narkoba",
+                        "merajalela"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 1,
+                    "size": 78,
+                    "proportion": 0.1016,
+                    "keywords": [
+                        "dudung",
+                        "emosi",
+                        "kau",
+                        "enak",
+                        "skrng",
+                        "spechles",
+                        "sahroni",
+                        "ngas"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 2,
+                    "size": 61,
+                    "proportion": 0.0794,
+                    "keywords": [
+                        "buzzer",
+                        "beking",
+                        "ekinominya",
+                        "foodestate",
+                        "nyoblos",
+                        "gapapa",
+                        "ntar",
+                        "duaji"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 3,
+                    "size": 45,
+                    "proportion": 0.0586,
+                    "keywords": [
+                        "aset",
+                        "ruu",
+                        "sah",
+                        "dpr",
+                        "koruptor",
+                        "nyinyir",
+                        "bubarkan",
+                        "dengar"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 4,
+                    "size": 41,
+                    "proportion": 0.0534,
+                    "keywords": [
+                        "dewan",
+                        "teriak",
+                        "ealah",
+                        "durhaka",
+                        "hanycurkan",
+                        "hello",
+                        "nyiksa",
+                        "perwkilan"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 5,
+                    "size": 38,
+                    "proportion": 0.0495,
+                    "keywords": [
+                        "kdkmp",
+                        "pasukan",
+                        "sistem",
+                        "bantai",
+                        "disiplin",
+                        "harga",
+                        "senjata",
+                        "duit"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 6,
+                    "size": 37,
+                    "proportion": 0.0482,
+                    "keywords": [
+                        "komitmen",
+                        "cerdas",
+                        "prabowo",
+                        "kuat",
+                        "langkah",
+                        "kolaborasi",
+                        "strategis",
+                        "indonsia"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 7,
+                    "size": 32,
+                    "proportion": 0.0417,
+                    "keywords": [
+                        "jelek",
+                        "huahahaha",
+                        "propos",
+                        "amburadoel",
+                        "kepolisia",
+                        "koar",
+                        "kuoplak",
+                        "welek"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 8,
+                    "size": 32,
+                    "proportion": 0.0417,
+                    "keywords": [
+                        "modus",
+                        "sempak",
+                        "ngeri",
+                        "terbulak",
+                        "korupsi",
+                        "kenyang",
+                        "beda",
+                        "musnahkan"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 9,
+                    "size": 31,
+                    "proportion": 0.0404,
+                    "keywords": [
+                        "maju",
+                        "danrajyat",
+                        "sejahtra",
+                        "selalau",
+                        "betumbuh",
+                        "semoga",
+                        "kesejahteraan",
+                        "semangat"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 10,
+                    "size": 28,
+                    "proportion": 0.0365,
+                    "keywords": [
+                        "skck",
+                        "sprti",
+                        "tdak",
+                        "masyrkt",
+                        "progam",
+                        "sruh",
+                        "bner",
+                        "mendpt"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 11,
+                    "size": 25,
+                    "proportion": 0.0326,
+                    "keywords": [
+                        "maju",
+                        "semangat",
+                        "sehat",
+                        "lancar",
+                        "semoga",
+                        "optimis",
+                        "msntab",
+                        "majuu"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 12,
+                    "size": 21,
+                    "proportion": 0.0273,
+                    "keywords": [
+                        "panen",
+                        "singkong",
+                        "tanam",
+                        "kasihan",
+                        "jenis",
+                        "mengalami",
+                        "kesini",
+                        "malas"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 13,
+                    "size": 19,
+                    "proportion": 0.0247,
+                    "keywords": [
+                        "jagong",
+                        "jelass",
+                        "punah",
+                        "cocok",
+                        "beneran",
+                        "dibalik",
+                        "positif",
+                        "sadar"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 14,
+                    "size": 19,
+                    "proportion": 0.0247,
+                    "keywords": [
+                        "tupoksi",
+                        "parah",
+                        "polri",
+                        "kabtimnas",
+                        "dolkemin",
+                        "haurs",
+                        "polisiio",
+                        "kapolri"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 15,
+                    "size": 18,
+                    "proportion": 0.0234,
+                    "keywords": [
+                        "mantab",
+                        "wow",
+                        "hade",
+                        "keywordnya",
+                        "mantap",
+                        "keren",
+                        "asli",
+                        "kocak"
+                    ],
+                    "label": null
+                },
+                {
+                    "id": 16,
+                    "size": 17,
+                    "proportion": 0.0221,
+                    "keywords": [
+                        "wercok",
+                        "denganrakyat",
+                        "disuru",
+                        "gajih",
+                        "pdhal",
+                        "oligarki",
+                        "nyusahin",
+                        "jadiin"
+                    ],
+                    "label": null
+                }
+            ],
+            "label_topik_ai": null,
+            "pmi_teratas": [
+                {
+                    "pmi": 3.6083,
+                    "aspect": "tambang",
+                    "topic_id": 16,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.4479,
+                    "aspect": "pungli",
+                    "topic_id": 13,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.4479,
+                    "aspect": "politik",
+                    "topic_id": 14,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.3035,
+                    "aspect": "pungli",
+                    "topic_id": 12,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.2959,
+                    "aspect": "duit",
+                    "topic_id": 5,
+                    "co_occurrences": 3
+                },
+                {
+                    "pmi": 3.2808,
+                    "aspect": "lembaga",
+                    "topic_id": 8,
+                    "co_occurrences": 2
+                },
+                {
+                    "pmi": 3.2127,
+                    "aspect": "dewan",
+                    "topic_id": 4,
+                    "co_occurrences": 11
+                },
+                {
+                    "pmi": 3.1933,
+                    "aspect": "pajak",
+                    "topic_id": 16,
+                    "co_occurrences": 1
+                },
+                {
+                    "pmi": 3.1108,
+                    "aspect": "gedung",
+                    "topic_id": 7,
+                    "co_occurrences": 4
+                },
+                {
+                    "pmi": 3.0328,
+                    "aspect": "lembaga",
+                    "topic_id": 14,
+                    "co_occurrences": 1
+                }
+            ],
+            "ai_interpretations_bagian": [],
+            "segment_columns": [
+                "Video Title"
+            ]
+        }
+    ],
+    "pelatihan": [
+        {
+            "id": 1,
+            "modul": "sentiment",
+            "status": "completed",
+            "analisis": null,
+            "sampel": 218,
+            "val_size": 44,
+            "f1_delta": 0.081,
+            "metrics_before": {
+                "support": 44,
+                "accuracy": 0.5,
+                "macro_f1": 0.4759,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.375,
+                        "recall": 0.5,
+                        "support": 6,
+                        "precision": 0.3
+                    },
+                    "negative": {
+                        "f1": 0.5161,
+                        "recall": 0.5714,
+                        "support": 14,
+                        "precision": 0.4706
+                    },
+                    "positive": {
+                        "f1": 0.5366,
+                        "recall": 0.4583,
+                        "support": 24,
+                        "precision": 0.6471
+                    }
+                },
+                "weighted_f1": 0.508,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        11,
+                        5,
+                        8
+                    ],
+                    [
+                        2,
+                        3,
+                        1
+                    ],
+                    [
+                        4,
+                        2,
+                        8
+                    ]
+                ]
+            },
+            "metrics_after": {
+                "support": 44,
+                "accuracy": 0.5909,
+                "macro_f1": 0.5755,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.6154,
+                        "recall": 0.6667,
+                        "support": 6,
+                        "precision": 0.5714
+                    },
+                    "negative": {
+                        "f1": 0.4444,
+                        "recall": 0.4286,
+                        "support": 14,
+                        "precision": 0.4615
+                    },
+                    "positive": {
+                        "f1": 0.6667,
+                        "recall": 0.6667,
+                        "support": 24,
+                        "precision": 0.6667
+                    }
+                },
+                "weighted_f1": 0.589,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        16,
+                        2,
+                        6
+                    ],
+                    [
+                        1,
+                        4,
+                        1
+                    ],
+                    [
+                        7,
+                        1,
+                        6
+                    ]
+                ]
+            },
+            "temperature": 1,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 03:08:31",
+            "selesai": "2026-09-10 03:12:13",
+            "durasi": "00:03:40"
+        },
+        {
+            "id": 2,
+            "modul": "aspect",
+            "status": "completed",
+            "analisis": null,
+            "sampel": 186,
+            "val_size": 37,
+            "f1_delta": 0.1384,
+            "metrics_before": {
+                "f1": 0.6815,
+                "recall": 0.5542,
+                "precision": 0.8846,
+                "aspect_token_support": 83
+            },
+            "metrics_after": {
+                "f1": 0.8199,
+                "recall": 0.7952,
+                "precision": 0.8462,
+                "aspect_token_support": 83
+            },
+            "temperature": null,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 03:08:31",
+            "selesai": "2026-09-10 03:16:20",
+            "durasi": "00:04:07"
+        },
+        {
+            "id": 5,
+            "modul": "sentiment",
+            "status": "completed",
+            "analisis": 2,
+            "sampel": 330,
+            "val_size": 66,
+            "f1_delta": 0.145,
+            "metrics_before": {
+                "support": 66,
+                "accuracy": 0.5455,
+                "macro_f1": 0.4926,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.3333,
+                        "recall": 0.4444,
+                        "support": 9,
+                        "precision": 0.2667
+                    },
+                    "negative": {
+                        "f1": 0.4878,
+                        "recall": 0.4348,
+                        "support": 23,
+                        "precision": 0.5556
+                    },
+                    "positive": {
+                        "f1": 0.6567,
+                        "recall": 0.6471,
+                        "support": 34,
+                        "precision": 0.6667
+                    }
+                },
+                "weighted_f1": 0.5538,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        22,
+                        6,
+                        6
+                    ],
+                    [
+                        3,
+                        4,
+                        2
+                    ],
+                    [
+                        8,
+                        5,
+                        10
+                    ]
+                ]
+            },
+            "metrics_after": {
+                "support": 66,
+                "accuracy": 0.697,
+                "macro_f1": 0.6708,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.5882,
+                        "recall": 0.5556,
+                        "support": 9,
+                        "precision": 0.625
+                    },
+                    "negative": {
+                        "f1": 0.6909,
+                        "recall": 0.8261,
+                        "support": 23,
+                        "precision": 0.5938
+                    },
+                    "positive": {
+                        "f1": 0.7333,
+                        "recall": 0.6471,
+                        "support": 34,
+                        "precision": 0.8462
+                    }
+                },
+                "weighted_f1": 0.6988,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        22,
+                        0,
+                        12
+                    ],
+                    [
+                        3,
+                        5,
+                        1
+                    ],
+                    [
+                        1,
+                        3,
+                        19
+                    ]
+                ]
+            },
+            "temperature": 2.3238,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 12:49:43",
+            "selesai": "2026-09-10 13:00:20",
+            "durasi": "00:10:34"
+        },
+        {
+            "id": 6,
+            "modul": "sentiment",
+            "status": "completed",
+            "analisis": 2,
+            "sampel": 330,
+            "val_size": 66,
+            "f1_delta": 0.145,
+            "metrics_before": {
+                "support": 66,
+                "accuracy": 0.5455,
+                "macro_f1": 0.4926,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.3333,
+                        "recall": 0.4444,
+                        "support": 9,
+                        "precision": 0.2667
+                    },
+                    "negative": {
+                        "f1": 0.4878,
+                        "recall": 0.4348,
+                        "support": 23,
+                        "precision": 0.5556
+                    },
+                    "positive": {
+                        "f1": 0.6567,
+                        "recall": 0.6471,
+                        "support": 34,
+                        "precision": 0.6667
+                    }
+                },
+                "weighted_f1": 0.5538,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        22,
+                        6,
+                        6
+                    ],
+                    [
+                        3,
+                        4,
+                        2
+                    ],
+                    [
+                        8,
+                        5,
+                        10
+                    ]
+                ]
+            },
+            "metrics_after": {
+                "support": 66,
+                "accuracy": 0.697,
+                "macro_f1": 0.6708,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.5882,
+                        "recall": 0.5556,
+                        "support": 9,
+                        "precision": 0.625
+                    },
+                    "negative": {
+                        "f1": 0.6909,
+                        "recall": 0.8261,
+                        "support": 23,
+                        "precision": 0.5938
+                    },
+                    "positive": {
+                        "f1": 0.7333,
+                        "recall": 0.6471,
+                        "support": 34,
+                        "precision": 0.8462
+                    }
+                },
+                "weighted_f1": 0.6988,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        22,
+                        0,
+                        12
+                    ],
+                    [
+                        3,
+                        5,
+                        1
+                    ],
+                    [
+                        1,
+                        3,
+                        19
+                    ]
+                ]
+            },
+            "temperature": 2.3238,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 15:08:39",
+            "selesai": "2026-09-10 15:18:26",
+            "durasi": "00:09:46"
+        },
+        {
+            "id": 7,
+            "modul": "aspect",
+            "status": "completed",
+            "analisis": 2,
+            "sampel": 279,
+            "val_size": 56,
+            "f1_delta": 0.4219,
+            "metrics_before": {
+                "f1": 0.4145,
+                "recall": 0.2651,
+                "precision": 0.95,
+                "aspect_token_support": 215
+            },
+            "metrics_after": {
+                "f1": 0.8364,
+                "recall": 0.8326,
+                "precision": 0.8404,
+                "aspect_token_support": 215
+            },
+            "temperature": null,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 15:08:40",
+            "selesai": "2026-09-10 15:24:04",
+            "durasi": "00:05:38"
+        },
+        {
+            "id": 8,
+            "modul": "sentiment",
+            "status": "completed",
+            "analisis": 3,
+            "sampel": 392,
+            "val_size": 79,
+            "f1_delta": 0.2053,
+            "metrics_before": {
+                "support": 79,
+                "accuracy": 0.5316,
+                "macro_f1": 0.4702,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.2143,
+                        "recall": 0.3333,
+                        "support": 9,
+                        "precision": 0.1579
+                    },
+                    "negative": {
+                        "f1": 0.5397,
+                        "recall": 0.4857,
+                        "support": 35,
+                        "precision": 0.6071
+                    },
+                    "positive": {
+                        "f1": 0.6567,
+                        "recall": 0.6286,
+                        "support": 35,
+                        "precision": 0.6875
+                    }
+                },
+                "weighted_f1": 0.5545,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        22,
+                        7,
+                        6
+                    ],
+                    [
+                        1,
+                        3,
+                        5
+                    ],
+                    [
+                        9,
+                        9,
+                        17
+                    ]
+                ]
+            },
+            "metrics_after": {
+                "support": 79,
+                "accuracy": 0.7595,
+                "macro_f1": 0.7367,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.6667,
+                        "recall": 0.8889,
+                        "support": 9,
+                        "precision": 0.5333
+                    },
+                    "negative": {
+                        "f1": 0.6984,
+                        "recall": 0.6286,
+                        "support": 35,
+                        "precision": 0.7857
+                    },
+                    "positive": {
+                        "f1": 0.8451,
+                        "recall": 0.8571,
+                        "support": 35,
+                        "precision": 0.8333
+                    }
+                },
+                "weighted_f1": 0.7598,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        30,
+                        0,
+                        5
+                    ],
+                    [
+                        0,
+                        8,
+                        1
+                    ],
+                    [
+                        6,
+                        7,
+                        22
+                    ]
+                ]
+            },
+            "temperature": 1.6729,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 15:30:43",
+            "selesai": "2026-09-10 15:42:05",
+            "durasi": "00:11:22"
+        },
+        {
+            "id": 9,
+            "modul": "aspect",
+            "status": "completed",
+            "analisis": 3,
+            "sampel": 329,
+            "val_size": 66,
+            "f1_delta": 0.3351,
+            "metrics_before": {
+                "f1": 0.474,
+                "recall": 0.3106,
+                "precision": 1,
+                "aspect_token_support": 235
+            },
+            "metrics_after": {
+                "f1": 0.8091,
+                "recall": 0.7574,
+                "precision": 0.8683,
+                "aspect_token_support": 235
+            },
+            "temperature": null,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 15:30:43",
+            "selesai": "2026-09-10 15:48:25",
+            "durasi": "00:06:20"
+        },
+        {
+            "id": 10,
+            "modul": "sentiment",
+            "status": "completed",
+            "analisis": 4,
+            "sampel": 413,
+            "val_size": 83,
+            "f1_delta": 0.3378,
+            "metrics_before": {
+                "support": 83,
+                "accuracy": 0.4578,
+                "macro_f1": 0.4395,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.3077,
+                        "recall": 0.5455,
+                        "support": 11,
+                        "precision": 0.2143
+                    },
+                    "negative": {
+                        "f1": 0.4776,
+                        "recall": 0.4444,
+                        "support": 36,
+                        "precision": 0.5161
+                    },
+                    "positive": {
+                        "f1": 0.5333,
+                        "recall": 0.4444,
+                        "support": 36,
+                        "precision": 0.6667
+                    }
+                },
+                "weighted_f1": 0.4793,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        16,
+                        10,
+                        10
+                    ],
+                    [
+                        0,
+                        6,
+                        5
+                    ],
+                    [
+                        8,
+                        12,
+                        16
+                    ]
+                ]
+            },
+            "metrics_after": {
+                "support": 83,
+                "accuracy": 0.8193,
+                "macro_f1": 0.8132,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.8,
+                        "recall": 0.9091,
+                        "support": 11,
+                        "precision": 0.7143
+                    },
+                    "negative": {
+                        "f1": 0.8395,
+                        "recall": 0.9444,
+                        "support": 36,
+                        "precision": 0.7556
+                    },
+                    "positive": {
+                        "f1": 0.8,
+                        "recall": 0.6667,
+                        "support": 36,
+                        "precision": 1
+                    }
+                },
+                "weighted_f1": 0.8171,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        24,
+                        2,
+                        10
+                    ],
+                    [
+                        0,
+                        10,
+                        1
+                    ],
+                    [
+                        0,
+                        2,
+                        34
+                    ]
+                ]
+            },
+            "temperature": 0.7617,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 16:08:05",
+            "selesai": "2026-09-10 16:20:10",
+            "durasi": "00:12:03"
+        },
+        {
+            "id": 11,
+            "modul": "aspect",
+            "status": "completed",
+            "analisis": 4,
+            "sampel": 342,
+            "val_size": 69,
+            "f1_delta": 0.3107,
+            "metrics_before": {
+                "f1": 0.4912,
+                "recall": 0.3256,
+                "precision": 1,
+                "aspect_token_support": 215
+            },
+            "metrics_after": {
+                "f1": 0.8019,
+                "recall": 0.8,
+                "precision": 0.8037,
+                "aspect_token_support": 215
+            },
+            "temperature": null,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 16:08:05",
+            "selesai": "2026-09-10 16:26:40",
+            "durasi": "00:06:30"
+        },
+        {
+            "id": 12,
+            "modul": "sentiment",
+            "status": "completed",
+            "analisis": 5,
+            "sampel": 435,
+            "val_size": 87,
+            "f1_delta": 0.2894,
+            "metrics_before": {
+                "support": 87,
+                "accuracy": 0.4483,
+                "macro_f1": 0.4005,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.1875,
+                        "recall": 0.2727,
+                        "support": 11,
+                        "precision": 0.1429
+                    },
+                    "negative": {
+                        "f1": 0.5067,
+                        "recall": 0.4872,
+                        "support": 39,
+                        "precision": 0.5278
+                    },
+                    "positive": {
+                        "f1": 0.5075,
+                        "recall": 0.4595,
+                        "support": 37,
+                        "precision": 0.5667
+                    }
+                },
+                "weighted_f1": 0.4667,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        17,
+                        9,
+                        11
+                    ],
+                    [
+                        2,
+                        3,
+                        6
+                    ],
+                    [
+                        11,
+                        9,
+                        19
+                    ]
+                ]
+            },
+            "metrics_after": {
+                "support": 87,
+                "accuracy": 0.7586,
+                "macro_f1": 0.749,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.7273,
+                        "recall": 0.7273,
+                        "support": 11,
+                        "precision": 0.7273
+                    },
+                    "negative": {
+                        "f1": 0.7778,
+                        "recall": 0.8974,
+                        "support": 39,
+                        "precision": 0.6863
+                    },
+                    "positive": {
+                        "f1": 0.7419,
+                        "recall": 0.6216,
+                        "support": 37,
+                        "precision": 0.92
+                    }
+                },
+                "weighted_f1": 0.7561,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        23,
+                        0,
+                        14
+                    ],
+                    [
+                        1,
+                        8,
+                        2
+                    ],
+                    [
+                        1,
+                        3,
+                        35
+                    ]
+                ]
+            },
+            "temperature": 4.1704,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 16:32:32",
+            "selesai": "2026-09-10 16:45:22",
+            "durasi": "00:12:47"
+        },
+        {
+            "id": 13,
+            "modul": "aspect",
+            "status": "completed",
+            "analisis": 5,
+            "sampel": 359,
+            "val_size": 72,
+            "f1_delta": 0.3885,
+            "metrics_before": {
+                "f1": 0.4512,
+                "recall": 0.2926,
+                "precision": 0.9853,
+                "aspect_token_support": 229
+            },
+            "metrics_after": {
+                "f1": 0.8397,
+                "recall": 0.8122,
+                "precision": 0.8692,
+                "aspect_token_support": 229
+            },
+            "temperature": null,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 16:32:32",
+            "selesai": "2026-09-10 16:51:55",
+            "durasi": "00:06:33"
+        },
+        {
+            "id": 14,
+            "modul": "sentiment",
+            "status": "completed",
+            "analisis": 6,
+            "sampel": 481,
+            "val_size": 96,
+            "f1_delta": 0.2196,
+            "metrics_before": {
+                "support": 96,
+                "accuracy": 0.5312,
+                "macro_f1": 0.4926,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.3158,
+                        "recall": 0.5,
+                        "support": 12,
+                        "precision": 0.2308
+                    },
+                    "negative": {
+                        "f1": 0.619,
+                        "recall": 0.5778,
+                        "support": 45,
+                        "precision": 0.6667
+                    },
+                    "positive": {
+                        "f1": 0.5429,
+                        "recall": 0.4872,
+                        "support": 39,
+                        "precision": 0.6129
+                    }
+                },
+                "weighted_f1": 0.5502,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        19,
+                        10,
+                        10
+                    ],
+                    [
+                        3,
+                        6,
+                        3
+                    ],
+                    [
+                        9,
+                        10,
+                        26
+                    ]
+                ]
+            },
+            "metrics_after": {
+                "support": 96,
+                "accuracy": 0.7708,
+                "macro_f1": 0.772,
+                "per_class": {
+                    "neutral": {
+                        "f1": 0.7826,
+                        "recall": 0.75,
+                        "support": 12,
+                        "precision": 0.8182
+                    },
+                    "negative": {
+                        "f1": 0.7835,
+                        "recall": 0.8444,
+                        "support": 45,
+                        "precision": 0.7308
+                    },
+                    "positive": {
+                        "f1": 0.75,
+                        "recall": 0.6923,
+                        "support": 39,
+                        "precision": 0.8182
+                    }
+                },
+                "weighted_f1": 0.7698,
+                "confusion_labels": [
+                    "positive",
+                    "neutral",
+                    "negative"
+                ],
+                "confusion_matrix": [
+                    [
+                        27,
+                        1,
+                        11
+                    ],
+                    [
+                        0,
+                        9,
+                        3
+                    ],
+                    [
+                        6,
+                        1,
+                        38
+                    ]
+                ]
+            },
+            "temperature": 0.9336,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 16:55:50",
+            "selesai": "2026-09-10 17:09:21",
+            "durasi": "00:13:30"
+        },
+        {
+            "id": 15,
+            "modul": "aspect",
+            "status": "completed",
+            "analisis": 6,
+            "sampel": 398,
+            "val_size": 79,
+            "f1_delta": 0.3605,
+            "metrics_before": {
+                "f1": 0.4239,
+                "recall": 0.271,
+                "precision": 0.9726,
+                "aspect_token_support": 262
+            },
+            "metrics_after": {
+                "f1": 0.7844,
+                "recall": 0.729,
+                "precision": 0.8489,
+                "aspect_token_support": 262
+            },
+            "temperature": null,
+            "saved": true,
+            "rejected_for_regression": false,
+            "dibuat": "2026-09-10 16:55:50",
+            "selesai": "2026-09-10 17:16:23",
+            "durasi": "00:07:02"
+        }
+    ],
+    "koreksi_per_analisis": [
+        {
+            "text_analysis_id": 1,
+            "n": 218,
+            "berubah": "106"
+        },
+        {
+            "text_analysis_id": 2,
+            "n": 112,
+            "berubah": "58"
+        },
+        {
+            "text_analysis_id": 3,
+            "n": 62,
+            "berubah": "31"
+        },
+        {
+            "text_analysis_id": 4,
+            "n": 21,
+            "berubah": "12"
+        },
+        {
+            "text_analysis_id": 5,
+            "n": 22,
+            "berubah": "10"
+        },
+        {
+            "text_analysis_id": 6,
+            "n": 46,
+            "berubah": "20"
+        }
+    ],
+    "runs": [
+        {
+            "id": 2,
+            "iteration": 0,
+            "label": "Iterasi 0 - sebelum active learning",
+            "status": "completed",
+            "model_training_id": null,
+            "started_at": "2026-09-10T02:47:31.000000Z",
+            "completed_at": "2026-09-10T02:48:37.000000Z"
+        },
+        {
+            "id": 3,
+            "iteration": 1,
+            "label": "Iterasi 1 - setelah 218 koreksi TNI",
+            "status": "completed",
+            "model_training_id": 2,
+            "started_at": "2026-09-10T03:22:01.000000Z",
+            "completed_at": "2026-09-10T03:23:40.000000Z"
+        },
+        {
+            "id": 5,
+            "iteration": 2,
+            "label": "Iterasi 2 - setelah +112 koreksi Presiden",
+            "status": "completed",
+            "model_training_id": 7,
+            "started_at": "2026-09-10T15:27:03.000000Z",
+            "completed_at": "2026-09-10T15:28:42.000000Z"
+        },
+        {
+            "id": 6,
+            "iteration": 3,
+            "label": "Iterasi 3 - setelah +62 koreksi Kejaksaan Agung",
+            "status": "completed",
+            "model_training_id": 9,
+            "started_at": "2026-09-10T15:48:46.000000Z",
+            "completed_at": "2026-09-10T15:50:15.000000Z"
+        },
+        {
+            "id": 7,
+            "iteration": 4,
+            "label": "Iterasi 4 - setelah +21 koreksi Komisi Pemberantasan Korupsi",
+            "status": "completed",
+            "model_training_id": 11,
+            "started_at": "2026-09-10T16:27:53.000000Z",
+            "completed_at": "2026-09-10T16:29:25.000000Z"
+        },
+        {
+            "id": 8,
+            "iteration": 5,
+            "label": "Iterasi 5 - setelah +22 koreksi Kepolisian Republik Indonesia",
+            "status": "completed",
+            "model_training_id": 13,
+            "started_at": "2026-09-10T16:52:23.000000Z",
+            "completed_at": "2026-09-10T16:53:57.000000Z"
+        },
+        {
+            "id": 9,
+            "iteration": 6,
+            "label": "Iterasi 6 - setelah +46 koreksi Dewan Perwakilan Rakyat",
+            "status": "completed",
+            "model_training_id": 15,
+            "started_at": "2026-09-10T17:19:27.000000Z",
+            "completed_at": "2026-09-10T17:20:58.000000Z"
+        }
+    ]
+}

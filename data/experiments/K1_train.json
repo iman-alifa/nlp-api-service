@@ -1,0 +1,77 @@
+{
+  "epochs_completed": 3,
+  "train_loss": [
+    0.2425,
+    0.0301,
+    0.0123
+  ],
+  "val_loss": [],
+  "model_path": "C:\\Skripsi\\nlp-api-service\\models_exp\\k1_youtube\\aspect_retrained.pt",
+  "saved": true,
+  "rejected_for_regression": false,
+  "seed": 42,
+  "train_size": 707,
+  "val_size": 178,
+  "split": "stratified_80_20",
+  "batch_size": 16,
+  "learning_rate": 3e-05,
+  "best_epoch": 3,
+  "epoch_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.2425,
+      "precision": 0.9094,
+      "recall": 0.9613,
+      "f1": 0.9346,
+      "aspect_token_support": 543
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.0301,
+      "precision": 0.9595,
+      "recall": 0.9595,
+      "f1": 0.9595,
+      "aspect_token_support": 543
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.0123,
+      "precision": 0.9545,
+      "recall": 0.9669,
+      "f1": 0.9607,
+      "aspect_token_support": 543
+    }
+  ],
+  "metrics_before": {
+    "precision": 0.1033,
+    "recall": 0.453,
+    "f1": 0.1683,
+    "aspect_token_support": 543
+  },
+  "metrics_after": {
+    "precision": 0.9545,
+    "recall": 0.9669,
+    "f1": 0.9607,
+    "aspect_token_support": 543
+  },
+  "f1_delta": 0.7924,
+  "bio_report": {
+    "samples_received": 885,
+    "samples_used": 885,
+    "samples_with_gold_spans": 0,
+    "samples_skipped_empty": 0,
+    "aspects_total": 2692,
+    "aspects_unmatched": 2,
+    "aspects_unmatched_pct": 0.07,
+    "samples_all_O": 0,
+    "unmatched_examples": [
+      {
+        "text": "Milyuner aja di BULLY MENKEU??\nAPALG RAKYAT JELATA😂😂\nİDEALNYA NEGARA MELİNDUNGİ SELURUH RAKYAT NYA BUKAN JD PREMAN UTK R",
+        "unmatched_aspects": [
+          "EGARA ",
+          "YAT NY"
+        ]
+      }
+    ]
+  }
+}

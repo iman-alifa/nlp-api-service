@@ -1,0 +1,155 @@
+[
+  {
+    "c_v": 0.51,
+    "c_npmi": -0.4578,
+    "diversity": 0.7789,
+    "outlier_rate": 0.0305,
+    "num_topics": 19,
+    "largest_share": 0.1537,
+    "k": 19
+  },
+  {
+    "c_v": 0.5123,
+    "c_npmi": -0.4592,
+    "diversity": 0.8176,
+    "outlier_rate": 0.0339,
+    "num_topics": 17,
+    "largest_share": 0.1548,
+    "k": 18
+  },
+  {
+    "c_v": 0.4946,
+    "c_npmi": -0.4529,
+    "diversity": 0.8063,
+    "outlier_rate": 0.0362,
+    "num_topics": 16,
+    "largest_share": 0.1571,
+    "k": 17
+  },
+  {
+    "c_v": 0.5021,
+    "c_npmi": -0.4491,
+    "diversity": 0.8333,
+    "outlier_rate": 0.035,
+    "num_topics": 15,
+    "largest_share": 0.1571,
+    "k": 16
+  },
+  {
+    "c_v": 0.4952,
+    "c_npmi": -0.4331,
+    "diversity": 0.85,
+    "outlier_rate": 0.0373,
+    "num_topics": 14,
+    "largest_share": 0.1785,
+    "k": 15
+  },
+  {
+    "c_v": 0.4955,
+    "c_npmi": -0.4227,
+    "diversity": 0.8231,
+    "outlier_rate": 0.0395,
+    "num_topics": 13,
+    "largest_share": 0.2147,
+    "k": 14
+  },
+  {
+    "c_v": 0.4982,
+    "c_npmi": -0.4102,
+    "diversity": 0.8167,
+    "outlier_rate": 0.0339,
+    "num_topics": 12,
+    "largest_share": 0.3243,
+    "k": 13
+  },
+  {
+    "c_v": 0.485,
+    "c_npmi": -0.3937,
+    "diversity": 0.8273,
+    "outlier_rate": 0.0339,
+    "num_topics": 11,
+    "largest_share": 0.3514,
+    "k": 12
+  },
+  {
+    "c_v": 0.4971,
+    "c_npmi": -0.398,
+    "diversity": 0.86,
+    "outlier_rate": 0.0384,
+    "num_topics": 10,
+    "largest_share": 0.4056,
+    "k": 11
+  },
+  {
+    "c_v": 0.4988,
+    "c_npmi": -0.4043,
+    "diversity": 0.8667,
+    "outlier_rate": 0.0418,
+    "num_topics": 9,
+    "largest_share": 0.409,
+    "k": 10
+  },
+  {
+    "c_v": 0.4918,
+    "c_npmi": -0.3772,
+    "diversity": 0.8625,
+    "outlier_rate": 0.0486,
+    "num_topics": 8,
+    "largest_share": 0.4045,
+    "k": 9
+  },
+  {
+    "c_v": 0.5182,
+    "c_npmi": -0.4173,
+    "diversity": 0.8857,
+    "outlier_rate": 0.0395,
+    "num_topics": 7,
+    "largest_share": 0.5853,
+    "k": 8
+  },
+  {
+    "c_v": 0.4759,
+    "c_npmi": -0.3973,
+    "diversity": 0.8833,
+    "outlier_rate": 0.0407,
+    "num_topics": 6,
+    "largest_share": 0.6463,
+    "k": 7
+  },
+  {
+    "c_v": 0.4683,
+    "c_npmi": -0.3454,
+    "diversity": 0.86,
+    "outlier_rate": 0.0203,
+    "num_topics": 5,
+    "largest_share": 0.7785,
+    "k": 6
+  },
+  {
+    "c_v": 0.4382,
+    "c_npmi": -0.3246,
+    "diversity": 0.875,
+    "outlier_rate": 0.0249,
+    "num_topics": 4,
+    "largest_share": 0.7785,
+    "k": 5
+  },
+  {
+    "c_v": 0.4619,
+    "c_npmi": -0.3898,
+    "diversity": 1.0,
+    "outlier_rate": 0.035,
+    "num_topics": 3,
+    "largest_share": 0.7808,
+    "k": 4
+  },
+  {
+    "c_v": 0.4798,
+    "c_npmi": -0.4416,
+    "diversity": 1.0,
+    "outlier_rate": 0.1164,
+    "num_topics": 2,
+    "largest_share": 0.7446,
+    "k": 3
+  }
+]

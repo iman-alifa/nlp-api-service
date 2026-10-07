@@ -1,0 +1,171 @@
+{
+  "in_domain": [
+    {
+      "model": "mdhugol/indonesia-bert-sentiment-classification",
+      "accuracy": 0.908,
+      "macro_f1": 0.8762,
+      "weighted_f1": 0.9034,
+      "ece": 0.0489,
+      "seconds": 16.6,
+      "per_class": {
+        "positive": {
+          "precision": 0.8909,
+          "recall": 0.9423,
+          "f1": 0.9159,
+          "support": 208
+        },
+        "neutral": {
+          "precision": 0.9194,
+          "recall": 0.6477,
+          "f1": 0.76,
+          "support": 88
+        },
+        "negative": {
+          "precision": 0.922,
+          "recall": 0.9853,
+          "f1": 0.9526,
+          "support": 204
+        }
+      },
+      "domain_distribution": {
+        "positive": 17,
+        "neutral": 18,
+        "negative": 265
+      }
+    },
+    {
+      "model": "w11wo/indonesian-roberta-base-sentiment-classifier",
+      "accuracy": 0.916,
+      "macro_f1": 0.8853,
+      "weighted_f1": 0.9116,
+      "ece": 0.0536,
+      "seconds": 15.2,
+      "per_class": {
+        "positive": {
+          "precision": 0.9041,
+          "recall": 0.9519,
+          "f1": 0.9274,
+          "support": 208
+        },
+        "neutral": {
+          "precision": 0.9355,
+          "recall": 0.6591,
+          "f1": 0.7733,
+          "support": 88
+        },
+        "negative": {
+          "precision": 0.9224,
+          "recall": 0.9902,
+          "f1": 0.9551,
+          "support": 204
+        }
+      },
+      "domain_distribution": {
+        "positive": 13,
+        "neutral": 31,
+        "negative": 256
+      }
+    },
+    {
+      "model": "ayameRushia/bert-base-indonesian-1.5G-sentiment-analysis-smsa",
+      "accuracy": 0.918,
+      "macro_f1": 0.901,
+      "weighted_f1": 0.9167,
+      "ece": 0.0642,
+      "seconds": 16.1,
+      "per_class": {
+        "positive": {
+          "precision": 0.9502,
+          "recall": 0.9183,
+          "f1": 0.934,
+          "support": 208
+        },
+        "neutral": {
+          "precision": 0.9067,
+          "recall": 0.7727,
+          "f1": 0.8344,
+          "support": 88
+        },
+        "negative": {
+          "precision": 0.8929,
+          "recall": 0.9804,
+          "f1": 0.9346,
+          "support": 204
+        }
+      },
+      "domain_distribution": {
+        "positive": 14,
+        "neutral": 32,
+        "negative": 254
+      }
+    },
+    {
+      "model": "crypter70/IndoBERT-Sentiment-Analysis",
+      "accuracy": 0.912,
+      "macro_f1": 0.8855,
+      "weighted_f1": 0.9091,
+      "ece": 0.0827,
+      "seconds": 15.1,
+      "per_class": {
+        "positive": {
+          "precision": 0.9147,
+          "recall": 0.9279,
+          "f1": 0.9212,
+          "support": 208
+        },
+        "neutral": {
+          "precision": 0.8857,
+          "recall": 0.7045,
+          "f1": 0.7848,
+          "support": 88
+        },
+        "negative": {
+          "precision": 0.9178,
+          "recall": 0.9853,
+          "f1": 0.9504,
+          "support": 204
+        }
+      },
+      "domain_distribution": {
+        "positive": 20,
+        "neutral": 24,
+        "negative": 256
+      }
+    },
+    {
+      "model": "taufiqdp/indonesian-sentiment",
+      "accuracy": 0.902,
+      "macro_f1": 0.8611,
+      "weighted_f1": 0.8947,
+      "ece": 0.0728,
+      "seconds": 16.1,
+      "per_class": {
+        "positive": {
+          "precision": 0.8884,
+          "recall": 0.9567,
+          "f1": 0.9213,
+          "support": 208
+        },
+        "neutral": {
+          "precision": 0.9444,
+          "recall": 0.5795,
+          "f1": 0.7183,
+          "support": 88
+        },
+        "negative": {
+          "precision": 0.9054,
+          "recall": 0.9853,
+          "f1": 0.9437,
+          "support": 204
+        }
+      },
+      "domain_distribution": {
+        "positive": 24,
+        "neutral": 21,
+        "negative": 255
+      }
+    }
+  ],
+  "domain_corpus": "data/external/youtube/test_gold.json",
+  "domain_n": 300
+}

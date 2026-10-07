@@ -1,0 +1,70 @@
+{
+  "epochs_completed": 3,
+  "train_loss": [
+    0.3245,
+    0.1326,
+    0.0715
+  ],
+  "val_loss": [],
+  "model_path": "C:\\Skripsi\\nlp-api-service\\models_exp\\k4_combined\\aspect_retrained.pt",
+  "saved": true,
+  "rejected_for_regression": false,
+  "seed": 42,
+  "train_size": 2435,
+  "val_size": 1020,
+  "split": "official",
+  "batch_size": 16,
+  "learning_rate": 3e-05,
+  "class_weights": [],
+  "best_epoch": 3,
+  "epoch_history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.3245,
+      "precision": 0.8264,
+      "recall": 0.9595,
+      "f1": 0.888,
+      "aspect_token_support": 4148
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.1326,
+      "precision": 0.8888,
+      "recall": 0.9094,
+      "f1": 0.899,
+      "aspect_token_support": 4148
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.0715,
+      "precision": 0.8871,
+      "recall": 0.9301,
+      "f1": 0.9081,
+      "aspect_token_support": 4148
+    }
+  ],
+  "metrics_before": {
+    "precision": 0.2514,
+    "recall": 0.5776,
+    "f1": 0.3503,
+    "aspect_token_support": 4148
+  },
+  "metrics_after": {
+    "precision": 0.8871,
+    "recall": 0.9301,
+    "f1": 0.9081,
+    "aspect_token_support": 4148
+  },
+  "f1_delta": 0.5578,
+  "bio_report": {
+    "samples_received": 2435,
+    "samples_used": 2435,
+    "samples_with_gold_spans": 2435,
+    "samples_skipped_empty": 0,
+    "aspects_total": 6784,
+    "aspects_unmatched": 0,
+    "aspects_unmatched_pct": 0.0,
+    "samples_all_O": 0,
+    "unmatched_examples": []
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "c_v": 0.3759,
+    "c_npmi": -0.3218,
+    "diversity": 0.8077,
+    "outlier_rate": 0.0621,
+    "num_topics": 13,
+    "variant": "ctfidf-polos",
+    "top_words": "ikn, bangun, bangkrut, bantu, bikin, kaya"
+  },
+  {
+    "c_v": 0.516,
+    "c_npmi": -0.4514,
+    "diversity": 0.9692,
+    "outlier_rate": 0.0814,
+    "num_topics": 13,
+    "variant": "ctfidf-reduce",
+    "top_words": "ikn, bangun, bangkrut, pusing, upacara, pelihara"
+  },
+  {
+    "c_v": 0.3905,
+    "c_npmi": -0.3617,
+    "diversity": 0.8385,
+    "outlier_rate": 0.078,
+    "num_topics": 13,
+    "variant": "ctfidf-bm25",
+    "top_words": "ikn, bangun, bangkrut, bikin, bantu, kaya"
+  },
+  {
+    "c_v": 0.5103,
+    "c_npmi": -0.4589,
+    "diversity": 0.9846,
+    "outlier_rate": 0.087,
+    "num_topics": 13,
+    "variant": "ctfidf-bm25+reduce",
+    "top_words": "ikn, bangun, bangkrut, pusing, upacara, pelihara"
+  },
+  {
+    "c_v": 0.5477,
+    "c_npmi": -0.4871,
+    "diversity": 0.9385,
+    "outlier_rate": 0.0814,
+    "num_topics": 13,
+    "variant": "mmr-0.3",
+    "top_words": "bangun, bangkrut, pusing, ngemis, bikin, minjam"
+  },
+  {
+    "c_v": 0.5422,
+    "c_npmi": -0.4783,
+    "diversity": 0.9385,
+    "outlier_rate": 0.0814,
+    "num_topics": 13,
+    "variant": "mmr-0.5",
+    "top_words": "ikn, bangun, bangkrut, pusing, ngemis, minjam"
+  },
+  {
+    "c_v": 0.4613,
+    "c_npmi": -0.4076,
+    "diversity": 0.7692,
+    "outlier_rate": 0.0814,
+    "num_topics": 13,
+    "variant": "keybert",
+    "top_words": "bangun, bodoh, bangkrut, berantas, pusing, malas"
+  },
+  {
+    "c_v": 0.4613,
+    "c_npmi": -0.4076,
+    "diversity": 0.7692,
+    "outlier_rate": 0.0814,
+    "num_topics": 13,
+    "variant": "keybert+mmr",
+    "top_words": "bangun, bodoh, bangkrut, berantas, pusing, malas"
+  }
+]

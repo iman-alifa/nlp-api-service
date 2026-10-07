@@ -1,0 +1,3457 @@
+[
+ {
+  "text": "Hapus subsidi BBM karena tidak berguna untuk rakyat miskin",
+  "spans": [
+   {
+    "start": 6,
+    "end": 13,
+    "surface": "subsidi"
+   },
+   {
+    "start": 14,
+    "end": 17,
+    "surface": "BBM"
+   },
+   {
+    "start": 45,
+    "end": 51,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Rakyat pajak pun duit d korup  JD buat apa rakyat pajak",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 7,
+    "end": 12,
+    "surface": "pajak"
+   },
+   {
+    "start": 17,
+    "end": 21,
+    "surface": "duit"
+   },
+   {
+    "start": 43,
+    "end": 49,
+    "surface": "rakyat"
+   },
+   {
+    "start": 50,
+    "end": 55,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Rakyat  selalu d koreksi .enak yah pejabat hidup nya makmur mewah.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 35,
+    "end": 42,
+    "surface": "pejabat"
+   }
+  ]
+ },
+ {
+  "text": "MAMPUS\nJangankan buat bayar pajak buat hidup sehari hari aja susah",
+  "spans": [
+   {
+    "start": 28,
+    "end": 33,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "pengusaha yang di kejar pajaknya.. rakyat bayar pajak dpr sesuka hati mengunakan uang hasil pajak dari rakyat ..semua kebutuhan dpr dan pejabat lain nya di perbesar trus.. dirjen pajak suruh periksa pengusaha2 besar bayar pajak penuh atau tidak.. jangan rakyat di salahkan trus",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "surface": "pengusaha"
+   },
+   {
+    "start": 35,
+    "end": 41,
+    "surface": "rakyat"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "surface": "pajak"
+   },
+   {
+    "start": 54,
+    "end": 57,
+    "surface": "dpr"
+   },
+   {
+    "start": 81,
+    "end": 85,
+    "surface": "uang"
+   },
+   {
+    "start": 86,
+    "end": 91,
+    "surface": "hasil"
+   },
+   {
+    "start": 92,
+    "end": 97,
+    "surface": "pajak"
+   },
+   {
+    "start": 103,
+    "end": 109,
+    "surface": "rakyat"
+   },
+   {
+    "start": 128,
+    "end": 131,
+    "surface": "dpr"
+   },
+   {
+    "start": 136,
+    "end": 143,
+    "surface": "pejabat"
+   },
+   {
+    "start": 172,
+    "end": 184,
+    "surface": "dirjen pajak"
+   },
+   {
+    "start": 222,
+    "end": 227,
+    "surface": "pajak"
+   },
+   {
+    "start": 254,
+    "end": 260,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "DPR urus aja dulu tuh pengesahan UU hukum mati buwat para koruptor,,kalo mau rakyat sejahtera dan taat bayar pajak..",
+  "spans": [
+   {
+    "start": 0,
+    "end": 3,
+    "surface": "DPR"
+   },
+   {
+    "start": 36,
+    "end": 41,
+    "surface": "hukum"
+   },
+   {
+    "start": 58,
+    "end": 66,
+    "surface": "koruptor"
+   },
+   {
+    "start": 77,
+    "end": 83,
+    "surface": "rakyat"
+   },
+   {
+    "start": 109,
+    "end": 114,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Saya yakin 1000% kalo koruptor di hukum mati,pasti rakyat taat pajak karna tidak takut uang pajak habis di korupsi..",
+  "spans": [
+   {
+    "start": 22,
+    "end": 30,
+    "surface": "koruptor"
+   },
+   {
+    "start": 34,
+    "end": 39,
+    "surface": "hukum"
+   },
+   {
+    "start": 51,
+    "end": 57,
+    "surface": "rakyat"
+   },
+   {
+    "start": 63,
+    "end": 68,
+    "surface": "pajak"
+   },
+   {
+    "start": 87,
+    "end": 91,
+    "surface": "uang"
+   },
+   {
+    "start": 92,
+    "end": 97,
+    "surface": "pajak"
+   },
+   {
+    "start": 107,
+    "end": 114,
+    "surface": "korupsi"
+   }
+  ]
+ },
+ {
+  "text": "Rakyat bukanya tidak patuh untuk bayar pajak,tapi takut uang pajak habis di korupsi,harus uang pajak dari rakyat kebali lagi kerakyat ini mah uang pajak dari rakyat habis di makan koruptor..",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 39,
+    "end": 44,
+    "surface": "pajak"
+   },
+   {
+    "start": 56,
+    "end": 60,
+    "surface": "uang"
+   },
+   {
+    "start": 61,
+    "end": 66,
+    "surface": "pajak"
+   },
+   {
+    "start": 76,
+    "end": 83,
+    "surface": "korupsi"
+   },
+   {
+    "start": 90,
+    "end": 94,
+    "surface": "uang"
+   },
+   {
+    "start": 95,
+    "end": 100,
+    "surface": "pajak"
+   },
+   {
+    "start": 106,
+    "end": 112,
+    "surface": "rakyat"
+   },
+   {
+    "start": 142,
+    "end": 146,
+    "surface": "uang"
+   },
+   {
+    "start": 147,
+    "end": 152,
+    "surface": "pajak"
+   },
+   {
+    "start": 158,
+    "end": 164,
+    "surface": "rakyat"
+   },
+   {
+    "start": 180,
+    "end": 188,
+    "surface": "koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Anggota dewan yang menikmati keringat rakyat kecil dan mendapatkan nikmat kemewahan dan tidak amanah semoga mendapat azab pedih diakhirat..",
+  "spans": [
+   {
+    "start": 8,
+    "end": 13,
+    "surface": "dewan"
+   },
+   {
+    "start": 38,
+    "end": 44,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Kalian yg korupsi, rakyat yg disalahkan, dasar Dajjal",
+  "spans": [
+   {
+    "start": 10,
+    "end": 17,
+    "surface": "korupsi"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Buat apa bayar pajak kalau uangnya juga bakal dikorupsi😅",
+  "spans": [
+   {
+    "start": 15,
+    "end": 20,
+    "surface": "pajak"
+   },
+   {
+    "start": 27,
+    "end": 34,
+    "surface": "uangnya"
+   }
+  ]
+ },
+ {
+  "text": "Karena DPR byk yg mental maling,maka perpajakan Rakyat Indonesia kompak utk membaikot pajak,.....??!",
+  "spans": [
+   {
+    "start": 7,
+    "end": 10,
+    "surface": "DPR"
+   },
+   {
+    "start": 48,
+    "end": 54,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 86,
+    "end": 91,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Rakyat dikejar2 suruh bayar pajak Sedangkan Pajak buat pejabat ditanggung oleh negara😂",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 28,
+    "end": 33,
+    "surface": "pajak"
+   },
+   {
+    "start": 44,
+    "end": 49,
+    "surface": "Pajak"
+   },
+   {
+    "start": 55,
+    "end": 62,
+    "surface": "pejabat"
+   },
+   {
+    "start": 79,
+    "end": 85,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Korupsi terlalu banyak 😢😢😢",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "surface": "Korupsi"
+   }
+  ]
+ },
+ {
+  "text": "Pajak rakyat buat gaji pejabat kayak Sahroni",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Pajak"
+   },
+   {
+    "start": 6,
+    "end": 12,
+    "surface": "rakyat"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "surface": "gaji"
+   },
+   {
+    "start": 23,
+    "end": 30,
+    "surface": "pejabat"
+   }
+  ]
+ },
+ {
+  "text": "Rakyat terus yg di jadikan keset miris negeri ini.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Buat apa byar pajak kalok ujungnya di korupsi",
+  "spans": [
+   {
+    "start": 14,
+    "end": 19,
+    "surface": "pajak"
+   },
+   {
+    "start": 38,
+    "end": 45,
+    "surface": "korupsi"
+   }
+  ]
+ },
+ {
+  "text": "Koq bisa yaa para pejabat bisa ngomong seperti itu di Tengah bobroknya moral Dan mental para pejabat korup yang sangat terang2an.. pajak boleh saja target asal korupsi NOL... Malu lah narik pajak tapi ujung2nya dikorupsi",
+  "spans": [
+   {
+    "start": 18,
+    "end": 25,
+    "surface": "pejabat"
+   },
+   {
+    "start": 93,
+    "end": 100,
+    "surface": "pejabat"
+   },
+   {
+    "start": 131,
+    "end": 136,
+    "surface": "pajak"
+   },
+   {
+    "start": 160,
+    "end": 167,
+    "surface": "korupsi"
+   },
+   {
+    "start": 190,
+    "end": 195,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Ngapain bayar pajak entar di koropsiin. Rakyat susah payah Yari duit terus di korupsiin, mending uangnya buat makan, buat bayar listrik, buat anak sekolah. Itu aja masih kurang, buat apa bayar pajak, seharunya yg bayar pajak itu para pejabat, bukan rakyat kecil yg penghasilannya pas2 San.",
+  "spans": [
+   {
+    "start": 14,
+    "end": 19,
+    "surface": "pajak"
+   },
+   {
+    "start": 40,
+    "end": 46,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 64,
+    "end": 68,
+    "surface": "duit"
+   },
+   {
+    "start": 97,
+    "end": 104,
+    "surface": "uangnya"
+   },
+   {
+    "start": 128,
+    "end": 135,
+    "surface": "listrik"
+   },
+   {
+    "start": 147,
+    "end": 154,
+    "surface": "sekolah"
+   },
+   {
+    "start": 193,
+    "end": 198,
+    "surface": "pajak"
+   },
+   {
+    "start": 219,
+    "end": 224,
+    "surface": "pajak"
+   },
+   {
+    "start": 234,
+    "end": 241,
+    "surface": "pejabat"
+   },
+   {
+    "start": 249,
+    "end": 255,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "BAYAR PAJAK UANGNYA UNTUK FOYA-FOYA OKNUM PEJABAT🤬🤬",
+  "spans": [
+   {
+    "start": 6,
+    "end": 11,
+    "surface": "PAJAK"
+   },
+   {
+    "start": 12,
+    "end": 19,
+    "surface": "UANGNYA"
+   },
+   {
+    "start": 36,
+    "end": 41,
+    "surface": "OKNUM"
+   },
+   {
+    "start": 42,
+    "end": 49,
+    "surface": "PEJABAT"
+   }
+  ]
+ },
+ {
+  "text": "Ribuan trilyun dikorupsi ,koruptor di lindungi ketum parpol dan DPR",
+  "spans": [
+   {
+    "start": 26,
+    "end": 34,
+    "surface": "koruptor"
+   },
+   {
+    "start": 53,
+    "end": 59,
+    "surface": "parpol"
+   },
+   {
+    "start": 64,
+    "end": 67,
+    "surface": "DPR"
+   }
+  ]
+ },
+ {
+  "text": "Rakyat bijak bayar pajak \nOrang pajak nilep pajak",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 19,
+    "end": 24,
+    "surface": "pajak"
+   },
+   {
+    "start": 32,
+    "end": 37,
+    "surface": "pajak"
+   },
+   {
+    "start": 44,
+    "end": 49,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Yang pasti uang nya di maling",
+  "spans": [
+   {
+    "start": 11,
+    "end": 15,
+    "surface": "uang"
+   }
+  ]
+ },
+ {
+  "text": "Pemerintah jangan belanja macem2 donk. Rakyat dipikirin.... dasar t****",
+  "spans": [
+   {
+    "start": 0,
+    "end": 10,
+    "surface": "Pemerintah"
+   },
+   {
+    "start": 39,
+    "end": 45,
+    "surface": "Rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Lebih baik tidak bayar pajak ,dari pada bayar pajak ditilep DPR yg kerjanya memeras rakyat !",
+  "spans": [
+   {
+    "start": 23,
+    "end": 28,
+    "surface": "pajak"
+   },
+   {
+    "start": 46,
+    "end": 51,
+    "surface": "pajak"
+   },
+   {
+    "start": 60,
+    "end": 63,
+    "surface": "DPR"
+   },
+   {
+    "start": 84,
+    "end": 90,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Bayar pajak juga kalian korupsi anyin",
+  "spans": [
+   {
+    "start": 6,
+    "end": 11,
+    "surface": "pajak"
+   },
+   {
+    "start": 24,
+    "end": 31,
+    "surface": "korupsi"
+   }
+  ]
+ },
+ {
+  "text": "NEGARA BERMOTTO UNTUK APA DIPERMUDAH BILA BISA DIPERSULIT.... GANTIAN RAKYAT MEMBALAS.. \nBUAT APA BAYAR PAJAK KALAU CUMA DIKORUPSI!! \nNEGARA OTAKNYA CUMA BAGAIMANA MEMERAS RAKYATNYA DENGAN PAJAK!!",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "NEGARA"
+   },
+   {
+    "start": 70,
+    "end": 76,
+    "surface": "RAKYAT"
+   },
+   {
+    "start": 104,
+    "end": 109,
+    "surface": "PAJAK"
+   },
+   {
+    "start": 134,
+    "end": 140,
+    "surface": "NEGARA"
+   },
+   {
+    "start": 189,
+    "end": 194,
+    "surface": "PAJAK"
+   }
+  ]
+ },
+ {
+  "text": "Memang koruptor harus dihukum 7 kali hukuman mati biar setimpal dengan dosa mereka yg berkali2 kejam dan besarnya dosa itu sebai tanggung jawab negara terhadap rakyatnya...",
+  "spans": [
+   {
+    "start": 7,
+    "end": 15,
+    "surface": "koruptor"
+   },
+   {
+    "start": 144,
+    "end": 150,
+    "surface": "negara"
+   },
+   {
+    "start": 160,
+    "end": 169,
+    "surface": "rakyatnya"
+   }
+  ]
+ },
+ {
+  "text": "😮😮😮 SALAH SENDIRI BANTUAN BLT DI KIRIM KE BUKAN BAYAR PAJAK 😮😮😮",
+  "spans": [
+   {
+    "start": 54,
+    "end": 59,
+    "surface": "PAJAK"
+   }
+  ]
+ },
+ {
+  "text": "*KATANYA BAYAR PAJAK INDONESIA BAKALAN MAJU MANA BUKTINYA MASIH BANYAK RAKYAT MISKIN DAN KORUPSI,PAJAK HARAM ZAKAT HALAL*",
+  "spans": [
+   {
+    "start": 15,
+    "end": 20,
+    "surface": "PAJAK"
+   },
+   {
+    "start": 71,
+    "end": 77,
+    "surface": "RAKYAT"
+   },
+   {
+    "start": 89,
+    "end": 96,
+    "surface": "KORUPSI"
+   },
+   {
+    "start": 97,
+    "end": 102,
+    "surface": "PAJAK"
+   }
+  ]
+ },
+ {
+  "text": "contohin dulu para wakil rakyat apa sdh bayar pajak udah gaji gede masih minta sm negara",
+  "spans": [
+   {
+    "start": 19,
+    "end": 31,
+    "surface": "wakil rakyat"
+   },
+   {
+    "start": 46,
+    "end": 51,
+    "surface": "pajak"
+   },
+   {
+    "start": 57,
+    "end": 61,
+    "surface": "gaji"
+   },
+   {
+    "start": 82,
+    "end": 88,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Waduh gak benar nih min judulnya..rakyat yg mana. Rakyat kecil sangat patuh bayar pajak..terutama PNS.. anggota dewan mlh pajaknya dibantu pemerintah..gendheng",
+  "spans": [
+   {
+    "start": 34,
+    "end": 40,
+    "surface": "rakyat"
+   },
+   {
+    "start": 50,
+    "end": 56,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 82,
+    "end": 87,
+    "surface": "pajak"
+   },
+   {
+    "start": 112,
+    "end": 117,
+    "surface": "dewan"
+   },
+   {
+    "start": 139,
+    "end": 149,
+    "surface": "pemerintah"
+   }
+  ]
+ },
+ {
+  "text": "tah patuh karena pendapatan pengeluaran upah nya kurangggg alias tidak bisa di buat bayar pajak. apalagi kami rakyat jelata. itu di benahi dulu tolong untuk pendapatan daerah pendapatan rakyat. sejahterakan dulu rakyat. biar taat pajak. kerja gaji 70 ribu mau bayar kuliah aja kempis**. sejahterakan dulu rakyat u.",
+  "spans": [
+   {
+    "start": 90,
+    "end": 95,
+    "surface": "pajak"
+   },
+   {
+    "start": 110,
+    "end": 116,
+    "surface": "rakyat"
+   },
+   {
+    "start": 186,
+    "end": 192,
+    "surface": "rakyat"
+   },
+   {
+    "start": 212,
+    "end": 218,
+    "surface": "rakyat"
+   },
+   {
+    "start": 230,
+    "end": 235,
+    "surface": "pajak"
+   },
+   {
+    "start": 243,
+    "end": 247,
+    "surface": "gaji"
+   },
+   {
+    "start": 305,
+    "end": 311,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "ITU BELUM TERMASUK YANG KALIAN KORUPSI MBUL....OPERASIONAL PENUNJANG KEMEWAHAN KALIAN MBUL....DASAR BABU BELAGU KEBANYAKAN GAYA....",
+  "spans": [
+   {
+    "start": 31,
+    "end": 38,
+    "surface": "KORUPSI"
+   }
+  ]
+ },
+ {
+  "text": "Buat apa bayar pajak..pajak cuma di korup tikus2 pejabat...",
+  "spans": [
+   {
+    "start": 15,
+    "end": 20,
+    "surface": "pajak"
+   },
+   {
+    "start": 22,
+    "end": 27,
+    "surface": "pajak"
+   },
+   {
+    "start": 49,
+    "end": 56,
+    "surface": "pejabat"
+   }
+  ]
+ },
+ {
+  "text": "Koruptor itu dikenakan pajak 100 persen selama 40 tahun",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "Koruptor"
+   },
+   {
+    "start": 23,
+    "end": 28,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "pajak dari rakyat lagi yang dibahas😂😂😂.. dah mentok ilmunya lari2 ke wong cilik.. urus sumber daya indonesia tuh yang di colong",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "pajak"
+   },
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Pajak pajak kon tol lah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Pajak"
+   },
+   {
+    "start": 6,
+    "end": 11,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Duitnya di korupsi berjamaah sama kalian, pejabat dan dan krini2 nya koq... Ngapain masy mikirin bayar pajak yg gak jelas peruntukkannya!! Aneh!",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "surface": "Duitnya"
+   },
+   {
+    "start": 11,
+    "end": 18,
+    "surface": "korupsi"
+   },
+   {
+    "start": 42,
+    "end": 49,
+    "surface": "pejabat"
+   },
+   {
+    "start": 103,
+    "end": 108,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Ya hilang sekian ratus triliunan dari pajak kan sumbernya para pengusaha nakal dan pejabat koruptor, begitu saja kok bingung. Kalian tidak perlu drama rapat dagelan di publik 😂",
+  "spans": [
+   {
+    "start": 38,
+    "end": 43,
+    "surface": "pajak"
+   },
+   {
+    "start": 63,
+    "end": 72,
+    "surface": "pengusaha"
+   },
+   {
+    "start": 83,
+    "end": 90,
+    "surface": "pejabat"
+   },
+   {
+    "start": 91,
+    "end": 99,
+    "surface": "koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Makanya hukum mati itu koruptor. Giliran kurang setoran, rakyat lagi yang salah. Lah itu korupsi total 1000T gimana bos???",
+  "spans": [
+   {
+    "start": 8,
+    "end": 13,
+    "surface": "hukum"
+   },
+   {
+    "start": 23,
+    "end": 31,
+    "surface": "koruptor"
+   },
+   {
+    "start": 57,
+    "end": 63,
+    "surface": "rakyat"
+   },
+   {
+    "start": 89,
+    "end": 96,
+    "surface": "korupsi"
+   }
+  ]
+ },
+ {
+  "text": "ngapain bayar pajak buat dikasih ke elu pada najis banget",
+  "spans": [
+   {
+    "start": 14,
+    "end": 19,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Di pemerintah daerah duit ngendap di bank, Tau bunganya dikemanain, realisasi proyek kenapa gencar klo jabatan mau slesei yak",
+  "spans": [
+   {
+    "start": 3,
+    "end": 13,
+    "surface": "pemerintah"
+   },
+   {
+    "start": 21,
+    "end": 25,
+    "surface": "duit"
+   },
+   {
+    "start": 103,
+    "end": 110,
+    "surface": "jabatan"
+   }
+  ]
+ },
+ {
+  "text": "Rakyat lebih banyak kehilangan uang karena habis oleh maling uang negara",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 31,
+    "end": 35,
+    "surface": "uang"
+   },
+   {
+    "start": 61,
+    "end": 65,
+    "surface": "uang"
+   },
+   {
+    "start": 66,
+    "end": 72,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Hilih. Pajak ga ada manfaatnya juga. Cuma buat foya-foya para tetikus berdasi aja.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 12,
+    "surface": "Pajak"
+   }
+  ]
+ },
+ {
+  "text": "Kalau negara susah rakyat harus ikut pusing,kalau rakyat susah negara gak mau pusing",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "surface": "negara"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "surface": "rakyat"
+   },
+   {
+    "start": 50,
+    "end": 56,
+    "surface": "rakyat"
+   },
+   {
+    "start": 63,
+    "end": 69,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Klu dinegara kita ini tdk ada yg korupsi  dijamin tdk akan susah dan rakyatnya makmur",
+  "spans": [
+   {
+    "start": 33,
+    "end": 40,
+    "surface": "korupsi"
+   },
+   {
+    "start": 69,
+    "end": 78,
+    "surface": "rakyatnya"
+   }
+  ]
+ },
+ {
+  "text": "Ya allah jadikanlah saya orang kaya biar bisa bantu masyarakat. Aamiin",
+  "spans": [
+   {
+    "start": 52,
+    "end": 62,
+    "surface": "masyarakat"
+   }
+  ]
+ },
+ {
+  "text": "Kenapa negara persulit pengembalian uangnya Pak H.Hamka, sdh bantu negara, tapi juga dipersulit minta haknya.",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "surface": "negara"
+   },
+   {
+    "start": 36,
+    "end": 43,
+    "surface": "uangnya"
+   },
+   {
+    "start": 67,
+    "end": 73,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Masih ada yang nyinyir kepada Etnis Cina.???? Ini bukti nyata bgmn beliau Pak Yusuf Hamka berbaik hati kepada (atasnama) NEGARA.",
+  "spans": [
+   {
+    "start": 121,
+    "end": 127,
+    "surface": "NEGARA"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah tapi koruptor gak peduli tuh, gak pernah libur",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 23,
+    "end": 31,
+    "surface": "koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Kalau menurut saya jangan di kasih diskon. Tapi kalau mau damai minta utangnya dirubah/convert jadi saham BUMN. Jadi negara melepas semua sahamnya di beberapa BUMN yang paling korup. Jadi selain melepas beban negara juga mengurangi korupsi. Karena kalau di lepas ke swasta koruptornya pasti dipecatin. Pengelolaannya lebih profesional juga",
+  "spans": [
+   {
+    "start": 70,
+    "end": 78,
+    "surface": "utangnya"
+   },
+   {
+    "start": 117,
+    "end": 123,
+    "surface": "negara"
+   },
+   {
+    "start": 209,
+    "end": 215,
+    "surface": "negara"
+   },
+   {
+    "start": 232,
+    "end": 239,
+    "surface": "korupsi"
+   },
+   {
+    "start": 266,
+    "end": 272,
+    "surface": "swasta"
+   },
+   {
+    "start": 273,
+    "end": 284,
+    "surface": "koruptornya"
+   }
+  ]
+ },
+ {
+  "text": "Sebetulnya negara sdh benar (MK),tp pemerintahnya mm seneng ngemplang sm warganya....\nDi luar negeri klw sdh put hukum mreka taat.betul2 taat hukum..",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "negara"
+   },
+   {
+    "start": 36,
+    "end": 49,
+    "surface": "pemerintahnya"
+   },
+   {
+    "start": 73,
+    "end": 81,
+    "surface": "warganya"
+   },
+   {
+    "start": 113,
+    "end": 118,
+    "surface": "hukum"
+   },
+   {
+    "start": 142,
+    "end": 147,
+    "surface": "hukum"
+   }
+  ]
+ },
+ {
+  "text": "Gaji dan pension kami karyawan PT Yasontakabin tidak dibayar oleh bos walaupun sdh menang sampai di tingat Mahkamah Agung..\n\nJadi kemana lagi kami harus menuntut ?",
+  "spans": [
+   {
+    "start": 0,
+    "end": 4,
+    "surface": "Gaji"
+   }
+  ]
+ },
+ {
+  "text": "Makanya koruptor jangan di pelihara, hukum mati dan sita semua hartanya... pasti negara akan makmur...💪💪💪",
+  "spans": [
+   {
+    "start": 8,
+    "end": 16,
+    "surface": "koruptor"
+   },
+   {
+    "start": 37,
+    "end": 42,
+    "surface": "hukum"
+   },
+   {
+    "start": 81,
+    "end": 87,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Menghadapi penghutang mesti di minta bayar dp dulu sebelum membuat kesepakatn baru. Misalnya hutang di bayar 50 % dulu sebelum di iyakan klausul baru.",
+  "spans": [
+   {
+    "start": 93,
+    "end": 99,
+    "surface": "hutang"
+   }
+  ]
+ },
+ {
+  "text": "Negara SDH Bangkrut#\nHutang sana sini, tapi di bilang Ekonomi Baik2 saja.. 😢",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 21,
+    "end": 27,
+    "surface": "Hutang"
+   }
+  ]
+ },
+ {
+  "text": "Seharusnya kalau Rakyat menyimpan  uang ya jangan begitu caranya menurut Rakyat jelata  kalau ada penyimpan uang ya jangan di dholimi seperti itu setidaknya diperlakukan seperti penyimpan uamg yang lain yamg bisa dikembalikan .Walaupun saat itu dilakukakan Liqwidasi pada Bank Bank di Indonesia .Seharusnya dikembalikan seluruhnya 800 M entah bagaimana caranya .jangan dipotong entah bagaimana caramya apa dikembalikan dengan csra mencicil\nKenapa warga negara dibebani dana sebesar itu .jadi sy.menyayangkan thd tindakan srwenang wenang seperti itu .",
+  "spans": [
+   {
+    "start": 17,
+    "end": 23,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 35,
+    "end": 39,
+    "surface": "uang"
+   },
+   {
+    "start": 73,
+    "end": 79,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 108,
+    "end": 112,
+    "surface": "uang"
+   },
+   {
+    "start": 447,
+    "end": 452,
+    "surface": "warga"
+   },
+   {
+    "start": 453,
+    "end": 459,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "KALAU KAMI TIDAK KEMANA MANA . YANG LEBIH NGERTI ITU  YA  NEGARA BUKAN KAMI . INI ADA KAITANYA DENGAN PERUSAHAANYA KELUARGA CENDANA.",
+  "spans": [
+   {
+    "start": 58,
+    "end": 64,
+    "surface": "NEGARA"
+   }
+  ]
+ },
+ {
+  "text": "Menkeu ternyata Bahaya. nanti separuhnya k mana ? MenKeu Srimulyono bukan buat negara Untuk para KORUPSI. SRIMULYONO BANYAK UNTUNGNYE DARI  H. Yusuf Hamka.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Menkeu"
+   },
+   {
+    "start": 50,
+    "end": 56,
+    "surface": "MenKeu"
+   },
+   {
+    "start": 79,
+    "end": 85,
+    "surface": "negara"
+   },
+   {
+    "start": 97,
+    "end": 104,
+    "surface": "KORUPSI"
+   }
+  ]
+ },
+ {
+  "text": "Negara  Kaya  sanggup bayar. Penguasa  pemimpin yg korupsi  yg gsk mau bayar",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 51,
+    "end": 58,
+    "surface": "korupsi"
+   }
+  ]
+ },
+ {
+  "text": "Sekarang  rakyat semua lini dan sudut di pajakin bahkan bs2 double pajak nya.  Di beban kan ke Rakyat.  Mmg menkeu enak aja mau bayar utang rakyat yg dia susahin enak aja jd mentri",
+  "spans": [
+   {
+    "start": 10,
+    "end": 16,
+    "surface": "rakyat"
+   },
+   {
+    "start": 67,
+    "end": 72,
+    "surface": "pajak"
+   },
+   {
+    "start": 95,
+    "end": 101,
+    "surface": "Rakyat"
+   },
+   {
+    "start": 108,
+    "end": 114,
+    "surface": "menkeu"
+   },
+   {
+    "start": 134,
+    "end": 139,
+    "surface": "utang"
+   },
+   {
+    "start": 140,
+    "end": 146,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Inilah kalau negara dan penguasa mau menang sendirii,",
+  "spans": [
+   {
+    "start": 13,
+    "end": 19,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Enakk aja bawa negara dasar koruptor di pikir besok besok minta tobat terus selesai gituh salah besar siap siap salahmu kepada rakyat belum selesai sampai di akhirat nanti yaa",
+  "spans": [
+   {
+    "start": 15,
+    "end": 21,
+    "surface": "negara"
+   },
+   {
+    "start": 28,
+    "end": 36,
+    "surface": "koruptor"
+   },
+   {
+    "start": 127,
+    "end": 133,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Negara lg susah jg karena koruptor 😅",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 26,
+    "end": 34,
+    "surface": "koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Negara minta enak aja, rakyat yang melanggar ditindak tegas☹️☹️☹️☹️",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 23,
+    "end": 29,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Duit nya sebenernya ada itu pa. Tp harus di bagi2 dlu..",
+  "spans": [
+   {
+    "start": 0,
+    "end": 4,
+    "surface": "Duit"
+   }
+  ]
+ },
+ {
+  "text": "Gimana negara ga susah, koruptor di piara",
+  "spans": [
+   {
+    "start": 7,
+    "end": 13,
+    "surface": "negara"
+   },
+   {
+    "start": 24,
+    "end": 32,
+    "surface": "koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Negara.susah karna pejabat banyak yg kuruptor...",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 19,
+    "end": 26,
+    "surface": "pejabat"
+   }
+  ]
+ },
+ {
+  "text": "Cari tahu dulu bagaimana sejarah bagaimana \"hutang\" itu terjadi pada waktu itu. Kemudian bagaimana perusahaan itu kemudian bisa tiba2  beralih kepemilikan kepada beliau. Nanti kalian akan paham kenapa negara berkeras tidak mengakui hutang tersebut",
+  "spans": [
+   {
+    "start": 44,
+    "end": 50,
+    "surface": "hutang"
+   },
+   {
+    "start": 99,
+    "end": 109,
+    "surface": "perusahaan"
+   },
+   {
+    "start": 201,
+    "end": 207,
+    "surface": "negara"
+   },
+   {
+    "start": 232,
+    "end": 238,
+    "surface": "hutang"
+   }
+  ]
+ },
+ {
+  "text": "Kalau Babah alun cinta terhadap negara Republik Indonesia ini sumbangkan sjh untuk negara \nPepatah bijak mengatakan \nCintailah negaramu melebihi cintamu kepada dirimu \nMaka berkorban lah untuk negara",
+  "spans": [
+   {
+    "start": 32,
+    "end": 38,
+    "surface": "negara"
+   },
+   {
+    "start": 83,
+    "end": 89,
+    "surface": "negara"
+   },
+   {
+    "start": 193,
+    "end": 199,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "NEGARA KITA BKN NEGARA SUSAH HASIL EMAS MELIMPAH,TIMAH ,BATU BARA TEMBAGA  HNYA DI MKN OLEH ORNG YG RAKUS UANG ,KORUPTOR,ADA PULA MATA SIPIT,TEMBAGA JG MELIMPAH KURANG APA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "NEGARA"
+   },
+   {
+    "start": 16,
+    "end": 22,
+    "surface": "NEGARA"
+   },
+   {
+    "start": 29,
+    "end": 34,
+    "surface": "HASIL"
+   },
+   {
+    "start": 106,
+    "end": 110,
+    "surface": "UANG"
+   },
+   {
+    "start": 112,
+    "end": 120,
+    "surface": "KORUPTOR"
+   }
+  ]
+ },
+ {
+  "text": "Tp kata singanu negara banyak duit pak befa dengan pernyataan menteri keuangan ternyata benar utang udah segunung yg tanggung rakyat mereka pesta fora",
+  "spans": [
+   {
+    "start": 16,
+    "end": 22,
+    "surface": "negara"
+   },
+   {
+    "start": 30,
+    "end": 34,
+    "surface": "duit"
+   },
+   {
+    "start": 70,
+    "end": 78,
+    "surface": "keuangan"
+   },
+   {
+    "start": 94,
+    "end": 99,
+    "surface": "utang"
+   },
+   {
+    "start": 126,
+    "end": 132,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Ngutangnya cepet giliran di tagih susah bayar.... w kira temen w doang ternyata negara juga😂",
+  "spans": [
+   {
+    "start": 80,
+    "end": 86,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Uang untuk negara ❌\nUang untuk dikorupsi pejabat2 setan ✅",
+  "spans": [
+   {
+    "start": 0,
+    "end": 4,
+    "surface": "Uang"
+   },
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "negara"
+   },
+   {
+    "start": 20,
+    "end": 24,
+    "surface": "Uang"
+   }
+  ]
+ },
+ {
+  "text": "Karena ini hutang negara, maka menkeu yg harus jawab, ada tidaknya uang negara. Shg bisa jelas pembayarannya",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "hutang"
+   },
+   {
+    "start": 18,
+    "end": 24,
+    "surface": "negara"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "surface": "menkeu"
+   },
+   {
+    "start": 67,
+    "end": 71,
+    "surface": "uang"
+   },
+   {
+    "start": 72,
+    "end": 78,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Dri dulu andalan pejabat \"NEGARA LAGI SUSAH\"",
+  "spans": [
+   {
+    "start": 17,
+    "end": 24,
+    "surface": "pejabat"
+   },
+   {
+    "start": 26,
+    "end": 32,
+    "surface": "NEGARA"
+   }
+  ]
+ },
+ {
+  "text": "klo negara banyak utang rakyatnya yg di peras, tpi klo rakyatnya susah pemerintahnya gk mw tau.",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "surface": "negara"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "surface": "utang"
+   },
+   {
+    "start": 24,
+    "end": 33,
+    "surface": "rakyatnya"
+   },
+   {
+    "start": 55,
+    "end": 64,
+    "surface": "rakyatnya"
+   },
+   {
+    "start": 71,
+    "end": 84,
+    "surface": "pemerintahnya"
+   }
+  ]
+ },
+ {
+  "text": "Meminjam itu hukumnya mengembalikan . Katanya NKRI ini negara yg berpenduduk muslim terbesar didunia, maka seharusnya pemerintah dan lembaga2 nya wajib mengembalikan hutang2nya. Soal pemilik uang akan bersedekah kepada negara itu terserah jumlahnya kepada pemilik uang tsb.",
+  "spans": [
+   {
+    "start": 55,
+    "end": 61,
+    "surface": "negara"
+   },
+   {
+    "start": 118,
+    "end": 128,
+    "surface": "pemerintah"
+   },
+   {
+    "start": 191,
+    "end": 195,
+    "surface": "uang"
+   },
+   {
+    "start": 219,
+    "end": 225,
+    "surface": "negara"
+   },
+   {
+    "start": 264,
+    "end": 268,
+    "surface": "uang"
+   }
+  ]
+ },
+ {
+  "text": "Klau rakyat yg nunggak pajak, denda wajib bayar sampai boncos 😅😅😅",
+  "spans": [
+   {
+    "start": 5,
+    "end": 11,
+    "surface": "rakyat"
+   },
+   {
+    "start": 23,
+    "end": 28,
+    "surface": "pajak"
+   },
+   {
+    "start": 30,
+    "end": 35,
+    "surface": "denda"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah   *Susah memberantas Koruptor*..",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 39,
+    "end": 47,
+    "surface": "Koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah koruptor bertambah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 18,
+    "end": 26,
+    "surface": "koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Sangat memalukan negara ngutang ke rakyat😢 apa sebegitu miskinnya negara ini..",
+  "spans": [
+   {
+    "start": 17,
+    "end": 23,
+    "surface": "negara"
+   },
+   {
+    "start": 35,
+    "end": 41,
+    "surface": "rakyat"
+   },
+   {
+    "start": 66,
+    "end": 72,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Kemenkeu tak perlu bayar hutangx asal YH jd cagub/cawagub JKT biar negara GK malu",
+  "spans": [
+   {
+    "start": 67,
+    "end": 73,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Aneh masa negara mengemis sama rakyat nya......",
+  "spans": [
+   {
+    "start": 10,
+    "end": 16,
+    "surface": "negara"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Negara punya PEMIMPIN dan bagaimana seorang PEMIMPIN dengan hal ini..??😢",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "Gilaak emang orde baru, ngegarong duit orang ga tanggung2",
+  "spans": [
+   {
+    "start": 34,
+    "end": 38,
+    "surface": "duit"
+   }
+  ]
+ },
+ {
+  "text": "Uang negara = uang rakyat bung",
+  "spans": [
+   {
+    "start": 0,
+    "end": 4,
+    "surface": "Uang"
+   },
+   {
+    "start": 5,
+    "end": 11,
+    "surface": "negara"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "surface": "uang"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Beginilah nasib rakyat yg sdg dijajah, harus rela di bully ditindas oleh penjajah",
+  "spans": [
+   {
+    "start": 16,
+    "end": 22,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Bullshit kalau ada yg mengatakan negara ini lg susah,..Yg sebenarnya itu, koruptorlah yg ingin berniat membuat negara ini susah.",
+  "spans": [
+   {
+    "start": 33,
+    "end": 39,
+    "surface": "negara"
+   },
+   {
+    "start": 74,
+    "end": 85,
+    "surface": "koruptorlah"
+   },
+   {
+    "start": 111,
+    "end": 117,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Babah Alun , menteri keuangan ada yg lindungi \"Raja Jawa di Langit ke 13\"",
+  "spans": [
+   {
+    "start": 21,
+    "end": 29,
+    "surface": "keuangan"
+   }
+  ]
+ },
+ {
+  "text": "Ngeri Mulyono melindungi para koruptor pengusaha di rugikan",
+  "spans": [
+   {
+    "start": 30,
+    "end": 38,
+    "surface": "koruptor"
+   },
+   {
+    "start": 39,
+    "end": 48,
+    "surface": "pengusaha"
+   }
+  ]
+ },
+ {
+  "text": "Harusnya negara ngak bole bilang negara lagi susah😊 sementara rakyat susah dlm proses tagih hutang cuek2 aja",
+  "spans": [
+   {
+    "start": 9,
+    "end": 15,
+    "surface": "negara"
+   },
+   {
+    "start": 33,
+    "end": 39,
+    "surface": "negara"
+   },
+   {
+    "start": 62,
+    "end": 68,
+    "surface": "rakyat"
+   },
+   {
+    "start": 92,
+    "end": 98,
+    "surface": "hutang"
+   }
+  ]
+ },
+ {
+  "text": "negara dikelola orang munafik mana ada kejujuran dan keadilan , sabar dan istiqamah saja",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "gmna mau investor masuk kalo investor lokal aja dimainkan oleh negara..tdk ads kejelasan hukum💩",
+  "spans": [
+   {
+    "start": 63,
+    "end": 69,
+    "surface": "negara"
+   },
+   {
+    "start": 89,
+    "end": 94,
+    "surface": "hukum"
+   }
+  ]
+ },
+ {
+  "text": "Negara minta diskon, giliran pemgusaha pajaknya di gedein 😂.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 39,
+    "end": 47,
+    "surface": "pajaknya"
+   }
+  ]
+ },
+ {
+  "text": "negara susah krn koruptor meraja lela",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "negara"
+   },
+   {
+    "start": 17,
+    "end": 25,
+    "surface": "koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Negara mode utang. Contoh negara diurus oleh orang yang salah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 12,
+    "end": 17,
+    "surface": "utang"
+   },
+   {
+    "start": 26,
+    "end": 32,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "negara lagi susah, rakyat susah. yg gk susah pejabat.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "negara"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "surface": "rakyat"
+   },
+   {
+    "start": 45,
+    "end": 52,
+    "surface": "pejabat"
+   }
+  ]
+ },
+ {
+  "text": "Kejamnya negara kpd rakyatnya",
+  "spans": [
+   {
+    "start": 9,
+    "end": 15,
+    "surface": "negara"
+   },
+   {
+    "start": 20,
+    "end": 29,
+    "surface": "rakyatnya"
+   }
+  ]
+ },
+ {
+  "text": "Disatu sisi berbondong2 mengeruk kekayaan negara disisi lain ngasih hutang negara 😢 apa yg terjadi di negeri ini",
+  "spans": [
+   {
+    "start": 42,
+    "end": 48,
+    "surface": "negara"
+   },
+   {
+    "start": 68,
+    "end": 74,
+    "surface": "hutang"
+   },
+   {
+    "start": 75,
+    "end": 81,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Jagan mau kasihani negara pak. Melihat begitu banyaknya uang triliunan di korup bikin kesel. Bayar pajak ajak gue nyesel",
+  "spans": [
+   {
+    "start": 19,
+    "end": 25,
+    "surface": "negara"
+   },
+   {
+    "start": 56,
+    "end": 60,
+    "surface": "uang"
+   },
+   {
+    "start": 99,
+    "end": 104,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Apakah ...\n\nUang yang dianggarkan untuk bapak telah dipakai/dipindahkan/diambil untuk pihak lain.\n\nAnggaran selanjutnya, tidak menganggarkan untuk bapak.",
+  "spans": [
+   {
+    "start": 12,
+    "end": 16,
+    "surface": "Uang"
+   },
+   {
+    "start": 99,
+    "end": 107,
+    "surface": "Anggaran"
+   }
+  ]
+ },
+ {
+  "text": "Pak Hamka org yg banyak amalnya.org yg beramal membuat jauh dari kemiskinan,paling nggak Pak Hamka di beri Rejeki yg melimpah meskipun tidak paling tidaK diberi Kesehatan yg barokah,senoga dg Presiden baru uang sitaan dari para Koruptor bisa di buat bayar utang Negara terhadap Pak Hamka",
+  "spans": [
+   {
+    "start": 206,
+    "end": 210,
+    "surface": "uang"
+   },
+   {
+    "start": 228,
+    "end": 236,
+    "surface": "Koruptor"
+   },
+   {
+    "start": 256,
+    "end": 261,
+    "surface": "utang"
+   },
+   {
+    "start": 262,
+    "end": 268,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "Menang di pengadilan tdk bisa narik hutang, mudah narik hutang bila langsung ke presiden manteri hanya menunda mengeluar waktu supaya menagih utang di presiden selanjutnya",
+  "spans": [
+   {
+    "start": 36,
+    "end": 42,
+    "surface": "hutang"
+   },
+   {
+    "start": 56,
+    "end": 62,
+    "surface": "hutang"
+   },
+   {
+    "start": 142,
+    "end": 147,
+    "surface": "utang"
+   }
+  ]
+ },
+ {
+  "text": "Kalau negara lagi susah... jangan cuma minta kurangin byr utang ke Babah Alun, kejar noooh para koruptor pencuri uang negara, bkn malah dipalakin minta bagian hsl kejahatannya melalui para pengacara yg suka pamer kekayaan 😮",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "surface": "negara"
+   },
+   {
+    "start": 58,
+    "end": 63,
+    "surface": "utang"
+   },
+   {
+    "start": 96,
+    "end": 104,
+    "surface": "koruptor"
+   },
+   {
+    "start": 113,
+    "end": 117,
+    "surface": "uang"
+   },
+   {
+    "start": 118,
+    "end": 124,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Heranya lgi MAHASISWA yg katanya dulu mnjadi garda trdepan mewakili suara rakyat dimana??",
+  "spans": [
+   {
+    "start": 74,
+    "end": 80,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "kalau negara susah potong gaji dan tunjangan pejabat cari pejabat yang nggak mau d gaji oleh negara spt roki gerung dan yusuf hamka",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "surface": "negara"
+   },
+   {
+    "start": 26,
+    "end": 30,
+    "surface": "gaji"
+   },
+   {
+    "start": 45,
+    "end": 52,
+    "surface": "pejabat"
+   },
+   {
+    "start": 58,
+    "end": 65,
+    "surface": "pejabat"
+   },
+   {
+    "start": 83,
+    "end": 87,
+    "surface": "gaji"
+   },
+   {
+    "start": 93,
+    "end": 99,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Negara punya duit segitu!😂😂\n\nKoruptor aja bisa triliunan",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 13,
+    "end": 17,
+    "surface": "duit"
+   },
+   {
+    "start": 29,
+    "end": 37,
+    "surface": "Koruptor"
+   }
+  ]
+ },
+ {
+  "text": "Pemerintah Konoha kintil2 coy",
+  "spans": [
+   {
+    "start": 0,
+    "end": 10,
+    "surface": "Pemerintah"
+   }
+  ]
+ },
+ {
+  "text": "Lah utang nya aja ga jelas siapa yg makan 😅",
+  "spans": [
+   {
+    "start": 4,
+    "end": 9,
+    "surface": "utang"
+   }
+  ]
+ },
+ {
+  "text": "Piye to kiiih...? Negoro  jarene Keuntungan hasil tambang Hilirisasi berlipat-lipat kok utang dgn rakyatnya gk di bayar-bayar sampai di beritakan di media sosial opo wis ra duwe isin to jane ki?",
+  "spans": [
+   {
+    "start": 44,
+    "end": 49,
+    "surface": "hasil"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "surface": "tambang"
+   },
+   {
+    "start": 88,
+    "end": 93,
+    "surface": "utang"
+   },
+   {
+    "start": 98,
+    "end": 107,
+    "surface": "rakyatnya"
+   }
+  ]
+ },
+ {
+  "text": "Negara mo rampok warga atau g mna",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 17,
+    "end": 22,
+    "surface": "warga"
+   }
+  ]
+ },
+ {
+  "text": "Bayar lah utang tuh.. Negara.. Negara",
+  "spans": [
+   {
+    "start": 10,
+    "end": 15,
+    "surface": "utang"
+   },
+   {
+    "start": 22,
+    "end": 28,
+    "surface": "Negara"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "Mengatas namakan negara padahal oknum",
+  "spans": [
+   {
+    "start": 17,
+    "end": 23,
+    "surface": "negara"
+   },
+   {
+    "start": 32,
+    "end": 37,
+    "surface": "oknum"
+   }
+  ]
+ },
+ {
+  "text": "Padahal uangnya dia yg telan tuh mentri keuangan",
+  "spans": [
+   {
+    "start": 8,
+    "end": 15,
+    "surface": "uangnya"
+   },
+   {
+    "start": 40,
+    "end": 48,
+    "surface": "keuangan"
+   }
+  ]
+ },
+ {
+  "text": "Negara susah itu gimana kemampuan pemerintahannya, klo gak becus ngatur negara ya jangan jadikan alasan buat minta belas kasihan, apalagi ke rakyatnya 😂. Mental2 pengemis gimana mau mensejahterakan rakyat..",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 34,
+    "end": 49,
+    "surface": "pemerintahannya"
+   },
+   {
+    "start": 72,
+    "end": 78,
+    "surface": "negara"
+   },
+   {
+    "start": 198,
+    "end": 204,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Susah di buat sendiri kok, ga ada nyali Brantas korupsi",
+  "spans": [
+   {
+    "start": 48,
+    "end": 55,
+    "surface": "korupsi"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah tapi bangun ikn",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "sehat sehat pak yusuh hamka, gk kebayang pribadi duit  400m di colong ama negara",
+  "spans": [
+   {
+    "start": 49,
+    "end": 53,
+    "surface": "duit"
+   },
+   {
+    "start": 74,
+    "end": 80,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Demi negara",
+  "spans": [
+   {
+    "start": 5,
+    "end": 11,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Katanya merdeka tapi hukumnya itu berlaku hanya untuk rakyat kecil",
+  "spans": [
+   {
+    "start": 54,
+    "end": 60,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah, bukan nya banyak yang bilang negara sangat maju, utang negara masih kecil, bla bla bla. Kok nyata nya pas bapak yusuf hamka nagih hutang bilang nya negara lagi susah. Apakah ada yang ditutup tutupi.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 48,
+    "end": 54,
+    "surface": "negara"
+   },
+   {
+    "start": 68,
+    "end": 73,
+    "surface": "utang"
+   },
+   {
+    "start": 74,
+    "end": 80,
+    "surface": "negara"
+   },
+   {
+    "start": 149,
+    "end": 155,
+    "surface": "hutang"
+   },
+   {
+    "start": 167,
+    "end": 173,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Ini para pejabat,para menteri,pada tuli apa buta yak, sampe viral begini ga malu apa yak? \nNgeluarin biaya sampai itungan T kynya gampang, sedangkan bayar utang 800M, pada paling muka smua...smakin gada harga dirinya negeri ini, negara sampai punya utang sama rakyat,giliran rakyat nunggak pajak motor aja sampw dikejar\" pak pol....hadeuuhh",
+  "spans": [
+   {
+    "start": 9,
+    "end": 16,
+    "surface": "pejabat"
+   },
+   {
+    "start": 155,
+    "end": 160,
+    "surface": "utang"
+   },
+   {
+    "start": 203,
+    "end": 208,
+    "surface": "harga"
+   },
+   {
+    "start": 229,
+    "end": 235,
+    "surface": "negara"
+   },
+   {
+    "start": 249,
+    "end": 254,
+    "surface": "utang"
+   },
+   {
+    "start": 260,
+    "end": 266,
+    "surface": "rakyat"
+   },
+   {
+    "start": 275,
+    "end": 281,
+    "surface": "rakyat"
+   },
+   {
+    "start": 290,
+    "end": 295,
+    "surface": "pajak"
+   }
+  ]
+ },
+ {
+  "text": "Negara dengan hukum abu2..... Harusnya aset yg  dibawa kabur edy tansil dikembalikan ke negara buat bayar uangnya pak jusuf hamka.... Mana ada orang pribadi suruh bantu keuangan negara,, 😂😂.... Klu bantu itu sifatnya tdk ada pemaksaan.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 14,
+    "end": 19,
+    "surface": "hukum"
+   },
+   {
+    "start": 88,
+    "end": 94,
+    "surface": "negara"
+   },
+   {
+    "start": 106,
+    "end": 113,
+    "surface": "uangnya"
+   },
+   {
+    "start": 169,
+    "end": 177,
+    "surface": "keuangan"
+   },
+   {
+    "start": 178,
+    "end": 184,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah malah bikin ikn 😅",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "Emang pemerintah gak punya adab, menyepelekan utang, keliatan etika buruk itu dari cara bayar utang.... Sedangkan pemerintah gak konsen dgn para koruptor, anggaran dihambur hamburkan, yg terbaru peringatan HUT RI saja menghabiskan 87m",
+  "spans": [
+   {
+    "start": 6,
+    "end": 16,
+    "surface": "pemerintah"
+   },
+   {
+    "start": 46,
+    "end": 51,
+    "surface": "utang"
+   },
+   {
+    "start": 94,
+    "end": 99,
+    "surface": "utang"
+   },
+   {
+    "start": 114,
+    "end": 124,
+    "surface": "pemerintah"
+   },
+   {
+    "start": 145,
+    "end": 153,
+    "surface": "koruptor"
+   },
+   {
+    "start": 155,
+    "end": 163,
+    "surface": "anggaran"
+   }
+  ]
+ },
+ {
+  "text": "Negara hutang kepada rakyat😂😂😂😂 hutang ke rakyat sendiri saja minta diskon dan itu blm bisa bayar....apalagi hutang luar negeri yg sekian T itu😊😊",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 7,
+    "end": 13,
+    "surface": "hutang"
+   },
+   {
+    "start": 21,
+    "end": 27,
+    "surface": "rakyat"
+   },
+   {
+    "start": 32,
+    "end": 38,
+    "surface": "hutang"
+   },
+   {
+    "start": 42,
+    "end": 48,
+    "surface": "rakyat"
+   },
+   {
+    "start": 109,
+    "end": 115,
+    "surface": "hutang"
+   }
+  ]
+ },
+ {
+  "text": "Makanya pikir di pikir,cari pemimpinnya karbitan biar aman tambah aman,kalau pintar tegas berani ulama berani di anggap teroris radikal ,itulah jiwa penjajah pemeras uang rakyat,lebih bengis dari penjajahan Belanda,kenapa kalau nyata penjajah itu mudah melawannya cukup pakai bambu runcing,lebih sulit simalakama ,ngakunya Negara sudah merdeka,Kibaran Bendera upacara hanya seremonial belaka ,makanya tegak lurus ucapan tindakan tidak mudah kecuali org yg dekat rakyat miskin jelata dekat Tuhan ihlas berjuang dekat surga,mulia dihadapan manusia di benci pemuja dunia jabatan kekuasaan dan pendusta Agama.naudubillahindalik.",
+  "spans": [
+   {
+    "start": 166,
+    "end": 170,
+    "surface": "uang"
+   },
+   {
+    "start": 171,
+    "end": 177,
+    "surface": "rakyat"
+   },
+   {
+    "start": 323,
+    "end": 329,
+    "surface": "Negara"
+   },
+   {
+    "start": 462,
+    "end": 468,
+    "surface": "rakyat"
+   },
+   {
+    "start": 568,
+    "end": 575,
+    "surface": "jabatan"
+   }
+  ]
+ },
+ {
+  "text": "Ngapain damai pak uangnya hanya untuk di korupsi",
+  "spans": [
+   {
+    "start": 18,
+    "end": 25,
+    "surface": "uangnya"
+   },
+   {
+    "start": 41,
+    "end": 48,
+    "surface": "korupsi"
+   }
+  ]
+ },
+ {
+  "text": "Hutang apa ya, bisa banyak begitu.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Hutang"
+   }
+  ]
+ },
+ {
+  "text": "Negara banyak tikusnya, susah bayar utang",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 36,
+    "end": 41,
+    "surface": "utang"
+   }
+  ]
+ },
+ {
+  "text": "Biasa Pejabat itu isinya makan gaji buta gak bisa kerja taunya duwit.. bodo amat kekayaan alam di kelola asing aseng swasta.. makanya negara bobrok  Apalagi Aparatur Hukum bisa di beli Apalagi Ladusing 😂😂 Indonesia butuh Guru yang Bisa Ajarkan murid punya Rasa Malu  sebab banyak Pejabat PNS rai gedek",
+  "spans": [
+   {
+    "start": 6,
+    "end": 13,
+    "surface": "Pejabat"
+   },
+   {
+    "start": 31,
+    "end": 35,
+    "surface": "gaji"
+   },
+   {
+    "start": 117,
+    "end": 123,
+    "surface": "swasta"
+   },
+   {
+    "start": 134,
+    "end": 140,
+    "surface": "negara"
+   },
+   {
+    "start": 166,
+    "end": 171,
+    "surface": "Hukum"
+   },
+   {
+    "start": 280,
+    "end": 287,
+    "surface": "Pejabat"
+   }
+  ]
+ },
+ {
+  "text": "Katanya negara bnyk duitnya d kantong saya ada 11 ribu trilyun.... Klu gk duit knp negara sok2an apa z d bangun... 😅😂",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "surface": "negara"
+   },
+   {
+    "start": 74,
+    "end": 78,
+    "surface": "duit"
+   },
+   {
+    "start": 83,
+    "end": 89,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Negara ini kaya , ko ngomong negara lagi susah  .  ???",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 29,
+    "end": 35,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Kok hancur gini negara sejak 10 thn terakhir,byk pabrik tutup,aset negara ilang,BUMN byk bangkrut,Hukum kacau,golongan mrk ajh yg lapang.😢😢",
+  "spans": [
+   {
+    "start": 16,
+    "end": 22,
+    "surface": "negara"
+   },
+   {
+    "start": 67,
+    "end": 73,
+    "surface": "negara"
+   },
+   {
+    "start": 98,
+    "end": 103,
+    "surface": "Hukum"
+   }
+  ]
+ },
+ {
+  "text": "Susah ditagih hutang Sama pengusaha nasional,,,, tapi jargon'y maju berkembang,,,, hadehhh klw emang krisis bilang aj jngn Zaim,,,, tutup link judi online sama pinjol dua gerbang itu tutup rakyat bisa bangkit",
+  "spans": [
+   {
+    "start": 14,
+    "end": 20,
+    "surface": "hutang"
+   },
+   {
+    "start": 26,
+    "end": 35,
+    "surface": "pengusaha"
+   },
+   {
+    "start": 189,
+    "end": 195,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Yg bikin susah negara siapaa..??? masa simarkona.. 😂 Negara yg susah ato aparatnya yg ga  punya lagi uang jajan 😂",
+  "spans": [
+   {
+    "start": 15,
+    "end": 21,
+    "surface": "negara"
+   },
+   {
+    "start": 53,
+    "end": 59,
+    "surface": "Negara"
+   },
+   {
+    "start": 73,
+    "end": 82,
+    "surface": "aparatnya"
+   },
+   {
+    "start": 101,
+    "end": 105,
+    "surface": "uang"
+   }
+  ]
+ },
+ {
+  "text": "Kalau negara lagi susah kenapa masih bisa mengundang para artis, para influencers, kemudian PJ GUB, Walkot  bupatio2 ke IKN pada bulan Agustus ini... Bukankah  DKI masih ada Istana negara yg masih berdiri kokoh??Apakah pakai biaya pribadi???? Apakah mereka bisa/akan mendatangkan investor asing yg katanya ratusan dari mereka sudah antri ..😮",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "surface": "negara"
+   },
+   {
+    "start": 181,
+    "end": 187,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Si sri bilangbnegara lagi susah tapi geng nya  pada kaya,berlomba²  hedon,ini yg di kata Mentri keuangan terhebat,di mana hebatnya,klo cuman bisa malakin rakyat",
+  "spans": [
+   {
+    "start": 96,
+    "end": 104,
+    "surface": "keuangan"
+   },
+   {
+    "start": 154,
+    "end": 160,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Bongkar !❤\n\n-Diskusi ini lebih banyak aspek pidana nya\n \" kering \" \nTak ada duitnya\n\nNamun kalau moderator nya piawai \nKan beda hasilnya\n\nSy lebih suka kupas yang \" basah \"\nBerduit apalagi nilai nya US$ billion \n\n-Kejahatan bernilai dibawah \nRp. 1 juta dianggap hal kecil , lumrah, sepele tak berdampak merugikan.\nDilakukan tiap hari, tiap jam tinggal dikalkulasi besaran jumlahnya\n\nMaling ayam bisa putus nyawa dikeroyok warga sekampung\n\nMaling Negara korupsi Trilyun bahkan ratusan Trilyun bisa dianggap pahlawan karena bangunkan embung/ waduk penampung air orang di desa\nOrba Cendana 32 tahun sentralisasi korupsi US$35 billion / 600 T terjarah.\n\nCikeas 10 tahun desentralisasi \nUS$ 10 billion / 150 T terkuras.\n\nJokowi Solo \nngono yo jo ngono budaya pembiaran 10 tahun , 2014 - 2024 ; \nMenkominfo 80 T ,\nDKI kelebihan bayar 400 T ludes proyek bongkar pasang, Bansos Depsos 400 T, Pemilu 72,6 T , Alutsista 1600 T , terus berlanjut hingga hari, detik ini ;\n \nMiris, ironis.\n\nKemandirian Desa mutlak/ keniscayaan.\n83.931 desa\n16.377 pulau\nPengentasan kemiskinan tugas Negara dalam UUD' 45\n\nAyo bergerak bersatu padu\nRI 79 tahun merdeka\nMei 1, 2024",
+  "spans": [
+   {
+    "start": 76,
+    "end": 83,
+    "surface": "duitnya"
+   },
+   {
+    "start": 422,
+    "end": 427,
+    "surface": "warga"
+   },
+   {
+    "start": 446,
+    "end": 452,
+    "surface": "Negara"
+   },
+   {
+    "start": 453,
+    "end": 460,
+    "surface": "korupsi"
+   },
+   {
+    "start": 609,
+    "end": 616,
+    "surface": "korupsi"
+   },
+   {
+    "start": 863,
+    "end": 869,
+    "surface": "Bansos"
+   },
+   {
+    "start": 1064,
+    "end": 1069,
+    "surface": "tugas"
+   },
+   {
+    "start": 1070,
+    "end": 1076,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "Bkin mlu negara msa utng ama rakyat😂",
+  "spans": [
+   {
+    "start": 9,
+    "end": 15,
+    "surface": "negara"
+   },
+   {
+    "start": 29,
+    "end": 35,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Hutang ke rakyatnya sendiri saja ga kuat bayar,apa lagi ke china😊😊",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Hutang"
+   },
+   {
+    "start": 10,
+    "end": 19,
+    "surface": "rakyatnya"
+   }
+  ]
+ },
+ {
+  "text": "Negara itu hutang jaman kepemimpinan siapa Pak ?",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "hutang"
+   }
+  ]
+ },
+ {
+  "text": "Malu.. q.. negara ngutang ke pribadi.. 😂",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Ko aneh ya negara bayar hutang 200m saja ga bs sedangkan yg di curi oleh maling berdasi bs sampw teiliunan bahkan ada yg 371triliun mau di bawa kw mana negara ini hancur lebur di gerogoti oleh tikus kepala besar dan berdasi. Udah gitu menggerogoti nya berjamaah pula. Mau ga hancur gimana kalau di keroyok",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "negara"
+   },
+   {
+    "start": 24,
+    "end": 30,
+    "surface": "hutang"
+   },
+   {
+    "start": 152,
+    "end": 158,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Itulah pemerintah an Konoha",
+  "spans": [
+   {
+    "start": 7,
+    "end": 17,
+    "surface": "pemerintah"
+   }
+  ]
+ },
+ {
+  "text": "Minta...sama Mulyono...pak..karna yg merusak negara selama sepuluh tahun ini",
+  "spans": [
+   {
+    "start": 45,
+    "end": 51,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Jngn om jngn di discound om ke enakn pmerintah,negara jd susah gara2 kpmimpinan jkowi",
+  "spans": [
+   {
+    "start": 47,
+    "end": 53,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah?\nApa masyarakat hrs g bayar pjk biar beneran susah?\nHidup hedon, sok2an susah. G suh sok2an miris.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 23,
+    "end": 33,
+    "surface": "masyarakat"
+   }
+  ]
+ },
+ {
+  "text": "Ternyata masalah ini masalah Negara yg terjadi sudah lama..saat Pemerintahan Presiden siapa Pak?..jangan kemudian sepertinya beban itu dikenakan kepada JOKOWI sebagai pribadi Pak 👍👍",
+  "spans": [
+   {
+    "start": 29,
+    "end": 35,
+    "surface": "Negara"
+   },
+   {
+    "start": 64,
+    "end": 76,
+    "surface": "Pemerintahan"
+   }
+  ]
+ },
+ {
+  "text": "Negara susah karena banyak korupsi....😂😂😂",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 27,
+    "end": 34,
+    "surface": "korupsi"
+   }
+  ]
+ },
+ {
+  "text": "Negara susah, Krn uang negara di korup terus 😂😂😂😂",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   },
+   {
+    "start": 18,
+    "end": 22,
+    "surface": "uang"
+   },
+   {
+    "start": 23,
+    "end": 29,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Udah tau banyak utang bukannya mbayar malah bikin proyek IKN !!! Serakah ngejar pujian sampe akal sehat hilang! Buzzer belain dong junjungan kalian, jangan diem2 baek!",
+  "spans": [
+   {
+    "start": 16,
+    "end": 21,
+    "surface": "utang"
+   }
+  ]
+ },
+ {
+  "text": "Perputaran Uang  titipan elite orba, mosok rakyat kéré dan klas menengah disuruh dengerin.. Bukannya mcm otak telmi jmn koran masuk desa😂😂",
+  "spans": [
+   {
+    "start": 11,
+    "end": 15,
+    "surface": "Uang"
+   },
+   {
+    "start": 43,
+    "end": 49,
+    "surface": "rakyat"
+   }
+  ]
+ },
+ {
+  "text": "Negara susah di gerogoti tikus berdasi ..sehat\" PK Yusuf Hamkah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah? Loh",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "cocok prof efendi dengan yusuf hamkah yg satu politik uang yg satunya politik negara dalam hatinya tdk sama se x yg penting ........cuma itu saja ok",
+  "spans": [
+   {
+    "start": 46,
+    "end": 53,
+    "surface": "politik"
+   },
+   {
+    "start": 54,
+    "end": 58,
+    "surface": "uang"
+   },
+   {
+    "start": 70,
+    "end": 77,
+    "surface": "politik"
+   },
+   {
+    "start": 78,
+    "end": 84,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "ERA BUMN bangkrut...pejabat tetap ambil gaji buta...emang kerjanya apa yah kok bumn sampek rugi besar",
+  "spans": [
+   {
+    "start": 20,
+    "end": 27,
+    "surface": "pejabat"
+   },
+   {
+    "start": 40,
+    "end": 44,
+    "surface": "gaji"
+   }
+  ]
+ },
+ {
+  "text": "400 M itu kan duit BLBI yg konon katanya terafiliasi dgn perusahaan anda dri taon 98.. di puter di perusahaan situ.... ngambil untung lg dri proyek negara. Duit negara di pake buat jalanin proyek negara.. giliran negara sadar itu duit BLBI nuntut.. kocak idup nya",
+  "spans": [
+   {
+    "start": 14,
+    "end": 18,
+    "surface": "duit"
+   },
+   {
+    "start": 57,
+    "end": 67,
+    "surface": "perusahaan"
+   },
+   {
+    "start": 99,
+    "end": 109,
+    "surface": "perusahaan"
+   },
+   {
+    "start": 148,
+    "end": 154,
+    "surface": "negara"
+   },
+   {
+    "start": 156,
+    "end": 160,
+    "surface": "Duit"
+   },
+   {
+    "start": 161,
+    "end": 167,
+    "surface": "negara"
+   },
+   {
+    "start": 196,
+    "end": 202,
+    "surface": "negara"
+   },
+   {
+    "start": 213,
+    "end": 219,
+    "surface": "negara"
+   },
+   {
+    "start": 230,
+    "end": 234,
+    "surface": "duit"
+   }
+  ]
+ },
+ {
+  "text": "Negara susah matian matian buat IKN",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "Anggarannya untuk bansos",
+  "spans": [
+   {
+    "start": 0,
+    "end": 11,
+    "surface": "Anggarannya"
+   },
+   {
+    "start": 18,
+    "end": 24,
+    "surface": "bansos"
+   }
+  ]
+ },
+ {
+  "text": "Negara lagi susah bangun IKN, membagongkan😂😂😂",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "negara lg susah ktnya p yusup...nyatanya anak si jokowi berlimpah harta tuh pak.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Pak magfud ngak bisa mutusi masalah utang.",
+  "spans": [
+   {
+    "start": 36,
+    "end": 41,
+    "surface": "utang"
+   }
+  ]
+ },
+ {
+  "text": "Katanya pak jokowi ekonomi meroket.. Menkeu kok bilang negara lagi susah.. Udah tau susah masih hambur2in anggaran.. Byar utang miliar aja g mampu,, harusnya nti setelah era ini selesai,, pejabat yg tersandung korup tangkapin semua... Gara2 mereka negara mau dibuat hancur",
+  "spans": [
+   {
+    "start": 37,
+    "end": 43,
+    "surface": "Menkeu"
+   },
+   {
+    "start": 55,
+    "end": 61,
+    "surface": "negara"
+   },
+   {
+    "start": 106,
+    "end": 114,
+    "surface": "anggaran"
+   },
+   {
+    "start": 122,
+    "end": 127,
+    "surface": "utang"
+   },
+   {
+    "start": 188,
+    "end": 195,
+    "surface": "pejabat"
+   },
+   {
+    "start": 248,
+    "end": 254,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Ngapain negara disumbang pak",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Bagaimana bunk Mahfud MD kok masih ada perdamaian dg mentri keuangan. Wah kalau hukum bisa berdamai yah gak bisa beres, seterusnya ya tetap tidakberes.",
+  "spans": [
+   {
+    "start": 60,
+    "end": 68,
+    "surface": "keuangan"
+   },
+   {
+    "start": 80,
+    "end": 85,
+    "surface": "hukum"
+   }
+  ]
+ },
+ {
+  "text": "Urusan duit..",
+  "spans": [
+   {
+    "start": 7,
+    "end": 11,
+    "surface": "duit"
+   }
+  ]
+ },
+ {
+  "text": "Dalih demi negara punya hutang",
+  "spans": [
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "negara"
+   },
+   {
+    "start": 24,
+    "end": 30,
+    "surface": "hutang"
+   }
+  ]
+ },
+ {
+  "text": "Susah negara tapi bangun ikn kalimantan?",
+  "spans": [
+   {
+    "start": 6,
+    "end": 12,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Hanya negaranya Jokowi...ngutang mintak diskon.",
+  "spans": [
+   {
+    "start": 6,
+    "end": 15,
+    "surface": "negaranya"
+   }
+  ]
+ },
+ {
+  "text": "\"NEGARA LAGI SUSAH\" 😂😂😂😂😂\nKATA JOKOWI EKONOMI MEROKET PAK, WAH JANGAN BIKIN HOAX NEGARA INI LAGI MENUJU INDONESIA EMAS 🏆 KATA GIBRAN DAN PRABOWO 😂😂😂",
+  "spans": [
+   {
+    "start": 1,
+    "end": 7,
+    "surface": "NEGARA"
+   },
+   {
+    "start": 81,
+    "end": 87,
+    "surface": "NEGARA"
+   }
+  ]
+ },
+ {
+  "text": "Negara susah presiden sibuk bikin dinasti.",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Negara"
+   }
+  ]
+ },
+ {
+  "text": "Yg nyusahin negara itu Mulyono",
+  "spans": [
+   {
+    "start": 12,
+    "end": 18,
+    "surface": "negara"
+   }
+  ]
+ },
+ {
+  "text": "Di bea cukai...???",
+  "spans": [
+   {
+    "start": 3,
+    "end": 12,
+    "surface": "bea cukai"
+   }
+  ]
+ },
+ {
+  "text": "Jangan menghina negara ku boss , gak mungkin negaraku ini negara susah . Jangankan cuman 400 milyar , ratusan trilyun aja di korupsi kami gak susah kok . Negara kami negara kaya raya boss . Paham ?",
+  "spans": [
+   {
+    "start": 16,
+    "end": 22,
+    "surface": "negara"
+   },
+   {
+    "start": 58,
+    "end": 64,
+    "surface": "negara"
+   },
+   {
+    "start": 125,
+    "end": 132,
+    "surface": "korupsi"
+   },
+   {
+    "start": 154,
+    "end": 160,
+    "surface": "Negara"
+   },
+   {
+    "start": 166,
+    "end": 172,
+    "surface": "negara"
+   }
+  ]
+ }
+]

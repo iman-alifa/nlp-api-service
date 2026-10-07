@@ -1,0 +1,242 @@
+[
+  {
+    "text": "makanan nya gaenak . fish and chips porsi nya dikit banget , chicken wings encer banget jadi seperti makan sup ayam pakai kuah tuna . saus tuna yang ada di chicken wings nya lebih sering dari si ayam itu sendiri . minuman nya oke dan pemandangan nya bagus . kalau malam keren melihat city cahaya . oh ya . di bawah nya juga ada art galeri jadi bisa sambil lihat-lihat .",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.965
+  },
+  {
+    "text": "padanan ayam dan keju cair cukup enak , karena memberi rasa kenyang , untuk hot chicken wings cukup enak . untuk pesta ulang tahun anak cukup luas dan open air",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9646
+  },
+  {
+    "text": "lomie yang terletak di jalan imam bonjol dulu jualan di gerobak pinggir jalan dengan kursi plastik tanpa atap , kini masuk ke area pujasera di depan nya . menjadi salah satu lomie enak di bandung yang masih banyak penggemar nya . tapi sayang tempat nya kurang nyaman , selain karena selalu penuh sesak , juga kurang terjaga kebersihan nya . belum lagi pelayanan yang kurang ramah , asal-asalan dan it",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9621
+  },
+  {
+    "text": "kebetulan dekat tempat menginap di asia afrika . jalan kaki hanya 500 m . teman titip beli buat oleh oleh . rasa biasa saja . lumayan mahal .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9586
+  },
+  {
+    "text": "jokowi tidak suka makan nasi",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.957
+  },
+  {
+    "text": "swarga loka hanya ada pada hari sabtu , sisa nya hanya kafe di dekat kolam renang , dekat , bukan pinggir . sayang sekali hanya seminggu sekali dan harga nya cukup mahal hanya untuk makanan ringan khas indonesia .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9548
+  },
+  {
+    "text": "bukti jokowi orang nya jauh lebih rendah hati",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9541
+  },
+  {
+    "text": "otak kita itu canggih banget lo",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9536
+  },
+  {
+    "text": "pemandangan nya bagus tapi kalau mau ke sini baiknya reservasi dulu kalau mau dapat tempat yang bagus . makanan nya enak banget apalagi iga nya tapi lama sekali dan seringkali dianggurkan sama pelayan / tress",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9534
+  },
+  {
+    "text": "oh kena kira rasa indomie ayam bawang yang selalu dinikmati didi",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9527
+  },
+  {
+    "text": "tempat nya nyaman . rasanya biasa saja . pelayanan nya sangat lama . makanan keluar pun lama padahal yang makan cuma kita beri - empat .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9517
+  },
+  {
+    "text": "makanan di sini benar-benar tidak sesuai lidah saya dengan harga yang tidak setimpal sih menurut saya . cuma mungkin bisa cocok dengan lidah visitor lain . tidak tahu juga sih . menu nya makanan barat .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.951
+  },
+  {
+    "text": "rasanya biasa saja manis dan terasa kurang bumbu nya . ada juga pilihan yang pedas . harga lumayan mahal secup kecil 40 ribu yang saya rasa sih tidak layak",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9508
+  },
+  {
+    "text": "tingkatkan pertumbuhan ekonomi , pemerintah terus bangun infrastruktur transportasi hingga pelosok negeri",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9497
+  },
+  {
+    "text": "kesal karena samalam membeli seafood pinggir jalan dengan harga mahal dan rasahya tidak enak , akhirnya saya dan teman hati saya ingin balas dendam mencari seafood murah dan enak mumpung sedang berada di bandung , browsing dan dapatlah di cost ini , sebenarnya di cost ini banyak cabang nya hanya saja kebetulan kami terdekat yaitu ke d cost seafood sukajadi , akhirnya kami ke sana dan memesan makan",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9492
+  },
+  {
+    "text": "ketika sudah berada di atas , jangan lupa untuk melihat ke bawah ya sahabat bni :",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9477
+  },
+  {
+    "text": "kalau hujan-hujan begini yang dikangenin ya cuma indomie bukan pacar : v",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9458
+  },
+  {
+    "text": "steak yang saya pilih disajikan tidak selagi panas , sehingga sedikit-sedikit enek . seharusnya steak itu disajikan selagi panas",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9456
+  },
+  {
+    "text": "ini adalah video yang dibuat oleh ahokers . sengaja dibuat untuk memecahkan nkri .",
+    "gold": "negative",
+    "pred": "neutral",
+    "confidence": 0.9454
+  },
+  {
+    "text": "feeling gue karena yang dibahas itu gopay , kayak nya penghematan gopay vs non gopay , kalau dibandingkan trayek kita tiap hari dan dibandingkan sama harga taksi yang mana variabel nya ada 2 berat banget sih proses nya",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9452
+  },
+  {
+    "text": "harus era hukum nya teh mel . sing bisa kudu dibisa kebun . nomor hiji jagoan demokrat untuk jawa barat hiji .... !!!",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9443
+  },
+  {
+    "text": "jokowi suka blusukan ke pasar tradisional",
+    "gold": "positive",
+    "pred": "neutral",
+    "confidence": 0.9429
+  },
+  {
+    "text": "entah ya , beberapa film indonesia yang saya tonton sering nya begitu , belum mampu bercerita dengan baik , jadi gregetan .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9427
+  },
+  {
+    "text": "deny itu tidak berkualitas kasar bahasa nya dan dia menutup dari realitas sosial masyarakat bahwa dollar itu sangat berperan besar dalam ekonomi",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9427
+  },
+  {
+    "text": "pertama kali mendengar restoran the peak terasa seperti restoran yang mewah enak elegan dan sebagai nya . namun ketika saya sampai ke sana semua pandangan tersebut berubah total menjadi buruk . jalan akses yang sangat jauh juga jalan masuk yang rawan pada malam hari . masuk ke dalam restoran meja-meja tampil sederhana dengan sedikit sambutan yang diberikan oleh pelayan .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9421
+  },
+  {
+    "text": "kurang klik bateray nya juragan , saya minta ganti",
+    "gold": "negative",
+    "pred": "neutral",
+    "confidence": 0.9415
+  },
+  {
+    "text": "soun claypot nya enak . udang nya besar-besar . salad ubar-ubar nya juga enak . suki nya banyak macam nya . saus nya enak . sayang harga nya mahal sekali . makan per-8 habis kurang lebih 2 juta rupiah . jadi berpikir dua kali kalau mau ke sini lagi .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9386
+  },
+  {
+    "text": "untuk kampung daun , tempat unik dan enak buat santai , tapi untuk makanan dan kebersihan sepertinya kurang . karena banyak sarang laba-laba , lalu kucing di mana . __sad__ saya takut kucing . jadi makan juga kurang nyaman .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.9377
+  },
+  {
+    "text": "yang terhormat . managemen the peak , 1 . pemandangan di the peak saya akui indah dan romantis bahkan lebih bagus dibandingkan dengan kafe sejenis di bandung , staf di resto dan chef juga sangat ramah , 2 , sungguh disayangkan ada kucing hitam yang menggigit saya saat saya bersantap di the peak . staf tidak berusaha membantu malahan tersenyum sinis dan berkata bahwa itu wajar .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9373
+  },
+  {
+    "text": "makanya saya minta bukti valid kebenaran nya apa iya harga bbm yang dijual pemerintah era say mahal mencekik masyarakat sana ? karena menurut orang-orang amp ; orang papua kata nya harga bbm itu sama saja dengan daerah lain , kecuali kalau dipelosok pedalaman yang diencer lagi oleh masyarakat nya",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9359
+  },
+  {
+    "text": "tolong bilangin sama pak jangan lupa revisi perppu ormas dan ingatkan janji nya kalau perppu tidak di revisi pada mengeluarkan sikap dan umat menunggu sikap nya .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9342
+  },
+  {
+    "text": "saya ke sini saat malam bersama suami , kesan 1 , tempat nya memang besar tapi pas masuk dekor nya biasa saja , rasa makanan juga biasa saja , harga nya overpriced , sangat sangat mahal untuk rasa yang biasa saja menurut saya , makan di lantai 2 pakai lilin semua , tidak ada yang pakai lampu , tetapi malah jadi buat remang-remang .",
+    "gold": "positive",
+    "pred": "negative",
+    "confidence": 0.934
+  },
+  {
+    "text": "kalau ingin sukses harus kerja keras",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9282
+  },
+  {
+    "text": "barang sudah diantar ke rumah , tapi rumah nya lagi kosong",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.928
+  },
+  {
+    "text": "tidak ada nya bantahan resmi dari demokrat ttg isu jokowi - ahy , banyak menimbulkan kerugian dikubu demokrat . jika benar , wassalam demokrat .",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.928
+  },
+  {
+    "text": "bodilah hahaha . tahu enggak aku bosan di dalam kelas ini",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9269
+  },
+  {
+    "text": "saya coba gurame asam manis dan mi goreng , untuk rasa standar , pelayan agak lama padahal kondisi resto tidak terlalu ramai",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.9263
+  },
+  {
+    "text": "baiklah saya tunggu , saya di caruban madiun kalau di bca pembantu sepertinya belum paham deh yang susah-susah",
+    "gold": "neutral",
+    "pred": "negative",
+    "confidence": 0.9233
+  },
+  {
+    "text": "berkunjung 4 / 5 2016 . pelayanan nya tidak memuaskan 1 . menunggu antrean lama tak masalah 2 . bagian waitig daftar tamu nya tidak cari tidak bisa menempatkan di tempat mana keluarga yang punya balita di tempatkan . pada saat saya berkunjung cuaca hujan saya di tempatkan di tempat s46 yang paling atas saung nya ada curam nya saya bawa balita 2 tahun dan 4 tahun .",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.923
+  },
+  {
+    "text": "kalau kamu tidak suka liat nya , tinggal pencet unfollow temen mu nder",
+    "gold": "negative",
+    "pred": "neutral",
+    "confidence": 0.9198
+  }
+]

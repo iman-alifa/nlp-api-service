@@ -1,0 +1,42 @@
+[
+  {
+    "c_v": 0.4658,
+    "c_npmi": -0.4018,
+    "diversity": 0.9667,
+    "outlier_rate": 0.1559,
+    "num_topics": 6,
+    "largest_share": 0.2294,
+    "top_words": "ikn, jabat, konoha, bikin, bangun, bantu",
+    "encoder": "indobenchmark/indobert-base-p1"
+  },
+  {
+    "c_v": 0.4337,
+    "c_npmi": -0.2873,
+    "diversity": 0.9857,
+    "outlier_rate": 0.026,
+    "num_topics": 7,
+    "largest_share": 0.4328,
+    "top_words": "utang, hutang, jokowi, malu, uang, koruptor",
+    "encoder": "firqaaa/indo-sentence-bert-base"
+  },
+  {
+    "c_v": 0.4765,
+    "c_npmi": -0.4223,
+    "diversity": 0.9667,
+    "outlier_rate": 0.0927,
+    "num_topics": 6,
+    "largest_share": 0.3073,
+    "top_words": "dpr, pajak, suruh, warga, mati, aset",
+    "encoder": "intfloat/multilingual-e5-small"
+  },
+  {
+    "c_v": 0.4405,
+    "c_npmi": -0.42,
+    "diversity": 1.0,
+    "outlier_rate": 0.0904,
+    "num_topics": 6,
+    "largest_share": 0.3107,
+    "top_words": "koruptor, bantu, korupsi, diskon, gaji, korup",
+    "encoder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  }
+]

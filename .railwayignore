@@ -1,0 +1,59 @@
+# Yang TIDAK ikut ke kontainer produksi.
+#
+# Hanya `app/` beserta manifes dependensi yang dibutuhkan saat runtime.
+# Selebihnya adalah bahan penelitian: berguna untuk skripsi, tidak berguna
+# untuk melayani permintaan, dan sebagian sangat besar (`models_exp/` 2,8 GB).
+#
+# Berkas ini juga menjadi jawaban atas pertanyaan "apa sebenarnya yang
+# di-deploy" - satu tempat, bukan tebakan.
+
+# ── Bahan penelitian ────────────────────────────────────────────────────────
+models_exp/          # 2,8 GB checkpoint eksperimen K1-K6
+data/                # korpus, dataset eksternal, hasil eksperimen
+scripts/             # skrip pelatihan, evaluasi, sweep parameter
+tests/
+arsip/               # korespondensi lintas-repo dan keluaran uji
+docs/
+notebooks/
+
+# ── Dokumen ─────────────────────────────────────────────────────────────────
+*.md
+!README.md
+
+# ── Artefak lokal ───────────────────────────────────────────────────────────
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+logs/
+*.log
+.cache/
+
+# Bobot TIDAK ikut image - ia ditarik saat runtime dari volume di MODEL_PATH
+# atau dari Hugging Face Hub (lihat app/weights_store.py). Menyertakannya akan
+# membengkakkan image ~1,9 GB dan tetap basi pada retraining berikutnya.
+models/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# ── Rahasia ─────────────────────────────────────────────────────────────────
+.env
+.env.local
+*.bat
+
+# Dockerfile hanya dipakai HF Spaces / host Docker. Railway memakai Nixpacks
+# dan mengabaikannya, jadi ia tidak perlu ikut ke konteks build Railway.
+Dockerfile
+
+# ── Pengembangan ────────────────────────────────────────────────────────────
+requirements-dev.txt
+pytest.ini
+.git/
+.gitignore
+.idea/
+.vscode/

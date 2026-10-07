@@ -1,0 +1,30 @@
+{
+  "gold": "data/external/smsa/test_gold.json",
+  "n": 500,
+  "ablation": {
+    "tanpa-preprocessing": {
+      "accuracy": 0.906,
+      "macro_f1": 0.8716,
+      "weighted_f1": 0.9011,
+      "seconds": 28.7
+    },
+    "huruf+tanda-baca": {
+      "accuracy": 0.914,
+      "macro_f1": 0.8872,
+      "weighted_f1": 0.9107,
+      "seconds": 21.6
+    },
+    "normalisasi-penuh": {
+      "accuracy": 0.912,
+      "macro_f1": 0.8855,
+      "weighted_f1": 0.9091,
+      "seconds": 21.7
+    },
+    "seperti-laravel": {
+      "accuracy": 0.912,
+      "macro_f1": 0.8855,
+      "weighted_f1": 0.9091,
+      "seconds": 21.7
+    }
+  }
+}

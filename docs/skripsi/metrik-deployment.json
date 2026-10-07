@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "judul": "Tentara Nasional Indonesia",
+        "tipe": "combined",
+        "status": "completed",
+        "total_records": 3548,
+        "masukan": 3548,
+        "prediksi": {
+            "jumlah": 3548
+        },
+        "document_aspects": 3548,
+        "topic": {
+            "topics": 12,
+            "quality": 5,
+            "summary": "Dari 3548 teks, teridentifikasi 12 topik utama (menggunakan IndoBERT). Topik dominan terkait dengan: tunjangan, mampus, iya, ratakan, basi. Topik ini muncul pada 498 teks (14.9% dari total).",
+            "num_texts": 3548,
+            "num_topics": 12,
+            "document_topics": 3548,
+            "word_frequencies": 50
+        },
+        "asosiasi": {
+            "heatmap_matrix": 45,
+            "pmi_top_associations": 20
+        },
+        "mulai": "2026-09-05 15:34:25",
+        "selesai": "2026-09-05 16:05:50",
+        "durasi_detik": 1885
+    },
+    {
+        "id": 2,
+        "judul": "Presiden",
+        "tipe": "combined",
+        "status": "completed",
+        "total_records": 1858,
+        "masukan": 1858,
+        "prediksi": {
+            "jumlah": 1858
+        },
+        "document_aspects": 1858,
+        "topic": {
+            "topics": 5,
+            "quality": 5,
+            "summary": "Dari 1858 teks, teridentifikasi 5 topik utama (menggunakan IndoBERT). Topik dominan terkait dengan: sehat, mbg, makan, semoga, koruptor. Topik ini muncul pada 1656 teks (92.5% dari total).",
+            "num_texts": 1858,
+            "num_topics": 5,
+            "document_topics": 1858,
+            "word_frequencies": 50
+        },
+        "asosiasi": {
+            "heatmap_matrix": 51,
+            "pmi_top_associations": 20
+        },
+        "mulai": "2026-09-05 16:12:46",
+        "selesai": "2026-09-05 16:35:08",
+        "durasi_detik": 1342
+    },
+    {
+        "id": 3,
+        "judul": "Kejaksaan Agung",
+        "tipe": "combined",
+        "status": "completed",
+        "total_records": 1493,
+        "masukan": 1493,
+        "prediksi": {
+            "jumlah": 1493
+        },
+        "document_aspects": 1493,
+        "topic": {
+            "topics": 17,
+            "quality": 5,
+            "summary": "Dari 1493 teks, teridentifikasi 17 topik utama . Topik dominan terkait dengan: termul, formalitas, indah, drama, daerah. Topik ini muncul pada 152 teks (10.3% dari total).",
+            "num_texts": 1493,
+            "num_topics": 17,
+            "document_topics": 1493,
+            "word_frequencies": 50
+        },
+        "asosiasi": {
+            "heatmap_matrix": 46,
+            "pmi_top_associations": 20
+        },
+        "mulai": "2026-09-05 16:36:57",
+        "selesai": "2026-09-05 16:49:29",
+        "durasi_detik": 752
+    },
+    {
+        "id": 4,
+        "judul": "Komisi Pemberantasan Korupsi",
+        "tipe": "combined",
+        "status": "completed",
+        "total_records": 368,
+        "masukan": 368,
+        "prediksi": {
+            "jumlah": 368
+        },
+        "document_aspects": 368,
+        "topic": {
+            "topics": 9,
+            "quality": 5,
+            "summary": "Dari 368 teks, teridentifikasi 9 topik utama (menggunakan IndoBERT). Topik dominan terkait dengan: desa, pati, kpk, uang, kinerja. Topik ini muncul pada 127 teks (34.8% dari total).",
+            "num_texts": 368,
+            "num_topics": 9,
+            "document_topics": 368,
+            "word_frequencies": 50
+        },
+        "asosiasi": {
+            "heatmap_matrix": 20,
+            "pmi_top_associations": 20
+        },
+        "mulai": "2026-09-05 17:03:21",
+        "selesai": "2026-09-05 17:08:06",
+        "durasi_detik": 285
+    },
+    {
+        "id": 5,
+        "judul": "Kepolisian Republik Indonesia",
+        "tipe": "combined",
+        "status": "completed",
+        "total_records": 340,
+        "masukan": 340,
+        "prediksi": {
+            "jumlah": 340
+        },
+        "document_aspects": 340,
+        "topic": {
+            "topics": 5,
+            "quality": 5,
+            "summary": "Dari 340 teks, teridentifikasi 5 topik utama (menggunakan IndoBERT). Topik dominan terkait dengan: biar, kapolri, begal, semoga, reformasi. Topik ini muncul pada 95 teks (28.5% dari total).",
+            "num_texts": 340,
+            "num_topics": 5,
+            "document_topics": 340,
+            "word_frequencies": 50
+        },
+        "asosiasi": {
+            "heatmap_matrix": 20,
+            "pmi_top_associations": 20
+        },
+        "mulai": "2026-09-05 17:09:13",
+        "selesai": "2026-09-05 17:16:02",
+        "durasi_detik": 409
+    },
+    {
+        "id": 6,
+        "judul": "Dewan Perwakilan Rakyat",
+        "tipe": "combined",
+        "status": "completed",
+        "total_records": 778,
+        "masukan": 778,
+        "prediksi": {
+            "jumlah": 778
+        },
+        "document_aspects": 778,
+        "topic": {
+            "topics": 17,
+            "quality": 5,
+            "summary": "Dari 778 teks, teridentifikasi 17 topik utama (menggunakan IndoBERT). Topik dominan terkait dengan: begal, sibuk, rampok, tanam, polda. Topik ini muncul pada 80 teks (10.4% dari total).",
+            "num_texts": 778,
+            "num_topics": 17,
+            "document_topics": 778,
+            "word_frequencies": 50
+        },
+        "asosiasi": {
+            "heatmap_matrix": 32,
+            "pmi_top_associations": 20
+        },
+        "mulai": "2026-09-05 17:17:30",
+        "selesai": "2026-09-05 17:26:42",
+        "durasi_detik": 552
+    }
+]

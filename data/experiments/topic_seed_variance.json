@@ -1,0 +1,66 @@
+{
+  "runs": [
+    {
+      "seed": 42,
+      "num_topics": 13,
+      "c_v": 0.5045,
+      "c_npmi": -0.3878,
+      "diversity": 0.9385,
+      "outlier_rate": 0.1277
+    },
+    {
+      "seed": 7,
+      "num_topics": 17,
+      "c_v": 0.5255,
+      "c_npmi": -0.4254,
+      "diversity": 0.9706,
+      "outlier_rate": 0.1729
+    },
+    {
+      "seed": 2024,
+      "num_topics": 19,
+      "c_v": 0.5103,
+      "c_npmi": -0.3884,
+      "diversity": 0.9632,
+      "outlier_rate": 0.1537
+    },
+    {
+      "seed": 123,
+      "num_topics": 13,
+      "c_v": 0.5057,
+      "c_npmi": -0.3677,
+      "diversity": 0.9769,
+      "outlier_rate": 0.1887
+    },
+    {
+      "seed": 999,
+      "num_topics": 6,
+      "c_v": 0.4657,
+      "c_npmi": -0.3369,
+      "diversity": 0.9,
+      "outlier_rate": 0.191
+    }
+  ],
+  "summary": {
+    "num_topics": {
+      "mean": 13.6,
+      "stdev": 4.98
+    },
+    "c_v": {
+      "mean": 0.5023,
+      "stdev": 0.0221
+    },
+    "c_npmi": {
+      "mean": -0.3812,
+      "stdev": 0.0324
+    },
+    "diversity": {
+      "mean": 0.9498,
+      "stdev": 0.0314
+    },
+    "outlier_rate": {
+      "mean": 0.1668,
+      "stdev": 0.0265
+    }
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "gold": "data/external/nusax/clean_gold.json",
+  "n": 57,
+  "model": "w11wo/indonesian-roberta-base-sentiment-classifier",
+  "metrics": {
+    "accuracy": 0.9474,
+    "macro_f1": 0.9361,
+    "weighted_f1": 0.949,
+    "per_class": {
+      "positive": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1": 0.8889,
+        "support": 12
+      },
+      "neutral": {
+        "precision": 1.0,
+        "recall": 0.8824,
+        "f1": 0.9375,
+        "support": 17
+      },
+      "negative": {
+        "precision": 1.0,
+        "recall": 0.9643,
+        "f1": 0.9818,
+        "support": 28
+      }
+    },
+    "confusion_matrix": [
+      [
+        12,
+        0,
+        0
+      ],
+      [
+        2,
+        15,
+        0
+      ],
+      [
+        1,
+        0,
+        27
+      ]
+    ],
+    "confusion_labels": [
+      "positive",
+      "neutral",
+      "negative"
+    ],
+    "support": 57,
+    "ece": 0.0366,
+    "avg_confidence": 0.9445,
+    "confidence_gap": -0.0029,
+    "temperature": 1.6132,
+    "seconds": 3.0,
+    "docs_per_second": 18.7,
+    "calibration": [
+      {
+        "range": "0.00-0.50",
+        "n": 1,
+        "share": 0.0175,
+        "accuracy": 1.0
+      },
+      {
+        "range": "0.70-0.90",
+        "n": 7,
+        "share": 0.1228,
+        "accuracy": 0.7143
+      },
+      {
+        "range": "0.90-0.99",
+        "n": 49,
+        "share": 0.8596,
+        "accuracy": 0.9796
+      }
+    ],
+    "methods": {
+      "indobert": 57
+    },
+    "review_yield": [
+      {
+        "threshold": 0.5,
+        "reviewed": 1,
+        "reviewed_share": 0.0175,
+        "errors_caught": 0,
+        "error_recall": 0.0,
+        "lift": 0.0
+      },
+      {
+        "threshold": 0.7,
+        "reviewed": 1,
+        "reviewed_share": 0.0175,
+        "errors_caught": 0,
+        "error_recall": 0.0,
+        "lift": 0.0
+      },
+      {
+        "threshold": 0.8,
+        "reviewed": 2,
+        "reviewed_share": 0.0351,
+        "errors_caught": 0,
+        "error_recall": 0.0,
+        "lift": 0.0
+      },
+      {
+        "threshold": 0.9,
+        "reviewed": 8,
+        "reviewed_share": 0.1404,
+        "errors_caught": 2,
+        "error_recall": 0.6667,
+        "lift": 4.75
+      },
+      {
+        "threshold": 0.95,
+        "reviewed": 14,
+        "reviewed_share": 0.2456,
+        "errors_caught": 3,
+        "error_recall": 1.0,
+        "lift": 4.07
+      },
+      {
+        "threshold": 0.99,
+        "reviewed": 57,
+        "reviewed_share": 1.0,
+        "errors_caught": 3,
+        "error_recall": 1.0,
+        "lift": 1.0
+      }
+    ]
+  }
+}

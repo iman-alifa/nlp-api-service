@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "judul": "Tentara Nasional Indonesia",
+        "teks": 3548,
+        "jumlah_topik": 12,
+        "quality": {
+            "c_v": 0.471,
+            "c_npmi": -0.2501,
+            "diversity": 0.9333,
+            "num_topics": 12,
+            "outlier_rate": 0.2528
+        }
+    },
+    {
+        "id": 2,
+        "judul": "Presiden",
+        "teks": 1858,
+        "jumlah_topik": 5,
+        "quality": {
+            "c_v": 0.5281,
+            "c_npmi": -0.2428,
+            "diversity": 1,
+            "num_topics": 5,
+            "outlier_rate": 0.0398
+        }
+    },
+    {
+        "id": 3,
+        "judul": "Kejaksaan Agung",
+        "teks": 1493,
+        "jumlah_topik": 17,
+        "quality": {
+            "c_v": 0.5184,
+            "c_npmi": -0.4022,
+            "diversity": 0.9235,
+            "num_topics": 17,
+            "outlier_rate": 0.0121
+        }
+    },
+    {
+        "id": 4,
+        "judul": "Komisi Pemberantasan Korupsi",
+        "teks": 368,
+        "jumlah_topik": 9,
+        "quality": {
+            "c_v": 0.4677,
+            "c_npmi": -0.3687,
+            "diversity": 0.9778,
+            "num_topics": 9,
+            "outlier_rate": 0.106
+        }
+    },
+    {
+        "id": 5,
+        "judul": "Kepolisian Republik Indonesia",
+        "teks": 340,
+        "jumlah_topik": 5,
+        "quality": {
+            "c_v": 0.5392,
+            "c_npmi": -0.4611,
+            "diversity": 0.96,
+            "num_topics": 5,
+            "outlier_rate": 0.1294
+        }
+    },
+    {
+        "id": 6,
+        "judul": "Dewan Perwakilan Rakyat",
+        "teks": 778,
+        "jumlah_topik": 17,
+        "quality": {
+            "c_v": 0.4742,
+            "c_npmi": -0.3939,
+            "diversity": 0.9647,
+            "num_topics": 17,
+            "outlier_rate": 0.2005
+        }
+    }
+]

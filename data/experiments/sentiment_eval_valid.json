@@ -1,0 +1,170 @@
+{
+  "gold": "data/external/smsa/valid_gold.json",
+  "n": 1260,
+  "model": "crypter70/IndoBERT-Sentiment-Analysis",
+  "metrics": {
+    "accuracy": 0.9389,
+    "macro_f1": 0.914,
+    "weighted_f1": 0.9389,
+    "per_class": {
+      "positive": {
+        "precision": 0.963,
+        "recall": 0.9565,
+        "f1": 0.9597,
+        "support": 735
+      },
+      "neutral": {
+        "precision": 0.8605,
+        "recall": 0.8473,
+        "f1": 0.8538,
+        "support": 131
+      },
+      "negative": {
+        "precision": 0.9202,
+        "recall": 0.9365,
+        "f1": 0.9283,
+        "support": 394
+      }
+    },
+    "confusion_matrix": [
+      [
+        703,
+        12,
+        20
+      ],
+      [
+        8,
+        111,
+        12
+      ],
+      [
+        19,
+        6,
+        369
+      ]
+    ],
+    "confusion_labels": [
+      "positive",
+      "neutral",
+      "negative"
+    ],
+    "support": 1260,
+    "ece": 0.0092,
+    "avg_confidence": 0.9463,
+    "confidence_gap": 0.0074,
+    "temperature": 2.7748,
+    "seconds": 53.5,
+    "docs_per_second": 23.6,
+    "calibration": [
+      {
+        "range": "0.00-0.50",
+        "n": 2,
+        "share": 0.0016,
+        "accuracy": 1.0
+      },
+      {
+        "range": "0.50-0.70",
+        "n": 18,
+        "share": 0.0143,
+        "accuracy": 0.5556
+      },
+      {
+        "range": "0.70-0.90",
+        "n": 51,
+        "share": 0.0405,
+        "accuracy": 0.6471
+      },
+      {
+        "range": "0.90-0.99",
+        "n": 1189,
+        "share": 0.9437,
+        "accuracy": 0.9571
+      }
+    ],
+    "methods": {
+      "indobert": 1260
+    },
+    "review_yield": [
+      {
+        "threshold": 0.5,
+        "reviewed": 2,
+        "reviewed_share": 0.0016,
+        "errors_caught": 0,
+        "error_recall": 0.0,
+        "lift": 0.0
+      },
+      {
+        "threshold": 0.7,
+        "reviewed": 20,
+        "reviewed_share": 0.0159,
+        "errors_caught": 8,
+        "error_recall": 0.1039,
+        "lift": 6.55
+      },
+      {
+        "threshold": 0.8,
+        "reviewed": 33,
+        "reviewed_share": 0.0262,
+        "errors_caught": 12,
+        "error_recall": 0.1558,
+        "lift": 5.95
+      },
+      {
+        "threshold": 0.9,
+        "reviewed": 71,
+        "reviewed_share": 0.0563,
+        "errors_caught": 26,
+        "error_recall": 0.3377,
+        "lift": 5.99
+      },
+      {
+        "threshold": 0.92,
+        "reviewed": 100,
+        "reviewed_share": 0.0794,
+        "errors_caught": 38,
+        "error_recall": 0.4935,
+        "lift": 6.22
+      },
+      {
+        "threshold": 0.94,
+        "reviewed": 153,
+        "reviewed_share": 0.1214,
+        "errors_caught": 51,
+        "error_recall": 0.6623,
+        "lift": 5.45
+      },
+      {
+        "threshold": 0.95,
+        "reviewed": 248,
+        "reviewed_share": 0.1968,
+        "errors_caught": 64,
+        "error_recall": 0.8312,
+        "lift": 4.22
+      },
+      {
+        "threshold": 0.96,
+        "reviewed": 675,
+        "reviewed_share": 0.5357,
+        "errors_caught": 74,
+        "error_recall": 0.961,
+        "lift": 1.79
+      },
+      {
+        "threshold": 0.98,
+        "reviewed": 1260,
+        "reviewed_share": 1.0,
+        "errors_caught": 77,
+        "error_recall": 1.0,
+        "lift": 1.0
+      },
+      {
+        "threshold": 0.99,
+        "reviewed": 1260,
+        "reviewed_share": 1.0,
+        "errors_caught": 77,
+        "error_recall": 1.0,
+        "lift": 1.0
+      }
+    ]
+  }
+}

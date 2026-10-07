@@ -1,0 +1,43 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# NLP & ML
+transformers==4.36.2
+# Diperlukan oleh `low_cpu_mem_usage=True` saat memuat bobot: ia memuat langsung
+# ke tensor model alih-alih menyalin penuh ke RAM lebih dulu, memangkas PUNCAK
+# memori kira-kira separuh. Tanpa paket ini transformers melempar ImportError
+# dan service jatuh DIAM-DIAM ke jalur daftar kata (terukur: akurasi SmSA
+# 0,9160 -> 0,6740). Murni Python, kecil.
+accelerate==0.34.2
+# Dipakai LANGSUNG oleh app/weights_store.py, bukan hanya lewat transformers.
+# Dipin eksplisit karena `models/` masuk .gitignore: Hub adalah salah satu dari
+# dua cara bobot hasil retraining bertahan melewati redeploy (satunya volume),
+# jadi ia dependensi fungsional, bukan kebetulan transitif.
+huggingface_hub==0.36.0
+# Dipin ke versi yang benar-benar dipakai saat fine-tuning lokal. Sebelumnya
+# tertulis 2.1.2 sementara venv berisi 2.9.1, sehingga Railway menjalankan torch
+# yang berbeda dari yang menghasilkan checkpoint.
+torch==2.9.1
+nltk==3.8.1
+sastrawi==1.0.1
+scikit-learn==1.3.2
+pandas==2.1.4
+numpy==1.26.2
+
+# Topic Modeling
+# gensim DIHAPUS: tidak pernah diimpor kode mana pun, dan pada scipy >= 1.13
+# versi 4.3.2 bahkan gagal diimpor (`cannot import name 'triu' from
+# scipy.linalg`). Metrik coherence dihitung sendiri di app/utils/topic_metrics.py
+# supaya tidak ada dependensi rusak yang ikut terpasang di image Railway.
+bertopic==0.16.0
+
+# Text Processing
+python-Levenshtein==0.23.0
+ftfy==6.1.3
+
+# Utilities
+python-dotenv==1.0.0
+aiofiles==23.2.1

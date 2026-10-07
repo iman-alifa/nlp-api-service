@@ -1,0 +1,42 @@
+[
+  {
+    "c_v": 0.516,
+    "c_npmi": -0.4514,
+    "diversity": 0.9692,
+    "outlier_rate": 0.0814,
+    "num_topics": 13,
+    "largest_share": 0.1141,
+    "top_words": "ikn, bangun, bangkrut, pusing, upacara, pelihara",
+    "encoder": "indobenchmark/indobert-base-p1"
+  },
+  {
+    "c_v": 0.4337,
+    "c_npmi": -0.2873,
+    "diversity": 0.9857,
+    "outlier_rate": 0.026,
+    "num_topics": 7,
+    "largest_share": 0.4328,
+    "top_words": "utang, hutang, jokowi, malu, uang, koruptor",
+    "encoder": "firqaaa/indo-sentence-bert-base"
+  },
+  {
+    "c_v": 0.4759,
+    "c_npmi": -0.3805,
+    "diversity": 0.9167,
+    "outlier_rate": 0.0497,
+    "num_topics": 12,
+    "largest_share": 0.2802,
+    "top_words": "patuh, dpr, suruh, pajak, warga, bayar",
+    "encoder": "intfloat/multilingual-e5-small"
+  },
+  {
+    "c_v": 0.4167,
+    "c_npmi": -0.3646,
+    "diversity": 0.9417,
+    "outlier_rate": 0.0486,
+    "num_topics": 12,
+    "largest_share": 0.2599,
+    "top_words": "pajak, patuh, dpr, taat, makan, malas",
+    "encoder": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+  }
+]

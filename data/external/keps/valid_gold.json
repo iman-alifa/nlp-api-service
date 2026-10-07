@@ -1,0 +1,4815 @@
+[
+ {
+  "text": "Teller BCA konter 1",
+  "spans": [
+   {
+    "start": 0,
+    "end": 10,
+    "surface": "Teller BCA"
+   },
+   {
+    "start": 11,
+    "end": 19,
+    "surface": "konter 1"
+   }
+  ]
+ },
+ {
+  "text": "admin @halobca kok susah dihubungi ya apa sedang gangguan",
+  "spans": [
+   {
+    "start": 6,
+    "end": 14,
+    "surface": "@halobca"
+   },
+   {
+    "start": 19,
+    "end": 24,
+    "surface": "susah"
+   },
+   {
+    "start": 25,
+    "end": 34,
+    "surface": "dihubungi"
+   },
+   {
+    "start": 49,
+    "end": 57,
+    "surface": "gangguan"
+   }
+  ]
+ },
+ {
+  "text": "cacat nih keybca mengganggu transaksi saja",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "cacat"
+   },
+   {
+    "start": 10,
+    "end": 16,
+    "surface": "keybca"
+   },
+   {
+    "start": 28,
+    "end": 37,
+    "surface": "transaksi"
+   }
+  ]
+ },
+ {
+  "text": "sms banking bca bisa untuk transaksi transfer tidak",
+  "spans": [
+   {
+    "start": 0,
+    "end": 15,
+    "surface": "sms banking bca"
+   },
+   {
+    "start": 27,
+    "end": 45,
+    "surface": "transaksi transfer"
+   }
+  ]
+ },
+ {
+  "text": "Sebal sama bca kartu kredit sudah pelunasan tetapi pas mau tutup kartu masih ada tagihan lagi sialan menyebalkan banget",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Sebal"
+   },
+   {
+    "start": 11,
+    "end": 14,
+    "surface": "bca"
+   },
+   {
+    "start": 15,
+    "end": 27,
+    "surface": "kartu kredit"
+   },
+   {
+    "start": 34,
+    "end": 43,
+    "surface": "pelunasan"
+   },
+   {
+    "start": 59,
+    "end": 64,
+    "surface": "tutup"
+   },
+   {
+    "start": 81,
+    "end": 88,
+    "surface": "tagihan"
+   },
+   {
+    "start": 94,
+    "end": 100,
+    "surface": "sialan"
+   },
+   {
+    "start": 101,
+    "end": 112,
+    "surface": "menyebalkan"
+   }
+  ]
+ },
+ {
+  "text": "@Bankbca kok tellernya bisa ada yang jutek begitu sih jadi pengin cepat-cepat kelar setorannya deh",
+  "spans": [
+   {
+    "start": 13,
+    "end": 22,
+    "surface": "tellernya"
+   },
+   {
+    "start": 37,
+    "end": 42,
+    "surface": "jutek"
+   },
+   {
+    "start": 59,
+    "end": 77,
+    "surface": "pengin cepat-cepat"
+   },
+   {
+    "start": 78,
+    "end": 83,
+    "surface": "kelar"
+   },
+   {
+    "start": 84,
+    "end": 94,
+    "surface": "setorannya"
+   }
+  ]
+ },
+ {
+  "text": "Mesin ATM se-Surabaya rusak semua @HaloBCA Asu",
+  "spans": [
+   {
+    "start": 0,
+    "end": 21,
+    "surface": "Mesin ATM se-Surabaya"
+   },
+   {
+    "start": 22,
+    "end": 27,
+    "surface": "rusak"
+   },
+   {
+    "start": 34,
+    "end": 42,
+    "surface": "@HaloBCA"
+   }
+  ]
+ },
+ {
+  "text": "Mobile banking bca dan klikbca mudah dipakai",
+  "spans": [
+   {
+    "start": 0,
+    "end": 18,
+    "surface": "Mobile banking bca"
+   },
+   {
+    "start": 23,
+    "end": 30,
+    "surface": "klikbca"
+   },
+   {
+    "start": 31,
+    "end": 36,
+    "surface": "mudah"
+   },
+   {
+    "start": 37,
+    "end": 44,
+    "surface": "dipakai"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA BCA kian hari kian parah Belanja di tokopedia via klikbca statusnya transaksi GAGAL tetapi saldo dipotong/didebit dikomplain katanya proses 1 minggu",
+  "spans": [
+   {
+    "start": 28,
+    "end": 33,
+    "surface": "parah"
+   },
+   {
+    "start": 45,
+    "end": 54,
+    "surface": "tokopedia"
+   },
+   {
+    "start": 59,
+    "end": 66,
+    "surface": "klikbca"
+   },
+   {
+    "start": 100,
+    "end": 122,
+    "surface": "saldo dipotong/didebit"
+   },
+   {
+    "start": 123,
+    "end": 133,
+    "surface": "dikomplain"
+   }
+  ]
+ },
+ {
+  "text": "apakah ada promo top up menggunakan kartu kredit bca untuk mendapatkan perencana 2019",
+  "spans": [
+   {
+    "start": 11,
+    "end": 16,
+    "surface": "promo"
+   },
+   {
+    "start": 17,
+    "end": 23,
+    "surface": "top up"
+   },
+   {
+    "start": 24,
+    "end": 35,
+    "surface": "menggunakan"
+   },
+   {
+    "start": 36,
+    "end": 52,
+    "surface": "kartu kredit bca"
+   }
+  ]
+ },
+ {
+  "text": "Pembelian dengan metode m-banking BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "surface": "Pembelian"
+   },
+   {
+    "start": 17,
+    "end": 23,
+    "surface": "metode"
+   },
+   {
+    "start": 24,
+    "end": 37,
+    "surface": "m-banking BCA"
+   }
+  ]
+ },
+ {
+  "text": "pakai sms banking dan telkomsel hingga di tempat terpencil masih tetap bisa menjangkau dunia",
+  "spans": [
+   {
+    "start": 0,
+    "end": 17,
+    "surface": "pakai sms banking"
+   },
+   {
+    "start": 22,
+    "end": 31,
+    "surface": "telkomsel"
+   },
+   {
+    "start": 42,
+    "end": 58,
+    "surface": "tempat terpencil"
+   }
+  ]
+ },
+ {
+  "text": "setiap customer service sudah dilatih dalam menghadapi nasabah",
+  "spans": [
+   {
+    "start": 7,
+    "end": 23,
+    "surface": "customer service"
+   },
+   {
+    "start": 30,
+    "end": 37,
+    "surface": "dilatih"
+   },
+   {
+    "start": 44,
+    "end": 54,
+    "surface": "menghadapi"
+   },
+   {
+    "start": 55,
+    "end": 62,
+    "surface": "nasabah"
+   }
+  ]
+ },
+ {
+  "text": "Bagaimana sih cara pakai e-channel BCA",
+  "spans": [
+   {
+    "start": 14,
+    "end": 24,
+    "surface": "cara pakai"
+   },
+   {
+    "start": 25,
+    "end": 38,
+    "surface": "e-channel BCA"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA supaya bisa cek transaksi dengan sms banking bagaimana caranya ya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 21,
+    "end": 34,
+    "surface": "cek transaksi"
+   },
+   {
+    "start": 42,
+    "end": 53,
+    "surface": "sms banking"
+   }
+  ]
+ },
+ {
+  "text": "Mau buka bca mobile mau transfer bayar kas saja susah banget deh lama saya enggak bayar kas",
+  "spans": [
+   {
+    "start": 9,
+    "end": 19,
+    "surface": "bca mobile"
+   },
+   {
+    "start": 24,
+    "end": 32,
+    "surface": "transfer"
+   },
+   {
+    "start": 33,
+    "end": 42,
+    "surface": "bayar kas"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "surface": "susah"
+   }
+  ]
+ },
+ {
+  "text": "mbak-mbak telemarketing BCA enggak sopan ya Dibilang enggak tertarik langsung tutup telepon waktu pembukaan saja manis-manis",
+  "spans": [
+   {
+    "start": 10,
+    "end": 27,
+    "surface": "telemarketing BCA"
+   },
+   {
+    "start": 28,
+    "end": 40,
+    "surface": "enggak sopan"
+   },
+   {
+    "start": 53,
+    "end": 68,
+    "surface": "enggak tertarik"
+   },
+   {
+    "start": 78,
+    "end": 91,
+    "surface": "tutup telepon"
+   },
+   {
+    "start": 98,
+    "end": 107,
+    "surface": "pembukaan"
+   },
+   {
+    "start": 113,
+    "end": 124,
+    "surface": "manis-manis"
+   }
+  ]
+ },
+ {
+  "text": "Fungsi mobile banking atau internet banking BCA memang memudahkan penggunanya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Fungsi"
+   },
+   {
+    "start": 7,
+    "end": 21,
+    "surface": "mobile banking"
+   },
+   {
+    "start": 27,
+    "end": 43,
+    "surface": "internet banking"
+   },
+   {
+    "start": 44,
+    "end": 47,
+    "surface": "BCA"
+   },
+   {
+    "start": 55,
+    "end": 65,
+    "surface": "memudahkan"
+   },
+   {
+    "start": 66,
+    "end": 77,
+    "surface": "penggunanya"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA #BCAerror ATM BCA Indomaret Kebayoran Lama eror",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 9,
+    "end": 18,
+    "surface": "#BCAerror"
+   },
+   {
+    "start": 19,
+    "end": 51,
+    "surface": "ATM BCA Indomaret Kebayoran Lama"
+   },
+   {
+    "start": 52,
+    "end": 56,
+    "surface": "eror"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA Yang terhormat admin mau tanya apakah ada gangguan untuk transfer ke bank lain hari ini menggunakan BCA Mobile",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 51,
+    "end": 59,
+    "surface": "gangguan"
+   },
+   {
+    "start": 66,
+    "end": 74,
+    "surface": "transfer"
+   },
+   {
+    "start": 78,
+    "end": 87,
+    "surface": "bank lain"
+   },
+   {
+    "start": 97,
+    "end": 108,
+    "surface": "menggunakan"
+   },
+   {
+    "start": 109,
+    "end": 119,
+    "surface": "BCA Mobile"
+   }
+  ]
+ },
+ {
+  "text": "Top up flazz di ATM Stasiun Pancasila enggak bisa :(",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Top up"
+   },
+   {
+    "start": 7,
+    "end": 12,
+    "surface": "flazz"
+   },
+   {
+    "start": 16,
+    "end": 37,
+    "surface": "ATM Stasiun Pancasila"
+   }
+  ]
+ },
+ {
+  "text": "terus suka menyangkut mending pakai mobile banking bca lebih gampang dipakai",
+  "spans": [
+   {
+    "start": 36,
+    "end": 50,
+    "surface": "mobile banking"
+   },
+   {
+    "start": 51,
+    "end": 54,
+    "surface": "bca"
+   },
+   {
+    "start": 61,
+    "end": 68,
+    "surface": "gampang"
+   },
+   {
+    "start": 69,
+    "end": 76,
+    "surface": "dipakai"
+   }
+  ]
+ },
+ {
+  "text": "sebal adalah ketika mau cek transaksi klikbca eror merusak suasana hati yang lagi semangat mau mendata :|",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "sebal"
+   },
+   {
+    "start": 28,
+    "end": 37,
+    "surface": "transaksi"
+   },
+   {
+    "start": 38,
+    "end": 45,
+    "surface": "klikbca"
+   },
+   {
+    "start": 46,
+    "end": 50,
+    "surface": "eror"
+   }
+  ]
+ },
+ {
+  "text": "semua ada yang mengalami problem di KlikBCA enggak ya Sejak semalam enggak bisa transaksi internet banking nih Sebal banget kalau pas lagi butuh",
+  "spans": [
+   {
+    "start": 68,
+    "end": 89,
+    "surface": "enggak bisa transaksi"
+   },
+   {
+    "start": 90,
+    "end": 106,
+    "surface": "internet banking"
+   }
+  ]
+ },
+ {
+  "text": "saudara saya menelepon call center @halobca kemarin dan tiba-tiba teleponnya dimatikan kan kesal",
+  "spans": [
+   {
+    "start": 13,
+    "end": 22,
+    "surface": "menelepon"
+   },
+   {
+    "start": 23,
+    "end": 43,
+    "surface": "call center @halobca"
+   },
+   {
+    "start": 66,
+    "end": 76,
+    "surface": "teleponnya"
+   },
+   {
+    "start": 77,
+    "end": 86,
+    "surface": "dimatikan"
+   },
+   {
+    "start": 91,
+    "end": 96,
+    "surface": "kesal"
+   }
+  ]
+ },
+ {
+  "text": "lelah banget hari ini mengantre di cs bca dari jam 10 sampai jam 3 :(",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "lelah"
+   },
+   {
+    "start": 22,
+    "end": 31,
+    "surface": "mengantre"
+   },
+   {
+    "start": 35,
+    "end": 37,
+    "surface": "cs"
+   },
+   {
+    "start": 38,
+    "end": 41,
+    "surface": "bca"
+   }
+  ]
+ },
+ {
+  "text": "10 Hari Satelit Telkom 1 Rusak Semua Mesin ATM BCA tidak dapat digunakan",
+  "spans": [
+   {
+    "start": 8,
+    "end": 22,
+    "surface": "Satelit Telkom"
+   },
+   {
+    "start": 25,
+    "end": 30,
+    "surface": "Rusak"
+   },
+   {
+    "start": 37,
+    "end": 46,
+    "surface": "Mesin ATM"
+   },
+   {
+    "start": 47,
+    "end": 50,
+    "surface": "BCA"
+   },
+   {
+    "start": 51,
+    "end": 62,
+    "surface": "tidak dapat"
+   },
+   {
+    "start": 63,
+    "end": 72,
+    "surface": "digunakan"
+   }
+  ]
+ },
+ {
+  "text": "@bankmandiri @bankbca memang mandiri online ini selalu bermasalah kalah sama bca mobile sekali buka lancar mandiri online mah sekali buka masalah terus",
+  "spans": [
+   {
+    "start": 0,
+    "end": 12,
+    "surface": "@bankmandiri"
+   },
+   {
+    "start": 13,
+    "end": 21,
+    "surface": "@bankbca"
+   },
+   {
+    "start": 29,
+    "end": 43,
+    "surface": "mandiri online"
+   },
+   {
+    "start": 48,
+    "end": 65,
+    "surface": "selalu bermasalah"
+   },
+   {
+    "start": 66,
+    "end": 71,
+    "surface": "kalah"
+   },
+   {
+    "start": 77,
+    "end": 87,
+    "surface": "bca mobile"
+   },
+   {
+    "start": 100,
+    "end": 106,
+    "surface": "lancar"
+   }
+  ]
+ },
+ {
+  "text": "mbak CSO BCA tadi pagi ramah dan lucu banget besok ke sana lagi ah kartu ATM hilangkan minta bikinkan baru sama mbak-mbaknya",
+  "spans": [
+   {
+    "start": 5,
+    "end": 8,
+    "surface": "CSO"
+   },
+   {
+    "start": 9,
+    "end": 12,
+    "surface": "BCA"
+   },
+   {
+    "start": 23,
+    "end": 28,
+    "surface": "ramah"
+   },
+   {
+    "start": 33,
+    "end": 37,
+    "surface": "lucu"
+   }
+  ]
+ },
+ {
+  "text": "halo bca ATM saya tertelan lagi di tempat yang sama Tiba-tiba mesin ATM mengulang kembali dengan sendirinya Ini bagaimana",
+  "spans": [
+   {
+    "start": 9,
+    "end": 12,
+    "surface": "ATM"
+   },
+   {
+    "start": 18,
+    "end": 26,
+    "surface": "tertelan"
+   },
+   {
+    "start": 62,
+    "end": 71,
+    "surface": "mesin ATM"
+   }
+  ]
+ },
+ {
+  "text": "weekend service bca bandung ramai oleh nasabah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 15,
+    "surface": "weekend service"
+   },
+   {
+    "start": 16,
+    "end": 27,
+    "surface": "bca bandung"
+   },
+   {
+    "start": 28,
+    "end": 33,
+    "surface": "ramai"
+   },
+   {
+    "start": 39,
+    "end": 46,
+    "surface": "nasabah"
+   }
+  ]
+ },
+ {
+  "text": "rezeki itu salah satunya adalah ketika mau bayar buku di kasir Gramedia tahu-tahu ada promo KK BCA diskon 20% sampai 21 juni ☺",
+  "spans": [
+   {
+    "start": 43,
+    "end": 48,
+    "surface": "bayar"
+   },
+   {
+    "start": 49,
+    "end": 53,
+    "surface": "buku"
+   },
+   {
+    "start": 57,
+    "end": 71,
+    "surface": "kasir Gramedia"
+   },
+   {
+    "start": 86,
+    "end": 91,
+    "surface": "promo"
+   },
+   {
+    "start": 92,
+    "end": 98,
+    "surface": "KK BCA"
+   }
+  ]
+ },
+ {
+  "text": "ternyata produk bca banyak juga ya sangat membantu nasabah",
+  "spans": [
+   {
+    "start": 9,
+    "end": 19,
+    "surface": "produk bca"
+   },
+   {
+    "start": 20,
+    "end": 26,
+    "surface": "banyak"
+   },
+   {
+    "start": 42,
+    "end": 50,
+    "surface": "membantu"
+   },
+   {
+    "start": 51,
+    "end": 58,
+    "surface": "nasabah"
+   }
+  ]
+ },
+ {
+  "text": "saya tidak pernah kecewa sama pelayanan cs bca bagaimana pun sudah mencuri hati saya",
+  "spans": [
+   {
+    "start": 5,
+    "end": 24,
+    "surface": "tidak pernah kecewa"
+   },
+   {
+    "start": 30,
+    "end": 39,
+    "surface": "pelayanan"
+   },
+   {
+    "start": 40,
+    "end": 42,
+    "surface": "cs"
+   },
+   {
+    "start": 43,
+    "end": 46,
+    "surface": "bca"
+   }
+  ]
+ },
+ {
+  "text": "Parah ni klikpay bisa transaksinya cuma jam kerja doang x_x huyuh",
+  "spans": [
+   {
+    "start": 9,
+    "end": 16,
+    "surface": "klikpay"
+   },
+   {
+    "start": 22,
+    "end": 34,
+    "surface": "transaksinya"
+   },
+   {
+    "start": 40,
+    "end": 49,
+    "surface": "jam kerja"
+   }
+  ]
+ },
+ {
+  "text": "Spesial hari kemerdekaan ada banyak promo termasuk untuk kamar penginapan Asyiknya pakai @KartuKreditBCA",
+  "spans": [
+   {
+    "start": 36,
+    "end": 41,
+    "surface": "promo"
+   },
+   {
+    "start": 57,
+    "end": 73,
+    "surface": "kamar penginapan"
+   },
+   {
+    "start": 83,
+    "end": 104,
+    "surface": "pakai @KartuKreditBCA"
+   }
+  ]
+ },
+ {
+  "text": "Ini teller BCA Prioritas menghitung duit sambil menonton gosip di TV Belum lagi pakai bengong lama ya mbak kerjanya",
+  "spans": [
+   {
+    "start": 4,
+    "end": 24,
+    "surface": "teller BCA Prioritas"
+   },
+   {
+    "start": 86,
+    "end": 93,
+    "surface": "bengong"
+   },
+   {
+    "start": 94,
+    "end": 98,
+    "surface": "lama"
+   },
+   {
+    "start": 107,
+    "end": 115,
+    "surface": "kerjanya"
+   }
+  ]
+ },
+ {
+  "text": "maaf mau bertanya untuk bca tahapan gold apakah tiap mau transaksi transfer lewat internet banking terkena biaya tambahan",
+  "spans": [
+   {
+    "start": 24,
+    "end": 40,
+    "surface": "bca tahapan gold"
+   },
+   {
+    "start": 57,
+    "end": 66,
+    "surface": "transaksi"
+   },
+   {
+    "start": 67,
+    "end": 75,
+    "surface": "transfer"
+   },
+   {
+    "start": 82,
+    "end": 98,
+    "surface": "internet banking"
+   },
+   {
+    "start": 107,
+    "end": 121,
+    "surface": "biaya tambahan"
+   }
+  ]
+ },
+ {
+  "text": "saya dapat tawaran pengajuan Kartu Kredit BCA melalui telepon",
+  "spans": [
+   {
+    "start": 11,
+    "end": 18,
+    "surface": "tawaran"
+   },
+   {
+    "start": 19,
+    "end": 28,
+    "surface": "pengajuan"
+   },
+   {
+    "start": 29,
+    "end": 45,
+    "surface": "Kartu Kredit BCA"
+   },
+   {
+    "start": 46,
+    "end": 53,
+    "surface": "melalui"
+   },
+   {
+    "start": 54,
+    "end": 61,
+    "surface": "telepon"
+   }
+  ]
+ },
+ {
+  "text": "Di tengah transaksi tiba2 keybca tidak dapat digunakan muncul tulisan tombol dan mati",
+  "spans": [
+   {
+    "start": 26,
+    "end": 32,
+    "surface": "keybca"
+   },
+   {
+    "start": 33,
+    "end": 54,
+    "surface": "tidak dapat digunakan"
+   }
+  ]
+ },
+ {
+  "text": "@BankBCA admin mau tanya bank BCA transfer ke semua bank lain kena biaya admin berapa ya Terima kasih",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@BankBCA"
+   },
+   {
+    "start": 25,
+    "end": 33,
+    "surface": "bank BCA"
+   },
+   {
+    "start": 34,
+    "end": 42,
+    "surface": "transfer"
+   },
+   {
+    "start": 46,
+    "end": 61,
+    "surface": "semua bank lain"
+   },
+   {
+    "start": 67,
+    "end": 78,
+    "surface": "biaya admin"
+   }
+  ]
+ },
+ {
+  "text": "Aaargh teller BCA bisakah kamu lebih cepat hoam",
+  "spans": [
+   {
+    "start": 7,
+    "end": 17,
+    "surface": "teller BCA"
+   },
+   {
+    "start": 37,
+    "end": 42,
+    "surface": "cepat"
+   }
+  ]
+ },
+ {
+  "text": "Tidak hanya simpanan produk BCA juga meliputi kredit dan deposito",
+  "spans": [
+   {
+    "start": 12,
+    "end": 20,
+    "surface": "simpanan"
+   },
+   {
+    "start": 21,
+    "end": 31,
+    "surface": "produk BCA"
+   },
+   {
+    "start": 46,
+    "end": 52,
+    "surface": "kredit"
+   },
+   {
+    "start": 57,
+    "end": 65,
+    "surface": "deposito"
+   }
+  ]
+ },
+ {
+  "text": "bakal kartu kredit BCA aku tutup semuanya @KartuKreditBCA mengecewakan",
+  "spans": [
+   {
+    "start": 6,
+    "end": 22,
+    "surface": "kartu kredit BCA"
+   },
+   {
+    "start": 27,
+    "end": 32,
+    "surface": "tutup"
+   },
+   {
+    "start": 42,
+    "end": 57,
+    "surface": "@KartuKreditBCA"
+   },
+   {
+    "start": 58,
+    "end": 70,
+    "surface": "mengecewakan"
+   }
+  ]
+ },
+ {
+  "text": "@halobca bukannya penggantian keybca 10 ribu sejak kapan jadi 50 ribu mahal banget anjing",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@halobca"
+   },
+   {
+    "start": 18,
+    "end": 29,
+    "surface": "penggantian"
+   },
+   {
+    "start": 30,
+    "end": 36,
+    "surface": "keybca"
+   }
+  ]
+ },
+ {
+  "text": "Sepertinya saya jatuh cinta atas kebaikan hati cs yang tadi deh :) @bankBCA",
+  "spans": [
+   {
+    "start": 16,
+    "end": 27,
+    "surface": "jatuh cinta"
+   },
+   {
+    "start": 33,
+    "end": 41,
+    "surface": "kebaikan"
+   },
+   {
+    "start": 47,
+    "end": 49,
+    "surface": "cs"
+   },
+   {
+    "start": 67,
+    "end": 75,
+    "surface": "@bankBCA"
+   }
+  ]
+ },
+ {
+  "text": "saya melihat anak sekolah sedang belajar menunggu antrean di bank bca bersama gurunya",
+  "spans": [
+   {
+    "start": 13,
+    "end": 25,
+    "surface": "anak sekolah"
+   },
+   {
+    "start": 33,
+    "end": 40,
+    "surface": "belajar"
+   },
+   {
+    "start": 41,
+    "end": 49,
+    "surface": "menunggu"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "surface": "antrean"
+   },
+   {
+    "start": 61,
+    "end": 69,
+    "surface": "bank bca"
+   }
+  ]
+ },
+ {
+  "text": "Gampang banget sih beli pulsa lewat bca mobile enggak ada biaya adminnya pula",
+  "spans": [
+   {
+    "start": 19,
+    "end": 29,
+    "surface": "beli pulsa"
+   },
+   {
+    "start": 36,
+    "end": 46,
+    "surface": "bca mobile"
+   }
+  ]
+ },
+ {
+  "text": "Ini klikBCA kenapa sih enggak benar-benar sebal",
+  "spans": [
+   {
+    "start": 23,
+    "end": 41,
+    "surface": "enggak benar-benar"
+   },
+   {
+    "start": 42,
+    "end": 47,
+    "surface": "sebal"
+   }
+  ]
+ },
+ {
+  "text": "Enggak bisa pindah ke lain hati selain ke SMS banking BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 18,
+    "surface": "Enggak bisa pindah"
+   },
+   {
+    "start": 42,
+    "end": 57,
+    "surface": "SMS banking BCA"
+   }
+  ]
+ },
+ {
+  "text": "Payah banget nih KlikBCA Bisnis Di saat lagi darurat harus transfer pemasok malah eror @HaloBCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Payah"
+   },
+   {
+    "start": 17,
+    "end": 31,
+    "surface": "KlikBCA Bisnis"
+   },
+   {
+    "start": 45,
+    "end": 52,
+    "surface": "darurat"
+   },
+   {
+    "start": 82,
+    "end": 86,
+    "surface": "eror"
+   },
+   {
+    "start": 87,
+    "end": 95,
+    "surface": "@HaloBCA"
+   }
+  ]
+ },
+ {
+  "text": "bagaimana mau transaksi keybca-nya saja belum jadi",
+  "spans": [
+   {
+    "start": 14,
+    "end": 23,
+    "surface": "transaksi"
+   },
+   {
+    "start": 24,
+    "end": 34,
+    "surface": "keybca-nya"
+   }
+  ]
+ },
+ {
+  "text": "enggak akurat nih kode respons keybca",
+  "spans": [
+   {
+    "start": 0,
+    "end": 13,
+    "surface": "enggak akurat"
+   },
+   {
+    "start": 18,
+    "end": 30,
+    "surface": "kode respons"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "surface": "keybca"
+   }
+  ]
+ },
+ {
+  "text": "sampai saat ini saldo klikpay saya belum juga dikembalikan mana tanggung jawabnya",
+  "spans": [
+   {
+    "start": 16,
+    "end": 29,
+    "surface": "saldo klikpay"
+   },
+   {
+    "start": 64,
+    "end": 81,
+    "surface": "tanggung jawabnya"
+   }
+  ]
+ },
+ {
+  "text": "saya menelepon call center bca susah sekali",
+  "spans": [
+   {
+    "start": 5,
+    "end": 14,
+    "surface": "menelepon"
+   },
+   {
+    "start": 15,
+    "end": 30,
+    "surface": "call center bca"
+   },
+   {
+    "start": 31,
+    "end": 36,
+    "surface": "susah"
+   }
+  ]
+ },
+ {
+  "text": "Mahal banget pulsa buat sms banking BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Mahal"
+   },
+   {
+    "start": 13,
+    "end": 18,
+    "surface": "pulsa"
+   },
+   {
+    "start": 24,
+    "end": 39,
+    "surface": "sms banking BCA"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA saya mau transfer ke virtual account bca kok tidak bisa tulisannya nomor rekening tidak terdaftar Padahal saya mengetik di keybca-nya sudah benar bagaimana sih",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 18,
+    "end": 26,
+    "surface": "transfer"
+   },
+   {
+    "start": 30,
+    "end": 49,
+    "surface": "virtual account bca"
+   }
+  ]
+ },
+ {
+  "text": "awalnya keybca nonaktif seperti di gambar Lalu beberapa saat kemudian bisa normal eh tahunya pas dicoba transaksi malah gagal",
+  "spans": [
+   {
+    "start": 8,
+    "end": 14,
+    "surface": "keybca"
+   },
+   {
+    "start": 15,
+    "end": 23,
+    "surface": "nonaktif"
+   },
+   {
+    "start": 75,
+    "end": 81,
+    "surface": "normal"
+   }
+  ]
+ },
+ {
+  "text": "saya sudah tidak sanggup mengantre untuk ke teller BCA ini",
+  "spans": [
+   {
+    "start": 11,
+    "end": 24,
+    "surface": "tidak sanggup"
+   },
+   {
+    "start": 25,
+    "end": 34,
+    "surface": "mengantre"
+   }
+  ]
+ },
+ {
+  "text": "Gusti klikBCA transfer gagal melulu Parah banget ganggu kerja saja ck",
+  "spans": [
+   {
+    "start": 14,
+    "end": 22,
+    "surface": "transfer"
+   },
+   {
+    "start": 23,
+    "end": 28,
+    "surface": "gagal"
+   },
+   {
+    "start": 49,
+    "end": 55,
+    "surface": "ganggu"
+   },
+   {
+    "start": 56,
+    "end": 61,
+    "surface": "kerja"
+   }
+  ]
+ },
+ {
+  "text": "BNI Sms Banking sekarang keren ya BCA kalah karena terlalu ribet memakainya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 15,
+    "surface": "BNI Sms Banking"
+   },
+   {
+    "start": 25,
+    "end": 30,
+    "surface": "keren"
+   },
+   {
+    "start": 34,
+    "end": 37,
+    "surface": "BCA"
+   },
+   {
+    "start": 38,
+    "end": 43,
+    "surface": "kalah"
+   },
+   {
+    "start": 59,
+    "end": 75,
+    "surface": "ribet memakainya"
+   }
+  ]
+ },
+ {
+  "text": "Semua produk BCA sudah terdigitalisasi",
+  "spans": [
+   {
+    "start": 6,
+    "end": 16,
+    "surface": "produk BCA"
+   },
+   {
+    "start": 23,
+    "end": 38,
+    "surface": "terdigitalisasi"
+   }
+  ]
+ },
+ {
+  "text": "besok-besok kalau beli pulsa lewat mobile bca saja simpel",
+  "spans": [
+   {
+    "start": 18,
+    "end": 28,
+    "surface": "beli pulsa"
+   },
+   {
+    "start": 35,
+    "end": 45,
+    "surface": "mobile bca"
+   },
+   {
+    "start": 51,
+    "end": 57,
+    "surface": "simpel"
+   }
+  ]
+ },
+ {
+  "text": "gue bayar pln pakai e-channel gampang sih transaksinya cuma dikenakan biaya 3000 dan menurut gue itu mahal",
+  "spans": [
+   {
+    "start": 4,
+    "end": 13,
+    "surface": "bayar pln"
+   },
+   {
+    "start": 20,
+    "end": 29,
+    "surface": "e-channel"
+   },
+   {
+    "start": 30,
+    "end": 37,
+    "surface": "gampang"
+   },
+   {
+    "start": 42,
+    "end": 54,
+    "surface": "transaksinya"
+   },
+   {
+    "start": 60,
+    "end": 69,
+    "surface": "dikenakan"
+   },
+   {
+    "start": 70,
+    "end": 75,
+    "surface": "biaya"
+   },
+   {
+    "start": 101,
+    "end": 106,
+    "surface": "mahal"
+   }
+  ]
+ },
+ {
+  "text": "ini kenapa ya seluler klikpay kok internal server error melulu di tengah-tengah lagi transfer Parah nih",
+  "spans": [
+   {
+    "start": 22,
+    "end": 29,
+    "surface": "klikpay"
+   },
+   {
+    "start": 34,
+    "end": 55,
+    "surface": "internal server error"
+   },
+   {
+    "start": 85,
+    "end": 93,
+    "surface": "transfer"
+   }
+  ]
+ },
+ {
+  "text": "Pendaftaran BCA Mobile dan KlikBCA apakah harus ke kantor cabang",
+  "spans": [
+   {
+    "start": 0,
+    "end": 11,
+    "surface": "Pendaftaran"
+   },
+   {
+    "start": 12,
+    "end": 22,
+    "surface": "BCA Mobile"
+   },
+   {
+    "start": 27,
+    "end": 34,
+    "surface": "KlikBCA"
+   },
+   {
+    "start": 51,
+    "end": 64,
+    "surface": "kantor cabang"
+   }
+  ]
+ },
+ {
+  "text": "keybca saya kalau dihidupkan keluar 9 digit angka enggak jelas begitu",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "keybca"
+   },
+   {
+    "start": 44,
+    "end": 62,
+    "surface": "angka enggak jelas"
+   }
+  ]
+ },
+ {
+  "text": "Bank BCA butuh memperbaiki mobile banking segera",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "Bank BCA"
+   },
+   {
+    "start": 15,
+    "end": 26,
+    "surface": "memperbaiki"
+   },
+   {
+    "start": 27,
+    "end": 41,
+    "surface": "mobile banking"
+   }
+  ]
+ },
+ {
+  "text": "@halobca baru tahu ganti token keybca yang terblokir dikenakan biaya 50 ribu sadis ini mah bca #gobanmelayang",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@halobca"
+   },
+   {
+    "start": 19,
+    "end": 24,
+    "surface": "ganti"
+   },
+   {
+    "start": 25,
+    "end": 30,
+    "surface": "token"
+   },
+   {
+    "start": 31,
+    "end": 37,
+    "surface": "keybca"
+   },
+   {
+    "start": 43,
+    "end": 52,
+    "surface": "terblokir"
+   },
+   {
+    "start": 53,
+    "end": 62,
+    "surface": "dikenakan"
+   },
+   {
+    "start": 63,
+    "end": 68,
+    "surface": "biaya"
+   },
+   {
+    "start": 77,
+    "end": 82,
+    "surface": "sadis"
+   }
+  ]
+ },
+ {
+  "text": "selamat pagi admin @HaloBCA kalau nomor telepon genggam kita pernah dipakai di bank lain apakah memang tidak bisa lagi dipakai untuk layanan sms banking di bank BCA terima kasih",
+  "spans": [
+   {
+    "start": 19,
+    "end": 27,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 34,
+    "end": 55,
+    "surface": "nomor telepon genggam"
+   },
+   {
+    "start": 68,
+    "end": 75,
+    "surface": "dipakai"
+   },
+   {
+    "start": 79,
+    "end": 88,
+    "surface": "bank lain"
+   },
+   {
+    "start": 103,
+    "end": 126,
+    "surface": "tidak bisa lagi dipakai"
+   },
+   {
+    "start": 141,
+    "end": 152,
+    "surface": "sms banking"
+   },
+   {
+    "start": 156,
+    "end": 164,
+    "surface": "bank BCA"
+   }
+  ]
+ },
+ {
+  "text": "Lihat wajah bahagia saya Ini gara-gara dapat cashback dari Tokopedia setelah belanja dengan kartu kredit @BankBCA",
+  "spans": [
+   {
+    "start": 45,
+    "end": 53,
+    "surface": "cashback"
+   },
+   {
+    "start": 59,
+    "end": 68,
+    "surface": "Tokopedia"
+   },
+   {
+    "start": 77,
+    "end": 84,
+    "surface": "belanja"
+   },
+   {
+    "start": 92,
+    "end": 104,
+    "surface": "kartu kredit"
+   },
+   {
+    "start": 105,
+    "end": 113,
+    "surface": "@BankBCA"
+   }
+  ]
+ },
+ {
+  "text": "saya angkat tangan deh sama keybca gembel",
+  "spans": [
+   {
+    "start": 5,
+    "end": 18,
+    "surface": "angkat tangan"
+   },
+   {
+    "start": 28,
+    "end": 34,
+    "surface": "keybca"
+   }
+  ]
+ },
+ {
+  "text": "Tidak pernah kecewa dengan promo-promo yang diberikan kartu kredit BCA @KartuKreditBCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 19,
+    "surface": "Tidak pernah kecewa"
+   },
+   {
+    "start": 27,
+    "end": 38,
+    "surface": "promo-promo"
+   },
+   {
+    "start": 54,
+    "end": 70,
+    "surface": "kartu kredit BCA"
+   },
+   {
+    "start": 71,
+    "end": 86,
+    "surface": "@KartuKreditBCA"
+   }
+  ]
+ },
+ {
+  "text": "Biar transaksi aman saya selalu pakai mobile dan internet banking BCA",
+  "spans": [
+   {
+    "start": 5,
+    "end": 14,
+    "surface": "transaksi"
+   },
+   {
+    "start": 15,
+    "end": 19,
+    "surface": "aman"
+   },
+   {
+    "start": 38,
+    "end": 44,
+    "surface": "mobile"
+   },
+   {
+    "start": 49,
+    "end": 65,
+    "surface": "internet banking"
+   },
+   {
+    "start": 66,
+    "end": 69,
+    "surface": "BCA"
+   }
+  ]
+ },
+ {
+  "text": "ditelepon bca dan ditawari cc waktu bilang belum minat dan lagi enggak pengin langsung ditutup itu telepon sama cs-nya gedek enggak itu",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "surface": "ditelepon"
+   },
+   {
+    "start": 10,
+    "end": 13,
+    "surface": "bca"
+   },
+   {
+    "start": 18,
+    "end": 26,
+    "surface": "ditawari"
+   },
+   {
+    "start": 27,
+    "end": 29,
+    "surface": "cc"
+   },
+   {
+    "start": 43,
+    "end": 54,
+    "surface": "belum minat"
+   },
+   {
+    "start": 64,
+    "end": 77,
+    "surface": "enggak pengin"
+   },
+   {
+    "start": 87,
+    "end": 94,
+    "surface": "ditutup"
+   },
+   {
+    "start": 99,
+    "end": 106,
+    "surface": "telepon"
+   },
+   {
+    "start": 112,
+    "end": 118,
+    "surface": "cs-nya"
+   },
+   {
+    "start": 119,
+    "end": 124,
+    "surface": "gedek"
+   }
+  ]
+ },
+ {
+  "text": "klikpay terblokir melulu sistem internet banking-nya parah benar",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "surface": "klikpay"
+   },
+   {
+    "start": 8,
+    "end": 17,
+    "surface": "terblokir"
+   },
+   {
+    "start": 25,
+    "end": 52,
+    "surface": "sistem internet banking-nya"
+   },
+   {
+    "start": 53,
+    "end": 58,
+    "surface": "parah"
+   }
+  ]
+ },
+ {
+  "text": "tutorial bayar tagihan via KLIKBCA bagaimana ya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "tutorial"
+   },
+   {
+    "start": 9,
+    "end": 22,
+    "surface": "bayar tagihan"
+   },
+   {
+    "start": 27,
+    "end": 34,
+    "surface": "KLIKBCA"
+   }
+  ]
+ },
+ {
+  "text": "mas CS ganteng (di BCA Summarecon Mall Serpong)",
+  "spans": [
+   {
+    "start": 4,
+    "end": 6,
+    "surface": "CS"
+   },
+   {
+    "start": 7,
+    "end": 14,
+    "surface": "ganteng"
+   }
+  ]
+ },
+ {
+  "text": "kekinian banget semua produk bca",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "kekinian"
+   },
+   {
+    "start": 22,
+    "end": 32,
+    "surface": "produk bca"
+   }
+  ]
+ },
+ {
+  "text": "@bankbca SUSAH BANGET MAU TUTUP KARTU KREDIT SAJA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@bankbca"
+   },
+   {
+    "start": 9,
+    "end": 14,
+    "surface": "SUSAH"
+   },
+   {
+    "start": 26,
+    "end": 31,
+    "surface": "TUTUP"
+   },
+   {
+    "start": 32,
+    "end": 44,
+    "surface": "KARTU KREDIT"
+   }
+  ]
+ },
+ {
+  "text": "kode respons yang diberikan keybca enggak ada yang benar",
+  "spans": [
+   {
+    "start": 0,
+    "end": 12,
+    "surface": "kode respons"
+   },
+   {
+    "start": 18,
+    "end": 27,
+    "surface": "diberikan"
+   },
+   {
+    "start": 28,
+    "end": 34,
+    "surface": "keybca"
+   }
+  ]
+ },
+ {
+  "text": "pembayaran indihome via m-banking bagaimana Bank bca",
+  "spans": [
+   {
+    "start": 0,
+    "end": 10,
+    "surface": "pembayaran"
+   },
+   {
+    "start": 11,
+    "end": 19,
+    "surface": "indihome"
+   },
+   {
+    "start": 24,
+    "end": 33,
+    "surface": "m-banking"
+   },
+   {
+    "start": 44,
+    "end": 52,
+    "surface": "Bank bca"
+   }
+  ]
+ },
+ {
+  "text": "mengurus klikbca saya juga enggak bisa katanya kuotanya dibatasi",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "mengurus"
+   },
+   {
+    "start": 9,
+    "end": 16,
+    "surface": "klikbca"
+   },
+   {
+    "start": 47,
+    "end": 55,
+    "surface": "kuotanya"
+   },
+   {
+    "start": 56,
+    "end": 64,
+    "surface": "dibatasi"
+   }
+  ]
+ },
+ {
+  "text": "Teller bca tidak ada yang lambat",
+  "spans": [
+   {
+    "start": 11,
+    "end": 32,
+    "surface": "tidak ada yang lambat"
+   }
+  ]
+ },
+ {
+  "text": "habis ditelepon mas-mas telemarketing bca ditawari asuransi jaminan kesehatan katanya karena gue nasabah istimewa cape dengarkannya -_-",
+  "spans": [
+   {
+    "start": 6,
+    "end": 15,
+    "surface": "ditelepon"
+   },
+   {
+    "start": 24,
+    "end": 41,
+    "surface": "telemarketing bca"
+   },
+   {
+    "start": 42,
+    "end": 50,
+    "surface": "ditawari"
+   },
+   {
+    "start": 51,
+    "end": 77,
+    "surface": "asuransi jaminan kesehatan"
+   },
+   {
+    "start": 97,
+    "end": 104,
+    "surface": "nasabah"
+   },
+   {
+    "start": 105,
+    "end": 113,
+    "surface": "istimewa"
+   }
+  ]
+ },
+ {
+  "text": "Proses tutup kartu kredit BCA & Mandiri berbulan-bulan tanpa hasil",
+  "spans": [
+   {
+    "start": 0,
+    "end": 12,
+    "surface": "Proses tutup"
+   },
+   {
+    "start": 13,
+    "end": 29,
+    "surface": "kartu kredit BCA"
+   },
+   {
+    "start": 32,
+    "end": 39,
+    "surface": "Mandiri"
+   },
+   {
+    "start": 55,
+    "end": 66,
+    "surface": "tanpa hasil"
+   }
+  ]
+ },
+ {
+  "text": "Kemarin butuh uang tunai tetapi enggak bawa kartu ATM terus coba transkasi pakai e-channel BCA ternyata bisa tarik tunai tanpa kartu",
+  "spans": [
+   {
+    "start": 8,
+    "end": 13,
+    "surface": "butuh"
+   },
+   {
+    "start": 14,
+    "end": 24,
+    "surface": "uang tunai"
+   },
+   {
+    "start": 32,
+    "end": 53,
+    "surface": "enggak bawa kartu ATM"
+   },
+   {
+    "start": 65,
+    "end": 74,
+    "surface": "transkasi"
+   },
+   {
+    "start": 75,
+    "end": 80,
+    "surface": "pakai"
+   },
+   {
+    "start": 81,
+    "end": 90,
+    "surface": "e-channel"
+   },
+   {
+    "start": 91,
+    "end": 94,
+    "surface": "BCA"
+   },
+   {
+    "start": 109,
+    "end": 132,
+    "surface": "tarik tunai tanpa kartu"
+   }
+  ]
+ },
+ {
+  "text": "tiap gue pakai m-bca selalu enggak bisa deh padahal mah enggak ada masalah apa-apa dari perangkat gue",
+  "spans": [
+   {
+    "start": 9,
+    "end": 20,
+    "surface": "pakai m-bca"
+   },
+   {
+    "start": 56,
+    "end": 74,
+    "surface": "enggak ada masalah"
+   }
+  ]
+ },
+ {
+  "text": "admin cara pembayaran lewat m-banking bca bagaimana",
+  "spans": [
+   {
+    "start": 6,
+    "end": 10,
+    "surface": "cara"
+   },
+   {
+    "start": 11,
+    "end": 21,
+    "surface": "pembayaran"
+   },
+   {
+    "start": 22,
+    "end": 27,
+    "surface": "lewat"
+   },
+   {
+    "start": 28,
+    "end": 41,
+    "surface": "m-banking bca"
+   }
+  ]
+ },
+ {
+  "text": "Terima kasih buat BCA untuk call center yang begitu ramah :D cinta kamu",
+  "spans": [
+   {
+    "start": 18,
+    "end": 21,
+    "surface": "BCA"
+   },
+   {
+    "start": 28,
+    "end": 39,
+    "surface": "call center"
+   },
+   {
+    "start": 52,
+    "end": 57,
+    "surface": "ramah"
+   }
+  ]
+ },
+ {
+  "text": "saya telah membayar tagihan melalui m-banking di bca",
+  "spans": [
+   {
+    "start": 11,
+    "end": 27,
+    "surface": "membayar tagihan"
+   },
+   {
+    "start": 36,
+    "end": 45,
+    "surface": "m-banking"
+   },
+   {
+    "start": 49,
+    "end": 52,
+    "surface": "bca"
+   }
+  ]
+ },
+ {
+  "text": "teman saya mengajarkan cara bertransaksi menggunakan mobile banking",
+  "spans": [
+   {
+    "start": 11,
+    "end": 22,
+    "surface": "mengajarkan"
+   },
+   {
+    "start": 23,
+    "end": 27,
+    "surface": "cara"
+   },
+   {
+    "start": 28,
+    "end": 40,
+    "surface": "bertransaksi"
+   },
+   {
+    "start": 41,
+    "end": 52,
+    "surface": "menggunakan"
+   },
+   {
+    "start": 53,
+    "end": 67,
+    "surface": "mobile banking"
+   }
+  ]
+ },
+ {
+  "text": "Yang terhormat @HaloBCA mau bertanya ada enggak prosedur yang bisa ditempuh agar pengguna CC tidak lagi ditawari telemarketing BCA sangat mengganggu",
+  "spans": [
+   {
+    "start": 15,
+    "end": 23,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 48,
+    "end": 56,
+    "surface": "prosedur"
+   },
+   {
+    "start": 67,
+    "end": 75,
+    "surface": "ditempuh"
+   },
+   {
+    "start": 81,
+    "end": 92,
+    "surface": "pengguna CC"
+   },
+   {
+    "start": 93,
+    "end": 112,
+    "surface": "tidak lagi ditawari"
+   },
+   {
+    "start": 113,
+    "end": 130,
+    "surface": "telemarketing BCA"
+   },
+   {
+    "start": 138,
+    "end": 148,
+    "surface": "mengganggu"
+   }
+  ]
+ },
+ {
+  "text": "saya lelah dengan pemakaian keybca sangat menghambat transaksi",
+  "spans": [
+   {
+    "start": 5,
+    "end": 10,
+    "surface": "lelah"
+   },
+   {
+    "start": 18,
+    "end": 27,
+    "surface": "pemakaian"
+   },
+   {
+    "start": 28,
+    "end": 34,
+    "surface": "keybca"
+   },
+   {
+    "start": 42,
+    "end": 52,
+    "surface": "menghambat"
+   },
+   {
+    "start": 53,
+    "end": 62,
+    "surface": "transaksi"
+   }
+  ]
+ },
+ {
+  "text": "BCA dan produknya tidak pernah ketinggalan zaman",
+  "spans": [
+   {
+    "start": 0,
+    "end": 3,
+    "surface": "BCA"
+   },
+   {
+    "start": 8,
+    "end": 17,
+    "surface": "produknya"
+   },
+   {
+    "start": 18,
+    "end": 48,
+    "surface": "tidak pernah ketinggalan zaman"
+   }
+  ]
+ },
+ {
+  "text": "kemarin saya beli pulsa untuk adik saya lancar banget pakai m-bca",
+  "spans": [
+   {
+    "start": 13,
+    "end": 23,
+    "surface": "beli pulsa"
+   },
+   {
+    "start": 40,
+    "end": 46,
+    "surface": "lancar"
+   },
+   {
+    "start": 60,
+    "end": 65,
+    "surface": "m-bca"
+   }
+  ]
+ },
+ {
+  "text": "Mudahnya cek saldo via BCA sms banking dari blackberry enggak perlu ribet Terima kasih @BankBCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "Mudahnya"
+   },
+   {
+    "start": 9,
+    "end": 18,
+    "surface": "cek saldo"
+   },
+   {
+    "start": 23,
+    "end": 38,
+    "surface": "BCA sms banking"
+   },
+   {
+    "start": 44,
+    "end": 54,
+    "surface": "blackberry"
+   },
+   {
+    "start": 55,
+    "end": 73,
+    "surface": "enggak perlu ribet"
+   },
+   {
+    "start": 87,
+    "end": 95,
+    "surface": "@BankBCA"
+   }
+  ]
+ },
+ {
+  "text": "@BankBCA mobile bca untuk bayar kereta saat ini apa sedang eror kok tidak bisa ya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@BankBCA"
+   },
+   {
+    "start": 9,
+    "end": 19,
+    "surface": "mobile bca"
+   },
+   {
+    "start": 26,
+    "end": 38,
+    "surface": "bayar kereta"
+   },
+   {
+    "start": 52,
+    "end": 63,
+    "surface": "sedang eror"
+   }
+  ]
+ },
+ {
+  "text": "saya punya 2 rekening bca dan keduanya menggunakan klikbca saya terbantu dengan potongan bulanan yang enggak sama tanggalnya",
+  "spans": [
+   {
+    "start": 13,
+    "end": 25,
+    "surface": "rekening bca"
+   },
+   {
+    "start": 51,
+    "end": 58,
+    "surface": "klikbca"
+   },
+   {
+    "start": 64,
+    "end": 72,
+    "surface": "terbantu"
+   },
+   {
+    "start": 80,
+    "end": 96,
+    "surface": "potongan bulanan"
+   }
+  ]
+ },
+ {
+  "text": "Produk dan jasa yang ditawarkan BCA apa saja sih",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Produk"
+   },
+   {
+    "start": 11,
+    "end": 15,
+    "surface": "jasa"
+   },
+   {
+    "start": 21,
+    "end": 31,
+    "surface": "ditawarkan"
+   },
+   {
+    "start": 32,
+    "end": 35,
+    "surface": "BCA"
+   }
+  ]
+ },
+ {
+  "text": "saya enggak suka sama cs BRI yang sudah tua BCA cs-nya lebih segar dan muda",
+  "spans": [
+   {
+    "start": 5,
+    "end": 16,
+    "surface": "enggak suka"
+   },
+   {
+    "start": 22,
+    "end": 24,
+    "surface": "cs"
+   },
+   {
+    "start": 25,
+    "end": 28,
+    "surface": "BRI"
+   },
+   {
+    "start": 44,
+    "end": 47,
+    "surface": "BCA"
+   },
+   {
+    "start": 48,
+    "end": 54,
+    "surface": "cs-nya"
+   },
+   {
+    "start": 61,
+    "end": 66,
+    "surface": "segar"
+   },
+   {
+    "start": 71,
+    "end": 75,
+    "surface": "muda"
+   }
+  ]
+ },
+ {
+  "text": "Call center BCA enggak pernah mengecewakan",
+  "spans": [
+   {
+    "start": 0,
+    "end": 15,
+    "surface": "Call center BCA"
+   },
+   {
+    "start": 16,
+    "end": 42,
+    "surface": "enggak pernah mengecewakan"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA mobile bca kenapa susah banget sih masuknya harus berkali-kali menunggu 10 menit :/",
+  "spans": [
+   {
+    "start": 9,
+    "end": 19,
+    "surface": "mobile bca"
+   },
+   {
+    "start": 27,
+    "end": 32,
+    "surface": "susah"
+   },
+   {
+    "start": 44,
+    "end": 52,
+    "surface": "masuknya"
+   }
+  ]
+ },
+ {
+  "text": "Lah bagaimana itu telemarketing BCA yang memaksa orang bikin kartu kredit",
+  "spans": [
+   {
+    "start": 18,
+    "end": 35,
+    "surface": "telemarketing BCA"
+   },
+   {
+    "start": 41,
+    "end": 48,
+    "surface": "memaksa"
+   },
+   {
+    "start": 55,
+    "end": 60,
+    "surface": "bikin"
+   },
+   {
+    "start": 61,
+    "end": 73,
+    "surface": "kartu kredit"
+   }
+  ]
+ },
+ {
+  "text": "Klikbca lagi susah banget diakses sebal apa ada hubungannya dengan berita semua kartu bca bakal diblok",
+  "spans": [
+   {
+    "start": 13,
+    "end": 33,
+    "surface": "susah banget diakses"
+   },
+   {
+    "start": 34,
+    "end": 39,
+    "surface": "sebal"
+   },
+   {
+    "start": 80,
+    "end": 89,
+    "surface": "kartu bca"
+   },
+   {
+    "start": 96,
+    "end": 102,
+    "surface": "diblok"
+   }
+  ]
+ },
+ {
+  "text": "Nasabah selalu diberikan produk terbaik dari BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "surface": "Nasabah"
+   },
+   {
+    "start": 15,
+    "end": 24,
+    "surface": "diberikan"
+   },
+   {
+    "start": 25,
+    "end": 39,
+    "surface": "produk terbaik"
+   },
+   {
+    "start": 45,
+    "end": 48,
+    "surface": "BCA"
+   }
+  ]
+ },
+ {
+  "text": "Tutup Kartu Susah: Saya pemegang kartu kredit bca",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Tutup"
+   },
+   {
+    "start": 6,
+    "end": 11,
+    "surface": "Kartu"
+   },
+   {
+    "start": 24,
+    "end": 32,
+    "surface": "pemegang"
+   },
+   {
+    "start": 33,
+    "end": 49,
+    "surface": "kartu kredit bca"
+   }
+  ]
+ },
+ {
+  "text": "dandanan cs bca hari ini sungguh cantik-cantik ya",
+  "spans": [
+   {
+    "start": 9,
+    "end": 11,
+    "surface": "cs"
+   },
+   {
+    "start": 12,
+    "end": 15,
+    "surface": "bca"
+   },
+   {
+    "start": 33,
+    "end": 46,
+    "surface": "cantik-cantik"
+   }
+  ]
+ },
+ {
+  "text": "Di teller BCA prioritas kagak ada bedanya mengantrenya lama juga bzz",
+  "spans": [
+   {
+    "start": 3,
+    "end": 23,
+    "surface": "teller BCA prioritas"
+   },
+   {
+    "start": 24,
+    "end": 41,
+    "surface": "kagak ada bedanya"
+   },
+   {
+    "start": 42,
+    "end": 54,
+    "surface": "mengantrenya"
+   },
+   {
+    "start": 55,
+    "end": 59,
+    "surface": "lama"
+   }
+  ]
+ },
+ {
+  "text": "pakai bca mobile atau klikbca sama-sama gampang buat transaksi daring",
+  "spans": [
+   {
+    "start": 6,
+    "end": 16,
+    "surface": "bca mobile"
+   },
+   {
+    "start": 22,
+    "end": 29,
+    "surface": "klikbca"
+   },
+   {
+    "start": 40,
+    "end": 47,
+    "surface": "gampang"
+   },
+   {
+    "start": 53,
+    "end": 62,
+    "surface": "transaksi"
+   },
+   {
+    "start": 63,
+    "end": 69,
+    "surface": "daring"
+   }
+  ]
+ },
+ {
+  "text": "Bayar tiket kereta api pakai mobile banking selalu enggak bisa @HaloBCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 22,
+    "surface": "Bayar tiket kereta api"
+   },
+   {
+    "start": 29,
+    "end": 43,
+    "surface": "mobile banking"
+   },
+   {
+    "start": 63,
+    "end": 71,
+    "surface": "@HaloBCA"
+   }
+  ]
+ },
+ {
+  "text": "Kapok pakai sms banking BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Kapok"
+   },
+   {
+    "start": 6,
+    "end": 27,
+    "surface": "pakai sms banking BCA"
+   }
+  ]
+ },
+ {
+  "text": "isi pulsa lewat m-bca gampang",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "surface": "isi pulsa"
+   },
+   {
+    "start": 16,
+    "end": 21,
+    "surface": "m-bca"
+   },
+   {
+    "start": 22,
+    "end": 29,
+    "surface": "gampang"
+   }
+  ]
+ },
+ {
+  "text": "Layanan BCA Mobile Banking Bermasalah",
+  "spans": [
+   {
+    "start": 8,
+    "end": 26,
+    "surface": "BCA Mobile Banking"
+   },
+   {
+    "start": 27,
+    "end": 37,
+    "surface": "Bermasalah"
+   }
+  ]
+ },
+ {
+  "text": "pas pencet tombol token bca kok jebol sampah banget",
+  "spans": [
+   {
+    "start": 4,
+    "end": 10,
+    "surface": "pencet"
+   },
+   {
+    "start": 11,
+    "end": 17,
+    "surface": "tombol"
+   },
+   {
+    "start": 18,
+    "end": 27,
+    "surface": "token bca"
+   },
+   {
+    "start": 32,
+    "end": 37,
+    "surface": "jebol"
+   }
+  ]
+ },
+ {
+  "text": "Ternyata di Klikbca sudah bisa beli paket internet Telkomsel sama Indosat ya Boleh juga",
+  "spans": [
+   {
+    "start": 12,
+    "end": 19,
+    "surface": "Klikbca"
+   },
+   {
+    "start": 31,
+    "end": 35,
+    "surface": "beli"
+   },
+   {
+    "start": 36,
+    "end": 50,
+    "surface": "paket internet"
+   },
+   {
+    "start": 51,
+    "end": 60,
+    "surface": "Telkomsel"
+   },
+   {
+    "start": 66,
+    "end": 73,
+    "surface": "Indosat"
+   }
+  ]
+ },
+ {
+  "text": "m-bca gue mengapa nih berengsek",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "m-bca"
+   },
+   {
+    "start": 22,
+    "end": 31,
+    "surface": "berengsek"
+   }
+  ]
+ },
+ {
+  "text": "Saya juga transaksi duluan pakai klikbca",
+  "spans": [
+   {
+    "start": 10,
+    "end": 19,
+    "surface": "transaksi"
+   },
+   {
+    "start": 33,
+    "end": 40,
+    "surface": "klikbca"
+   }
+  ]
+ },
+ {
+  "text": "saya tidak mengerti bagaimana cara mengirimkan dana ke bank lain",
+  "spans": [
+   {
+    "start": 5,
+    "end": 19,
+    "surface": "tidak mengerti"
+   },
+   {
+    "start": 30,
+    "end": 34,
+    "surface": "cara"
+   },
+   {
+    "start": 35,
+    "end": 46,
+    "surface": "mengirimkan"
+   },
+   {
+    "start": 47,
+    "end": 51,
+    "surface": "dana"
+   },
+   {
+    "start": 55,
+    "end": 64,
+    "surface": "bank lain"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA masuk ke m-bca kok susah ya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 9,
+    "end": 14,
+    "surface": "masuk"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "surface": "m-bca"
+   },
+   {
+    "start": 28,
+    "end": 33,
+    "surface": "susah"
+   }
+  ]
+ },
+ {
+  "text": "saat buka buku tabungan cs-nya curhat kalau hari ini sudah hampir 50 orang yang datang",
+  "spans": [
+   {
+    "start": 5,
+    "end": 9,
+    "surface": "buka"
+   },
+   {
+    "start": 10,
+    "end": 23,
+    "surface": "buku tabungan"
+   },
+   {
+    "start": 24,
+    "end": 30,
+    "surface": "cs-nya"
+   }
+  ]
+ },
+ {
+  "text": "apakah kamu pernah dapat penawaran asuransi cigna lewat telemarketing #BCA",
+  "spans": [
+   {
+    "start": 25,
+    "end": 34,
+    "surface": "penawaran"
+   },
+   {
+    "start": 35,
+    "end": 49,
+    "surface": "asuransi cigna"
+   },
+   {
+    "start": 56,
+    "end": 69,
+    "surface": "telemarketing"
+   },
+   {
+    "start": 70,
+    "end": 74,
+    "surface": "#BCA"
+   }
+  ]
+ },
+ {
+  "text": "Tidak mengecewakan pakai BCA Mobile",
+  "spans": [
+   {
+    "start": 19,
+    "end": 24,
+    "surface": "pakai"
+   },
+   {
+    "start": 25,
+    "end": 35,
+    "surface": "BCA Mobile"
+   }
+  ]
+ },
+ {
+  "text": "yang paling enak memang BCA Itu tergambar dari pelayanan yang diberikan oleh telemarketing",
+  "spans": [
+   {
+    "start": 12,
+    "end": 16,
+    "surface": "enak"
+   },
+   {
+    "start": 24,
+    "end": 27,
+    "surface": "BCA"
+   },
+   {
+    "start": 32,
+    "end": 41,
+    "surface": "tergambar"
+   },
+   {
+    "start": 47,
+    "end": 56,
+    "surface": "pelayanan"
+   },
+   {
+    "start": 62,
+    "end": 71,
+    "surface": "diberikan"
+   },
+   {
+    "start": 77,
+    "end": 90,
+    "surface": "telemarketing"
+   }
+  ]
+ },
+ {
+  "text": "Mau transfer pakai bca mobile ke beberapa rekening susah bangetsuruh masuk ulang 10 menit lagi terus :( @ebanking_bca",
+  "spans": [
+   {
+    "start": 4,
+    "end": 12,
+    "surface": "transfer"
+   },
+   {
+    "start": 19,
+    "end": 29,
+    "surface": "bca mobile"
+   },
+   {
+    "start": 51,
+    "end": 56,
+    "surface": "susah"
+   },
+   {
+    "start": 104,
+    "end": 117,
+    "surface": "@ebanking_bca"
+   }
+  ]
+ },
+ {
+  "text": "mengantre bca cepat banget ini yang namanya keunggulan nasabah prioritas",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "surface": "mengantre"
+   },
+   {
+    "start": 10,
+    "end": 13,
+    "surface": "bca"
+   },
+   {
+    "start": 14,
+    "end": 19,
+    "surface": "cepat"
+   },
+   {
+    "start": 44,
+    "end": 54,
+    "surface": "keunggulan"
+   },
+   {
+    "start": 55,
+    "end": 72,
+    "surface": "nasabah prioritas"
+   }
+  ]
+ },
+ {
+  "text": "Klikbca jelek amat 2 hari ini susah banget mau cek mutasi doang",
+  "spans": [
+   {
+    "start": 8,
+    "end": 13,
+    "surface": "jelek"
+   },
+   {
+    "start": 30,
+    "end": 35,
+    "surface": "susah"
+   },
+   {
+    "start": 47,
+    "end": 57,
+    "surface": "cek mutasi"
+   }
+  ]
+ },
+ {
+  "text": "capek ya ini pakai keybca sudah pencet tombol angkanya tidak keluar",
+  "spans": [
+   {
+    "start": 19,
+    "end": 25,
+    "surface": "keybca"
+   },
+   {
+    "start": 32,
+    "end": 38,
+    "surface": "pencet"
+   },
+   {
+    "start": 39,
+    "end": 45,
+    "surface": "tombol"
+   },
+   {
+    "start": 46,
+    "end": 67,
+    "surface": "angkanya tidak keluar"
+   }
+  ]
+ },
+ {
+  "text": "Selama ini belum pernah dapat telepon telemarketing dari BCATernyata memang sopan",
+  "spans": [
+   {
+    "start": 11,
+    "end": 23,
+    "surface": "belum pernah"
+   },
+   {
+    "start": 24,
+    "end": 51,
+    "surface": "dapat telepon telemarketing"
+   },
+   {
+    "start": 76,
+    "end": 81,
+    "surface": "sopan"
+   }
+  ]
+ },
+ {
+  "text": "bca yang sering digunakan adalah kartu kredit kartu debit dan deposito berjangka",
+  "spans": [
+   {
+    "start": 0,
+    "end": 3,
+    "surface": "bca"
+   },
+   {
+    "start": 16,
+    "end": 25,
+    "surface": "digunakan"
+   },
+   {
+    "start": 33,
+    "end": 45,
+    "surface": "kartu kredit"
+   },
+   {
+    "start": 46,
+    "end": 57,
+    "surface": "kartu debit"
+   },
+   {
+    "start": 62,
+    "end": 80,
+    "surface": "deposito berjangka"
+   }
+  ]
+ },
+ {
+  "text": "saldo ovo kamu sudah saya bayar via mobile banking ya tadi",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "surface": "saldo ovo"
+   },
+   {
+    "start": 26,
+    "end": 31,
+    "surface": "bayar"
+   },
+   {
+    "start": 36,
+    "end": 50,
+    "surface": "mobile banking"
+   }
+  ]
+ },
+ {
+  "text": "Produk BCA terkenal eksklusif tetapi mahal",
+  "spans": [
+   {
+    "start": 0,
+    "end": 10,
+    "surface": "Produk BCA"
+   },
+   {
+    "start": 11,
+    "end": 19,
+    "surface": "terkenal"
+   },
+   {
+    "start": 20,
+    "end": 29,
+    "surface": "eksklusif"
+   },
+   {
+    "start": 37,
+    "end": 42,
+    "surface": "mahal"
+   }
+  ]
+ },
+ {
+  "text": "ada yang tahu bagaimana caranya lihat saldo pakai sms banking BCA Info mohon",
+  "spans": [
+   {
+    "start": 24,
+    "end": 31,
+    "surface": "caranya"
+   },
+   {
+    "start": 32,
+    "end": 37,
+    "surface": "lihat"
+   },
+   {
+    "start": 38,
+    "end": 43,
+    "surface": "saldo"
+   },
+   {
+    "start": 44,
+    "end": 65,
+    "surface": "pakai sms banking BCA"
+   }
+  ]
+ },
+ {
+  "text": "@Halobca sekarang promo credit card-nya makin dikit ya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@Halobca"
+   },
+   {
+    "start": 18,
+    "end": 23,
+    "surface": "promo"
+   },
+   {
+    "start": 24,
+    "end": 39,
+    "surface": "credit card-nya"
+   },
+   {
+    "start": 46,
+    "end": 51,
+    "surface": "dikit"
+   }
+  ]
+ },
+ {
+  "text": "BCA prioritas lama sekali Katanya prioritas tetapi costumer service-nya cuma sebiji 1 jam sudah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 13,
+    "surface": "BCA prioritas"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "surface": "lama"
+   }
+  ]
+ },
+ {
+  "text": "Bunga bank BCA tidak pernah mengecewakan nasabah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 14,
+    "surface": "Bunga bank BCA"
+   },
+   {
+    "start": 15,
+    "end": 40,
+    "surface": "tidak pernah mengecewakan"
+   },
+   {
+    "start": 41,
+    "end": 48,
+    "surface": "nasabah"
+   }
+  ]
+ },
+ {
+  "text": "KlikBCA terkunci sebal bangetlah harus ke BCA lagi berengsek banget hari ini",
+  "spans": [
+   {
+    "start": 8,
+    "end": 16,
+    "surface": "terkunci"
+   },
+   {
+    "start": 17,
+    "end": 22,
+    "surface": "sebal"
+   }
+  ]
+ },
+ {
+  "text": "maaf saya mau tanya kartu atm saya kemarin tertelan di gerai atm BCA kira-kira proses pergantian kartu berapa lama ya",
+  "spans": [
+   {
+    "start": 20,
+    "end": 29,
+    "surface": "kartu atm"
+   },
+   {
+    "start": 43,
+    "end": 51,
+    "surface": "tertelan"
+   },
+   {
+    "start": 55,
+    "end": 68,
+    "surface": "gerai atm BCA"
+   },
+   {
+    "start": 79,
+    "end": 96,
+    "surface": "proses pergantian"
+   }
+  ]
+ },
+ {
+  "text": "BCA mobile banking iOS menghentikan musik saya saya benci kamu",
+  "spans": [
+   {
+    "start": 0,
+    "end": 22,
+    "surface": "BCA mobile banking iOS"
+   },
+   {
+    "start": 23,
+    "end": 35,
+    "surface": "menghentikan"
+   },
+   {
+    "start": 36,
+    "end": 41,
+    "surface": "musik"
+   }
+  ]
+ },
+ {
+  "text": "Layanan haloBCA via call center sungguh luar biasa cepat tanggap dan ramah Terima kasih BCA",
+  "spans": [
+   {
+    "start": 8,
+    "end": 15,
+    "surface": "haloBCA"
+   },
+   {
+    "start": 20,
+    "end": 31,
+    "surface": "call center"
+   },
+   {
+    "start": 40,
+    "end": 50,
+    "surface": "luar biasa"
+   },
+   {
+    "start": 51,
+    "end": 64,
+    "surface": "cepat tanggap"
+   },
+   {
+    "start": 69,
+    "end": 74,
+    "surface": "ramah"
+   },
+   {
+    "start": 88,
+    "end": 91,
+    "surface": "BCA"
+   }
+  ]
+ },
+ {
+  "text": "@bizguidebca keren bca mobile saya sudah bisa pakai qr-ku #dibikinsimpel",
+  "spans": [
+   {
+    "start": 0,
+    "end": 12,
+    "surface": "@bizguidebca"
+   },
+   {
+    "start": 13,
+    "end": 18,
+    "surface": "keren"
+   },
+   {
+    "start": 19,
+    "end": 29,
+    "surface": "bca mobile"
+   },
+   {
+    "start": 46,
+    "end": 57,
+    "surface": "pakai qr-ku"
+   }
+  ]
+ },
+ {
+  "text": "bisa enggak tanya produk bca di @halobca",
+  "spans": [
+   {
+    "start": 18,
+    "end": 28,
+    "surface": "produk bca"
+   },
+   {
+    "start": 32,
+    "end": 40,
+    "surface": "@halobca"
+   }
+  ]
+ },
+ {
+  "text": "Belum kelar-kelar nih kendala mobile banking BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 17,
+    "surface": "Belum kelar-kelar"
+   },
+   {
+    "start": 22,
+    "end": 29,
+    "surface": "kendala"
+   },
+   {
+    "start": 30,
+    "end": 48,
+    "surface": "mobile banking BCA"
+   }
+  ]
+ },
+ {
+  "text": "Sekarang mah mau bayar apa pun cukup pakai e-channel BCA",
+  "spans": [
+   {
+    "start": 17,
+    "end": 22,
+    "surface": "bayar"
+   },
+   {
+    "start": 43,
+    "end": 52,
+    "surface": "e-channel"
+   },
+   {
+    "start": 53,
+    "end": 56,
+    "surface": "BCA"
+   }
+  ]
+ },
+ {
+  "text": "ini tombol keybca atau batu sih susah banget ditekan",
+  "spans": [
+   {
+    "start": 4,
+    "end": 17,
+    "surface": "tombol keybca"
+   },
+   {
+    "start": 32,
+    "end": 37,
+    "surface": "susah"
+   },
+   {
+    "start": 45,
+    "end": 52,
+    "surface": "ditekan"
+   }
+  ]
+ },
+ {
+  "text": "dua kali berturut-turut bayar belanjaan pakai klikpay eror terus astaga capek banget",
+  "spans": [
+   {
+    "start": 24,
+    "end": 39,
+    "surface": "bayar belanjaan"
+   },
+   {
+    "start": 46,
+    "end": 53,
+    "surface": "klikpay"
+   },
+   {
+    "start": 54,
+    "end": 58,
+    "surface": "eror"
+   },
+   {
+    "start": 72,
+    "end": 77,
+    "surface": "capek"
+   }
+  ]
+ },
+ {
+  "text": "saya belum punya klikbca individu",
+  "spans": [
+   {
+    "start": 17,
+    "end": 33,
+    "surface": "klikbca individu"
+   }
+  ]
+ },
+ {
+  "text": "Biar enggak kena biaya simpan rekeningnya di klikbca kayaknya",
+  "spans": [
+   {
+    "start": 5,
+    "end": 22,
+    "surface": "enggak kena biaya"
+   },
+   {
+    "start": 23,
+    "end": 41,
+    "surface": "simpan rekeningnya"
+   },
+   {
+    "start": 45,
+    "end": 52,
+    "surface": "klikbca"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA masuk ke bca mobile susah banget Pin harus numerik Padahal yang dimasukkan ya angka semua",
+  "spans": [
+   {
+    "start": 9,
+    "end": 14,
+    "surface": "masuk"
+   },
+   {
+    "start": 18,
+    "end": 28,
+    "surface": "bca mobile"
+   },
+   {
+    "start": 29,
+    "end": 34,
+    "surface": "susah"
+   },
+   {
+    "start": 73,
+    "end": 83,
+    "surface": "dimasukkan"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA saya tidak bisa melakukan pembayaran via atm BCA sedang bermasalahkah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 14,
+    "end": 34,
+    "surface": "tidak bisa melakukan"
+   },
+   {
+    "start": 35,
+    "end": 45,
+    "surface": "pembayaran"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "surface": "atm BCA"
+   },
+   {
+    "start": 65,
+    "end": 78,
+    "surface": "bermasalahkah"
+   }
+  ]
+ },
+ {
+  "text": "BCA & Mandiri masing-masing pakai Token Rumit Sering eror Apalagi dipakai di luar Indonesia",
+  "spans": [
+   {
+    "start": 53,
+    "end": 57,
+    "surface": "eror"
+   }
+  ]
+ },
+ {
+  "text": "ATM banyak yang berfungsi cuma satu Antrenya jadi panjang",
+  "spans": [
+   {
+    "start": 0,
+    "end": 3,
+    "surface": "ATM"
+   },
+   {
+    "start": 36,
+    "end": 44,
+    "surface": "Antrenya"
+   },
+   {
+    "start": 50,
+    "end": 57,
+    "surface": "panjang"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA admin bagaimana sampai sekarang klikpay saya masih terblokir padahal yang salah BCA-nya parah",
+  "spans": [
+   {
+    "start": 41,
+    "end": 48,
+    "surface": "klikpay"
+   },
+   {
+    "start": 60,
+    "end": 69,
+    "surface": "terblokir"
+   },
+   {
+    "start": 97,
+    "end": 102,
+    "surface": "parah"
+   }
+  ]
+ },
+ {
+  "text": "ya allah CSO BCA lama benar deh pakai curhat segala ni orang-orang di meja",
+  "spans": [
+   {
+    "start": 9,
+    "end": 12,
+    "surface": "CSO"
+   },
+   {
+    "start": 13,
+    "end": 16,
+    "surface": "BCA"
+   },
+   {
+    "start": 17,
+    "end": 21,
+    "surface": "lama"
+   }
+  ]
+ },
+ {
+  "text": "Hari ini ada 5 teller BCA Antasari yang bertugas",
+  "spans": [
+   {
+    "start": 40,
+    "end": 48,
+    "surface": "bertugas"
+   }
+  ]
+ },
+ {
+  "text": "pergi ke bandung dengan teller BCA Pasar Cibinong",
+  "spans": []
+ },
+ {
+  "text": "saya melakukan top up go-pay via M-Banking bca",
+  "spans": [
+   {
+    "start": 5,
+    "end": 14,
+    "surface": "melakukan"
+   },
+   {
+    "start": 15,
+    "end": 21,
+    "surface": "top up"
+   },
+   {
+    "start": 22,
+    "end": 28,
+    "surface": "go-pay"
+   },
+   {
+    "start": 33,
+    "end": 46,
+    "surface": "M-Banking bca"
+   }
+  ]
+ },
+ {
+  "text": "apakah bisa mengaktifkan KlikBCA tanpa pergi ke kantor cabang",
+  "spans": [
+   {
+    "start": 12,
+    "end": 24,
+    "surface": "mengaktifkan"
+   },
+   {
+    "start": 25,
+    "end": 32,
+    "surface": "KlikBCA"
+   },
+   {
+    "start": 48,
+    "end": 61,
+    "surface": "kantor cabang"
+   }
+  ]
+ },
+ {
+  "text": "call center bca sabar-sabar ya kayaknya mereka malaikat dari surga deh",
+  "spans": [
+   {
+    "start": 0,
+    "end": 15,
+    "surface": "call center bca"
+   },
+   {
+    "start": 16,
+    "end": 27,
+    "surface": "sabar-sabar"
+   }
+  ]
+ },
+ {
+  "text": "sekarang BCA ada kasih poin kalau kita bayar tagihan-tagihan via Mobile Banking mantap benar",
+  "spans": [
+   {
+    "start": 9,
+    "end": 12,
+    "surface": "BCA"
+   },
+   {
+    "start": 17,
+    "end": 27,
+    "surface": "kasih poin"
+   },
+   {
+    "start": 39,
+    "end": 60,
+    "surface": "bayar tagihan-tagihan"
+   },
+   {
+    "start": 65,
+    "end": 79,
+    "surface": "Mobile Banking"
+   },
+   {
+    "start": 80,
+    "end": 86,
+    "surface": "mantap"
+   }
+  ]
+ },
+ {
+  "text": "Bayar token listrik pakai sms banking BCA memudahkan nasabah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Bayar"
+   },
+   {
+    "start": 6,
+    "end": 19,
+    "surface": "token listrik"
+   },
+   {
+    "start": 20,
+    "end": 37,
+    "surface": "pakai sms banking"
+   },
+   {
+    "start": 38,
+    "end": 41,
+    "surface": "BCA"
+   },
+   {
+    "start": 42,
+    "end": 52,
+    "surface": "memudahkan"
+   },
+   {
+    "start": 53,
+    "end": 60,
+    "surface": "nasabah"
+   }
+  ]
+ },
+ {
+  "text": "teller BCA margonda tadi ikut membantu saya saat uangnya berterbangan",
+  "spans": [
+   {
+    "start": 30,
+    "end": 38,
+    "surface": "membantu"
+   },
+   {
+    "start": 49,
+    "end": 56,
+    "surface": "uangnya"
+   },
+   {
+    "start": 57,
+    "end": 69,
+    "surface": "berterbangan"
+   }
+  ]
+ },
+ {
+  "text": "Baru selesai tutup kartu kredit BCA",
+  "spans": [
+   {
+    "start": 5,
+    "end": 12,
+    "surface": "selesai"
+   },
+   {
+    "start": 13,
+    "end": 18,
+    "surface": "tutup"
+   },
+   {
+    "start": 19,
+    "end": 35,
+    "surface": "kartu kredit BCA"
+   }
+  ]
+ },
+ {
+  "text": "kalau malas gerak bisa langsung telepon call center dijamin semua masalah terkait tabung-menabung dan lain sebagainya segera terselesaikan apalagi call center bca kan terkenal ramah dan setia melayani nasabah",
+  "spans": [
+   {
+    "start": 32,
+    "end": 39,
+    "surface": "telepon"
+   },
+   {
+    "start": 40,
+    "end": 51,
+    "surface": "call center"
+   },
+   {
+    "start": 52,
+    "end": 59,
+    "surface": "dijamin"
+   },
+   {
+    "start": 66,
+    "end": 73,
+    "surface": "masalah"
+   },
+   {
+    "start": 82,
+    "end": 97,
+    "surface": "tabung-menabung"
+   },
+   {
+    "start": 125,
+    "end": 138,
+    "surface": "terselesaikan"
+   },
+   {
+    "start": 147,
+    "end": 162,
+    "surface": "call center bca"
+   },
+   {
+    "start": 167,
+    "end": 175,
+    "surface": "terkenal"
+   },
+   {
+    "start": 176,
+    "end": 181,
+    "surface": "ramah"
+   },
+   {
+    "start": 186,
+    "end": 191,
+    "surface": "setia"
+   },
+   {
+    "start": 192,
+    "end": 200,
+    "surface": "melayani"
+   },
+   {
+    "start": 201,
+    "end": 208,
+    "surface": "nasabah"
+   }
+  ]
+ },
+ {
+  "text": "masa mulut telemarketing anda manis banget pas mau mengajak nasabah gabung doang",
+  "spans": [
+   {
+    "start": 5,
+    "end": 10,
+    "surface": "mulut"
+   },
+   {
+    "start": 11,
+    "end": 24,
+    "surface": "telemarketing"
+   },
+   {
+    "start": 30,
+    "end": 35,
+    "surface": "manis"
+   },
+   {
+    "start": 51,
+    "end": 59,
+    "surface": "mengajak"
+   },
+   {
+    "start": 60,
+    "end": 67,
+    "surface": "nasabah"
+   },
+   {
+    "start": 68,
+    "end": 74,
+    "surface": "gabung"
+   }
+  ]
+ },
+ {
+  "text": "KlikBCA Bisnis bisa diakses lewat seluler telepon genggam",
+  "spans": [
+   {
+    "start": 0,
+    "end": 14,
+    "surface": "KlikBCA Bisnis"
+   },
+   {
+    "start": 20,
+    "end": 27,
+    "surface": "diakses"
+   },
+   {
+    "start": 42,
+    "end": 57,
+    "surface": "telepon genggam"
+   }
+  ]
+ },
+ {
+  "text": "sampai klikbca sama kpk situsnya gangguan tahu mengapa -_-",
+  "spans": [
+   {
+    "start": 7,
+    "end": 14,
+    "surface": "klikbca"
+   },
+   {
+    "start": 20,
+    "end": 23,
+    "surface": "kpk"
+   },
+   {
+    "start": 24,
+    "end": 32,
+    "surface": "situsnya"
+   },
+   {
+    "start": 33,
+    "end": 41,
+    "surface": "gangguan"
+   }
+  ]
+ },
+ {
+  "text": "telemarketing bca bagaimana mau tertarik belum apa-apa sudah bikin sebal",
+  "spans": [
+   {
+    "start": 0,
+    "end": 17,
+    "surface": "telemarketing bca"
+   },
+   {
+    "start": 32,
+    "end": 40,
+    "surface": "tertarik"
+   },
+   {
+    "start": 61,
+    "end": 72,
+    "surface": "bikin sebal"
+   }
+  ]
+ },
+ {
+  "text": "transaksi transfer dana ke rekening bank lain dalam negeri dari fasilitas KlikBCA menggunakan LLG di mana kiriman akan diterima di hari yang sama",
+  "spans": [
+   {
+    "start": 0,
+    "end": 9,
+    "surface": "transaksi"
+   },
+   {
+    "start": 10,
+    "end": 23,
+    "surface": "transfer dana"
+   },
+   {
+    "start": 27,
+    "end": 35,
+    "surface": "rekening"
+   },
+   {
+    "start": 36,
+    "end": 45,
+    "surface": "bank lain"
+   },
+   {
+    "start": 46,
+    "end": 58,
+    "surface": "dalam negeri"
+   },
+   {
+    "start": 64,
+    "end": 73,
+    "surface": "fasilitas"
+   },
+   {
+    "start": 74,
+    "end": 81,
+    "surface": "KlikBCA"
+   },
+   {
+    "start": 94,
+    "end": 97,
+    "surface": "LLG"
+   }
+  ]
+ },
+ {
+  "text": "Klikpay parah kok enggak bisa terkoneksi Ha",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "surface": "Klikpay"
+   },
+   {
+    "start": 8,
+    "end": 13,
+    "surface": "parah"
+   },
+   {
+    "start": 18,
+    "end": 40,
+    "surface": "enggak bisa terkoneksi"
+   }
+  ]
+ },
+ {
+  "text": "saya tidak pernah kecewa dengan pelayanan telemarketing Memuaskanlah pokoknya",
+  "spans": [
+   {
+    "start": 5,
+    "end": 24,
+    "surface": "tidak pernah kecewa"
+   },
+   {
+    "start": 32,
+    "end": 41,
+    "surface": "pelayanan"
+   },
+   {
+    "start": 42,
+    "end": 55,
+    "surface": "telemarketing"
+   },
+   {
+    "start": 56,
+    "end": 68,
+    "surface": "Memuaskanlah"
+   }
+  ]
+ },
+ {
+  "text": "bank BCA terus mengobrol sama mas-mas CS-nya asyik orangnya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "bank BCA"
+   },
+   {
+    "start": 38,
+    "end": 44,
+    "surface": "CS-nya"
+   },
+   {
+    "start": 45,
+    "end": 50,
+    "surface": "asyik"
+   }
+  ]
+ },
+ {
+  "text": "enggak akan berpaling dari bca mobile semua kegiatan pembayaranku jadi lebih mudah",
+  "spans": [
+   {
+    "start": 77,
+    "end": 82,
+    "surface": "mudah"
+   }
+  ]
+ },
+ {
+  "text": "kenapa si BCA makin lama makin kayak tahi enggak pernah telepon kasih tahu ada yang berubah percuma jadi prioritas juga",
+  "spans": [
+   {
+    "start": 10,
+    "end": 13,
+    "surface": "BCA"
+   },
+   {
+    "start": 42,
+    "end": 63,
+    "surface": "enggak pernah telepon"
+   },
+   {
+    "start": 92,
+    "end": 99,
+    "surface": "percuma"
+   },
+   {
+    "start": 105,
+    "end": 114,
+    "surface": "prioritas"
+   }
+  ]
+ },
+ {
+  "text": "saat ini sudah banyak yang pakai mobile banking bca karena lebih praktis",
+  "spans": [
+   {
+    "start": 33,
+    "end": 51,
+    "surface": "mobile banking bca"
+   },
+   {
+    "start": 59,
+    "end": 72,
+    "surface": "lebih praktis"
+   }
+  ]
+ },
+ {
+  "text": "Customer Service di bank bca merupakan suatu bagian dari unit organisasi yang berada di kantor depan yang berfungsi sebagai sumber informasi dan perantara bagi bank dan nasabah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 16,
+    "surface": "Customer Service"
+   },
+   {
+    "start": 20,
+    "end": 28,
+    "surface": "bank bca"
+   },
+   {
+    "start": 57,
+    "end": 72,
+    "surface": "unit organisasi"
+   },
+   {
+    "start": 78,
+    "end": 84,
+    "surface": "berada"
+   },
+   {
+    "start": 88,
+    "end": 100,
+    "surface": "kantor depan"
+   },
+   {
+    "start": 106,
+    "end": 115,
+    "surface": "berfungsi"
+   },
+   {
+    "start": 124,
+    "end": 140,
+    "surface": "sumber informasi"
+   },
+   {
+    "start": 145,
+    "end": 154,
+    "surface": "perantara"
+   },
+   {
+    "start": 169,
+    "end": 176,
+    "surface": "nasabah"
+   }
+  ]
+ },
+ {
+  "text": "Sejak semua transaksi pakai e-channel BCA semua transaksi lancar",
+  "spans": [
+   {
+    "start": 12,
+    "end": 21,
+    "surface": "transaksi"
+   },
+   {
+    "start": 28,
+    "end": 41,
+    "surface": "e-channel BCA"
+   },
+   {
+    "start": 58,
+    "end": 64,
+    "surface": "lancar"
+   }
+  ]
+ },
+ {
+  "text": "Customer BCA selalu dimanjakan dengan produk perbankan BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 12,
+    "surface": "Customer BCA"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "surface": "dimanjakan"
+   },
+   {
+    "start": 38,
+    "end": 58,
+    "surface": "produk perbankan BCA"
+   }
+  ]
+ },
+ {
+  "text": "tidak ada yang perlu ditakutkan bersama call center bca kendala segera terselesaikan",
+  "spans": [
+   {
+    "start": 40,
+    "end": 55,
+    "surface": "call center bca"
+   },
+   {
+    "start": 56,
+    "end": 63,
+    "surface": "kendala"
+   },
+   {
+    "start": 71,
+    "end": 84,
+    "surface": "terselesaikan"
+   }
+  ]
+ },
+ {
+  "text": "transfer saja lewat bca mobile soalnya anaknya sudah butuh duitnya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "transfer"
+   },
+   {
+    "start": 20,
+    "end": 30,
+    "surface": "bca mobile"
+   }
+  ]
+ },
+ {
+  "text": "sudah menunggu sejam CSO @BankBCA Tajur lamanya minta ampun",
+  "spans": [
+   {
+    "start": 6,
+    "end": 14,
+    "surface": "menunggu"
+   },
+   {
+    "start": 21,
+    "end": 24,
+    "surface": "CSO"
+   },
+   {
+    "start": 25,
+    "end": 39,
+    "surface": "@BankBCA Tajur"
+   },
+   {
+    "start": 40,
+    "end": 47,
+    "surface": "lamanya"
+   }
+  ]
+ },
+ {
+  "text": "Teller BCA Oakwood lambat maksimal",
+  "spans": [
+   {
+    "start": 0,
+    "end": 18,
+    "surface": "Teller BCA Oakwood"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "surface": "lambat"
+   }
+  ]
+ },
+ {
+  "text": "lebaran atm banyak yang enggak ada duit untung aku ada m-bca transaksi jadi sangat mudah",
+  "spans": [
+   {
+    "start": 0,
+    "end": 7,
+    "surface": "lebaran"
+   },
+   {
+    "start": 8,
+    "end": 11,
+    "surface": "atm"
+   },
+   {
+    "start": 24,
+    "end": 39,
+    "surface": "enggak ada duit"
+   },
+   {
+    "start": 55,
+    "end": 60,
+    "surface": "m-bca"
+   },
+   {
+    "start": 61,
+    "end": 70,
+    "surface": "transaksi"
+   },
+   {
+    "start": 83,
+    "end": 88,
+    "surface": "mudah"
+   }
+  ]
+ },
+ {
+  "text": "Sebal banget sama klikbca yang sudah eror seharian ini",
+  "spans": [
+   {
+    "start": 18,
+    "end": 25,
+    "surface": "klikbca"
+   },
+   {
+    "start": 37,
+    "end": 41,
+    "surface": "eror"
+   }
+  ]
+ },
+ {
+  "text": "Bening-bening memang teller BCA mah",
+  "spans": []
+ },
+ {
+  "text": "dapat tawaran buka kk bca melalui telepon",
+  "spans": [
+   {
+    "start": 6,
+    "end": 13,
+    "surface": "tawaran"
+   },
+   {
+    "start": 14,
+    "end": 18,
+    "surface": "buka"
+   },
+   {
+    "start": 19,
+    "end": 25,
+    "surface": "kk bca"
+   },
+   {
+    "start": 26,
+    "end": 33,
+    "surface": "melalui"
+   },
+   {
+    "start": 34,
+    "end": 41,
+    "surface": "telepon"
+   }
+  ]
+ },
+ {
+  "text": "Payah nih bapak gue bukannya buat credit card BCA lebih banyak promo daripada HSBC",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "Payah"
+   },
+   {
+    "start": 29,
+    "end": 33,
+    "surface": "buat"
+   },
+   {
+    "start": 34,
+    "end": 49,
+    "surface": "credit card BCA"
+   },
+   {
+    "start": 56,
+    "end": 68,
+    "surface": "banyak promo"
+   },
+   {
+    "start": 78,
+    "end": 82,
+    "surface": "HSBC"
+   }
+  ]
+ },
+ {
+  "text": "selamat siang kak saya mau bertanya mengenai layanan m-banking kalau ingin mengaktifkan kembali apakah saya harus mendatangi kantor bca terdekat",
+  "spans": [
+   {
+    "start": 45,
+    "end": 52,
+    "surface": "layanan"
+   },
+   {
+    "start": 53,
+    "end": 62,
+    "surface": "m-banking"
+   },
+   {
+    "start": 75,
+    "end": 87,
+    "surface": "mengaktifkan"
+   },
+   {
+    "start": 114,
+    "end": 124,
+    "surface": "mendatangi"
+   },
+   {
+    "start": 125,
+    "end": 135,
+    "surface": "kantor bca"
+   }
+  ]
+ },
+ {
+  "text": "biasanya meja cs bca ada 3 di KCP",
+  "spans": [
+   {
+    "start": 14,
+    "end": 16,
+    "surface": "cs"
+   },
+   {
+    "start": 17,
+    "end": 20,
+    "surface": "bca"
+   },
+   {
+    "start": 30,
+    "end": 33,
+    "surface": "KCP"
+   }
+  ]
+ },
+ {
+  "text": "bayar Pajak Daerah dan Pajak PBB Bisa Via E-Channel bca Lebih Mudah Cepat",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "bayar"
+   },
+   {
+    "start": 6,
+    "end": 18,
+    "surface": "Pajak Daerah"
+   },
+   {
+    "start": 42,
+    "end": 55,
+    "surface": "E-Channel bca"
+   },
+   {
+    "start": 62,
+    "end": 67,
+    "surface": "Mudah"
+   },
+   {
+    "start": 68,
+    "end": 73,
+    "surface": "Cepat"
+   }
+  ]
+ },
+ {
+  "text": "Huft gila ya BCA prioritas mengantrenya lebih lama Grr",
+  "spans": [
+   {
+    "start": 13,
+    "end": 26,
+    "surface": "BCA prioritas"
+   },
+   {
+    "start": 27,
+    "end": 39,
+    "surface": "mengantrenya"
+   },
+   {
+    "start": 46,
+    "end": 50,
+    "surface": "lama"
+   }
+  ]
+ },
+ {
+  "text": "Bank BCA prioritas lama pencairannya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 18,
+    "surface": "Bank BCA prioritas"
+   },
+   {
+    "start": 19,
+    "end": 23,
+    "surface": "lama"
+   },
+   {
+    "start": 24,
+    "end": 36,
+    "surface": "pencairannya"
+   }
+  ]
+ },
+ {
+  "text": "saya tidak berhasil melakukan pembayaran tiket kai via klikpay mohon segera diurus",
+  "spans": [
+   {
+    "start": 5,
+    "end": 19,
+    "surface": "tidak berhasil"
+   },
+   {
+    "start": 30,
+    "end": 40,
+    "surface": "pembayaran"
+   },
+   {
+    "start": 41,
+    "end": 50,
+    "surface": "tiket kai"
+   },
+   {
+    "start": 55,
+    "end": 62,
+    "surface": "klikpay"
+   }
+  ]
+ },
+ {
+  "text": "untuk penggantian Kartu ATM karena tertelan silakan mengunjungi Cabang BCA terdekat dengan membawa Buku TabunganKTP dan Surat Keterangan Hilang dari Kepolisian",
+  "spans": [
+   {
+    "start": 6,
+    "end": 17,
+    "surface": "penggantian"
+   },
+   {
+    "start": 18,
+    "end": 27,
+    "surface": "Kartu ATM"
+   },
+   {
+    "start": 35,
+    "end": 43,
+    "surface": "tertelan"
+   },
+   {
+    "start": 64,
+    "end": 74,
+    "surface": "Cabang BCA"
+   },
+   {
+    "start": 120,
+    "end": 143,
+    "surface": "Surat Keterangan Hilang"
+   }
+  ]
+ },
+ {
+  "text": "antre cs di @bankbca rawamangun ada camilan teh hangat dan kopi hangat terima kasih ya",
+  "spans": [
+   {
+    "start": 0,
+    "end": 5,
+    "surface": "antre"
+   },
+   {
+    "start": 6,
+    "end": 8,
+    "surface": "cs"
+   },
+   {
+    "start": 12,
+    "end": 31,
+    "surface": "@bankbca rawamangun"
+   }
+  ]
+ },
+ {
+  "text": "@KartuKreditBCA Kebetulan kartu kredit saya sudah diblokir dan saya tutup juga tolong karena spam banget surel BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 15,
+    "surface": "@KartuKreditBCA"
+   },
+   {
+    "start": 26,
+    "end": 38,
+    "surface": "kartu kredit"
+   },
+   {
+    "start": 50,
+    "end": 58,
+    "surface": "diblokir"
+   },
+   {
+    "start": 68,
+    "end": 73,
+    "surface": "tutup"
+   },
+   {
+    "start": 93,
+    "end": 97,
+    "surface": "spam"
+   },
+   {
+    "start": 105,
+    "end": 114,
+    "surface": "surel BCA"
+   }
+  ]
+ },
+ {
+  "text": "Diskon 10% di Seminyak Bali dengan Kartu Kredit BCA",
+  "spans": [
+   {
+    "start": 0,
+    "end": 6,
+    "surface": "Diskon"
+   },
+   {
+    "start": 14,
+    "end": 27,
+    "surface": "Seminyak Bali"
+   },
+   {
+    "start": 35,
+    "end": 51,
+    "surface": "Kartu Kredit BCA"
+   }
+  ]
+ },
+ {
+  "text": "bca memang menyediakan banyak pilihan pembayaran untuk transfer kalau kita enggak punya klikbca kita bisa pakai bca mobile kalau enggak ada paket internet bisa langsung ke atm",
+  "spans": [
+   {
+    "start": 0,
+    "end": 3,
+    "surface": "bca"
+   },
+   {
+    "start": 11,
+    "end": 22,
+    "surface": "menyediakan"
+   },
+   {
+    "start": 30,
+    "end": 48,
+    "surface": "pilihan pembayaran"
+   },
+   {
+    "start": 55,
+    "end": 63,
+    "surface": "transfer"
+   },
+   {
+    "start": 75,
+    "end": 95,
+    "surface": "enggak punya klikbca"
+   },
+   {
+    "start": 112,
+    "end": 122,
+    "surface": "bca mobile"
+   },
+   {
+    "start": 172,
+    "end": 175,
+    "surface": "atm"
+   }
+  ]
+ },
+ {
+  "text": "@HaloBCA admin mau tutup saja deh kartu bca-nya susah mau ambil barang yang 8 juta enggak bisa",
+  "spans": [
+   {
+    "start": 0,
+    "end": 8,
+    "surface": "@HaloBCA"
+   },
+   {
+    "start": 19,
+    "end": 24,
+    "surface": "tutup"
+   },
+   {
+    "start": 34,
+    "end": 47,
+    "surface": "kartu bca-nya"
+   },
+   {
+    "start": 48,
+    "end": 53,
+    "surface": "susah"
+   },
+   {
+    "start": 58,
+    "end": 63,
+    "surface": "ambil"
+   },
+   {
+    "start": 64,
+    "end": 70,
+    "surface": "barang"
+   }
+  ]
+ },
+ {
+  "text": "dengar-dengar Mulai 23 Juli 2018 e-channel BCA hanya bisa diakses telepon pintar yang sudah menggunakan minimum OS bagaimana aku :(",
+  "spans": [
+   {
+    "start": 33,
+    "end": 42,
+    "surface": "e-channel"
+   },
+   {
+    "start": 43,
+    "end": 46,
+    "surface": "BCA"
+   },
+   {
+    "start": 58,
+    "end": 65,
+    "surface": "diakses"
+   },
+   {
+    "start": 66,
+    "end": 80,
+    "surface": "telepon pintar"
+   },
+   {
+    "start": 104,
+    "end": 114,
+    "surface": "minimum OS"
+   }
+  ]
+ }
+]

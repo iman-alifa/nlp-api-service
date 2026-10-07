@@ -1,0 +1,3097 @@
+{
+  "baseline": {
+    "label": "baseline",
+    "timestamp": "2026-09-02T09:02:37",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.4259,
+      "c_npmi": -0.1895,
+      "diversity": 0.8,
+      "outlier_rate": 0.3412,
+      "num_topics": 3,
+      "seconds": 141.3,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "pajak",
+          "tidak",
+          "rakyat",
+          "negara",
+          "susah",
+          "bayar",
+          "uang",
+          "dpr",
+          "korupsi",
+          "koruptor"
+        ],
+        "proportion": 0.5311,
+        "size": 470
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "negara",
+          "usaha",
+          "hahaha",
+          "pimpin",
+          "percaya",
+          "hutang",
+          "oknum",
+          "susah",
+          "begundal",
+          "sendiri"
+        ],
+        "proportion": 0.0712,
+        "size": 63
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "bayar",
+          "ngapain",
+          "pajak",
+          "uang",
+          "ribet",
+          "calo",
+          "kursi",
+          "diskon",
+          "anggar",
+          "korupsi"
+        ],
+        "proportion": 0.0565,
+        "size": 50
+      }
+    ]
+  },
+  "v1-vectorizer": {
+    "label": "v1-vectorizer",
+    "timestamp": "2026-09-02T09:10:12",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.2814,
+      "c_npmi": -0.0466,
+      "diversity": 0.9,
+      "outlier_rate": 0.3412,
+      "num_topics": 3,
+      "seconds": 144.7,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "bayar",
+          "bayar pajak",
+          "dpr",
+          "patuh",
+          "utang",
+          "korup",
+          "pajak rakyat",
+          "duit",
+          "usaha",
+          "gaji"
+        ],
+        "proportion": 0.5311,
+        "size": 470
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "negara negara",
+          "negara hutang",
+          "hukum indonesia",
+          "usaha",
+          "percaya",
+          "negara rakyat",
+          "negara oknum",
+          "hutang usaha",
+          "negara pimpin",
+          "hutang negara"
+        ],
+        "proportion": 0.0712,
+        "size": 63
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "pajak uang",
+          "bayar pajak",
+          "bayar",
+          "pajak bayar",
+          "bayar utang",
+          "kursi",
+          "utang diskon",
+          "duduk kursi",
+          "diskon utang",
+          "pajak hidup"
+        ],
+        "proportion": 0.0565,
+        "size": 50
+      }
+    ]
+  },
+  "v2-unigram": {
+    "label": "v2-unigram",
+    "timestamp": "2026-09-02T09:22:00",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.3903,
+      "c_npmi": -0.3631,
+      "diversity": 0.9,
+      "outlier_rate": 0.3412,
+      "num_topics": 3,
+      "seconds": 153.0,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "dpr",
+          "bayar",
+          "patuh",
+          "utang",
+          "korup",
+          "duit",
+          "gaji",
+          "usaha",
+          "kaya",
+          "taat"
+        ],
+        "proportion": 0.5311,
+        "size": 470
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "percaya",
+          "usaha",
+          "piutang",
+          "semangat",
+          "kejam",
+          "patut",
+          "tanda",
+          "pinjam",
+          "kemenku",
+          "diem"
+        ],
+        "proportion": 0.0712,
+        "size": 63
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "bayar",
+          "kursi",
+          "duduk",
+          "hidup",
+          "foya",
+          "bebas",
+          "pakai",
+          "tri",
+          "utang",
+          "klo"
+        ],
+        "proportion": 0.0565,
+        "size": 50
+      }
+    ]
+  },
+  "v3-params": {
+    "label": "v3-params",
+    "timestamp": "2026-09-02T09:34:53",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.428,
+      "c_npmi": -0.2726,
+      "diversity": 0.9,
+      "outlier_rate": 0.3232,
+      "num_topics": 4,
+      "seconds": 156.7,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "jabat",
+          "ngutang",
+          "dpr",
+          "bayar",
+          "patuh",
+          "pajak",
+          "warga",
+          "malu",
+          "ikn",
+          "gilir"
+        ],
+        "proportion": 0.3989,
+        "size": 353
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "pajak",
+          "makan",
+          "desa",
+          "bayar",
+          "dpr",
+          "patuh",
+          "taat",
+          "hasil",
+          "masyarakat",
+          "gaji"
+        ],
+        "proportion": 0.174,
+        "size": 154
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "usaha",
+          "hukum",
+          "hak",
+          "percaya",
+          "pimpin",
+          "laku",
+          "indonesia",
+          "oknum",
+          "hutang",
+          "karma"
+        ],
+        "proportion": 0.0734,
+        "size": 65
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "ribet",
+          "haram",
+          "mu",
+          "utang",
+          "tanggung",
+          "diem",
+          "bu",
+          "tri",
+          "tol",
+          "banyak"
+        ],
+        "proportion": 0.0305,
+        "size": 27
+      }
+    ]
+  },
+  "v4-outlier": {
+    "label": "v4-outlier",
+    "timestamp": "2026-09-02T09:40:46",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.428,
+      "c_npmi": -0.2726,
+      "diversity": 0.9,
+      "outlier_rate": 0.096,
+      "num_topics": 4,
+      "seconds": 150.7,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "jabat",
+          "ngutang",
+          "dpr",
+          "bayar",
+          "patuh",
+          "pajak",
+          "warga",
+          "malu",
+          "ikn",
+          "gilir"
+        ],
+        "proportion": 0.4859,
+        "size": 430
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "pajak",
+          "makan",
+          "desa",
+          "bayar",
+          "dpr",
+          "patuh",
+          "taat",
+          "hasil",
+          "masyarakat",
+          "gaji"
+        ],
+        "proportion": 0.235,
+        "size": 208
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "usaha",
+          "hukum",
+          "hak",
+          "percaya",
+          "pimpin",
+          "laku",
+          "indonesia",
+          "oknum",
+          "hutang",
+          "karma"
+        ],
+        "proportion": 0.104,
+        "size": 92
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "ribet",
+          "haram",
+          "mu",
+          "utang",
+          "tanggung",
+          "diem",
+          "bu",
+          "tri",
+          "tol",
+          "banyak"
+        ],
+        "proportion": 0.0791,
+        "size": 70
+      }
+    ]
+  },
+  "v4-15topik": {
+    "label": "v4-15topik",
+    "timestamp": "2026-09-02T09:45:37",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.516,
+      "c_npmi": -0.4514,
+      "diversity": 0.9692,
+      "outlier_rate": 0.0814,
+      "num_topics": 13,
+      "seconds": 121.7,
+      "requested_topics": 15,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "ikn",
+          "bangun",
+          "bangkrut",
+          "pusing",
+          "upacara",
+          "pelihara",
+          "klu",
+          "ngemis",
+          "bikin",
+          "habis"
+        ],
+        "proportion": 0.1141,
+        "size": 101
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "hak",
+          "percaya",
+          "laku",
+          "pimpin",
+          "usaha",
+          "hukum",
+          "kejam",
+          "karma",
+          "patut",
+          "iklas"
+        ],
+        "proportion": 0.0972,
+        "size": 86
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "patuh",
+          "anggota",
+          "dpr",
+          "warga",
+          "guna",
+          "pegawai",
+          "turun",
+          "tunggak",
+          "gayus",
+          "ditilep"
+        ],
+        "proportion": 0.0847,
+        "size": 75
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "subsidi",
+          "patuh",
+          "desa",
+          "tingkat",
+          "data",
+          "taat",
+          "masyarakat",
+          "dpr",
+          "sulit",
+          "makan"
+        ],
+        "proportion": 0.0836,
+        "size": 74
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "tuhan",
+          "ulah",
+          "karna",
+          "dri",
+          "korup",
+          "aneh",
+          "kenyang",
+          "bisnis",
+          "tah",
+          "tolong"
+        ],
+        "proportion": 0.0757,
+        "size": 67
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "byk",
+          "mw",
+          "nagih",
+          "klo",
+          "bnyak",
+          "bpk",
+          "tpi",
+          "negeri",
+          "lucu",
+          "uud"
+        ],
+        "proportion": 0.0689,
+        "size": 61
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "org",
+          "jaksa",
+          "jahat",
+          "beliau",
+          "enak",
+          "jual",
+          "buta",
+          "alam",
+          "tutup",
+          "pikir"
+        ],
+        "proportion": 0.0678,
+        "size": 60
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "konoha",
+          "raja",
+          "jawa",
+          "benar",
+          "kasih",
+          "dunia",
+          "menteri",
+          "rezim",
+          "kampung",
+          "bayang"
+        ],
+        "proportion": 0.0678,
+        "size": 60
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "uu",
+          "mati",
+          "tangkap",
+          "narik",
+          "rampok",
+          "ribu",
+          "cepat",
+          "bos",
+          "lindung",
+          "polisi"
+        ],
+        "proportion": 0.0633,
+        "size": 56
+      },
+      {
+        "topic_id": 9,
+        "words": [
+          "haram",
+          "ribet",
+          "mu",
+          "diem",
+          "tanggung",
+          "bu",
+          "tol",
+          "banyak",
+          "tri",
+          "lapor"
+        ],
+        "proportion": 0.0576,
+        "size": 51
+      },
+      {
+        "topic_id": 10,
+        "words": [
+          "ngutang",
+          "coba",
+          "mna",
+          "uber",
+          "ngajarin",
+          "mintak",
+          "digituin",
+          "belanja",
+          "ngurusin",
+          "keluarin"
+        ],
+        "proportion": 0.0554,
+        "size": 49
+      },
+      {
+        "topic_id": 11,
+        "words": [
+          "foya",
+          "kursi",
+          "duduk",
+          "anggar",
+          "bertanggungjawab",
+          "kasi",
+          "rahasia",
+          "pisang",
+          "tunai",
+          "ribet"
+        ],
+        "proportion": 0.0486,
+        "size": 43
+      },
+      {
+        "topic_id": 12,
+        "words": [
+          "jago",
+          "rapat",
+          "duwit",
+          "ngemplang",
+          "ngajarin",
+          "mantan",
+          "langgan",
+          "cuih",
+          "ngatur",
+          "ngaca"
+        ],
+        "proportion": 0.0339,
+        "size": 30
+      }
+    ]
+  },
+  "v5-terbaca": {
+    "label": "v5-terbaca",
+    "timestamp": "2026-09-02T09:54:07",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.428,
+      "c_npmi": -0.2726,
+      "diversity": 0.9,
+      "outlier_rate": 0.096,
+      "num_topics": 4,
+      "seconds": 236.1,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "pejabat",
+          "ngutang",
+          "dpr",
+          "bayar",
+          "patuh",
+          "pajak",
+          "warga",
+          "malu",
+          "ikn",
+          "giliran"
+        ],
+        "proportion": 0.4859,
+        "size": 430
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "pajak",
+          "makan",
+          "desa",
+          "bayar",
+          "dpr",
+          "patuh",
+          "taat",
+          "hasil",
+          "masyarakat",
+          "gaji"
+        ],
+        "proportion": 0.235,
+        "size": 208
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "pengusaha",
+          "hukum",
+          "haknya",
+          "percaya",
+          "pemimpin",
+          "berlaku",
+          "indonesia",
+          "oknum",
+          "hutang",
+          "karma"
+        ],
+        "proportion": 0.104,
+        "size": 92
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "ribet",
+          "haram",
+          "muis",
+          "utang",
+          "tanggung",
+          "diem",
+          "bu",
+          "mentri",
+          "tol",
+          "banyak"
+        ],
+        "proportion": 0.0791,
+        "size": 70
+      }
+    ]
+  },
+  "v6-final": {
+    "label": "v6-final",
+    "timestamp": "2026-09-02T09:59:30",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.428,
+      "c_npmi": -0.2726,
+      "diversity": 0.9,
+      "outlier_rate": 0.096,
+      "num_topics": 4,
+      "seconds": 130.0,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "pejabat",
+          "ngutang",
+          "dpr",
+          "bayar",
+          "patuh",
+          "pajak",
+          "warga",
+          "malu",
+          "ikn",
+          "giliran"
+        ],
+        "proportion": 0.4859,
+        "size": 430
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "pajak",
+          "makan",
+          "desa",
+          "bayar",
+          "dpr",
+          "patuh",
+          "taat",
+          "hasil",
+          "masyarakat",
+          "gaji"
+        ],
+        "proportion": 0.235,
+        "size": 208
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "pengusaha",
+          "hukum",
+          "haknya",
+          "percaya",
+          "pimpin",
+          "berlaku",
+          "indonesia",
+          "oknum",
+          "hutang",
+          "karma"
+        ],
+        "proportion": 0.104,
+        "size": 92
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "ribet",
+          "haram",
+          "muis",
+          "utang",
+          "tanggung",
+          "diem",
+          "bu",
+          "mentri",
+          "tol",
+          "banyak"
+        ],
+        "proportion": 0.0791,
+        "size": 70
+      }
+    ]
+  },
+  "v7-final": {
+    "label": "v7-final",
+    "timestamp": "2026-09-02T10:05:34",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.428,
+      "c_npmi": -0.2726,
+      "diversity": 0.9,
+      "outlier_rate": 0.096,
+      "num_topics": 4,
+      "seconds": 173.7,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "pejabat",
+          "ngutang",
+          "dpr",
+          "bayar",
+          "patuh",
+          "pajak",
+          "warga",
+          "malu",
+          "ikn",
+          "giliran"
+        ],
+        "proportion": 0.4859,
+        "size": 430
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "pajak",
+          "makan",
+          "desa",
+          "bayar",
+          "dpr",
+          "patuh",
+          "taat",
+          "hasil",
+          "masyarakat",
+          "gaji"
+        ],
+        "proportion": 0.235,
+        "size": 208
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "pengusaha",
+          "hukum",
+          "haknya",
+          "percaya",
+          "pemimpin",
+          "berlaku",
+          "indonesia",
+          "oknum",
+          "hutang",
+          "karma"
+        ],
+        "proportion": 0.104,
+        "size": 92
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "ribet",
+          "haram",
+          "muis",
+          "utang",
+          "tanggung",
+          "diem",
+          "bu",
+          "mentri",
+          "tol",
+          "banyak"
+        ],
+        "proportion": 0.0791,
+        "size": 70
+      }
+    ]
+  },
+  "v8-konsisten": {
+    "label": "v8-konsisten",
+    "timestamp": "2026-09-02T10:18:54",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.428,
+      "c_npmi": -0.2726,
+      "diversity": 0.9,
+      "outlier_rate": 0.096,
+      "num_topics": 4,
+      "seconds": 163.9,
+      "requested_topics": 5,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "pejabat",
+          "ngutang",
+          "dpr",
+          "bayar",
+          "patuh",
+          "pajak",
+          "warga",
+          "malu",
+          "ikn",
+          "giliran"
+        ],
+        "proportion": 0.4859,
+        "size": 430
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "pajak",
+          "makan",
+          "desa",
+          "bayar",
+          "dpr",
+          "patuh",
+          "taat",
+          "hasil",
+          "masyarakat",
+          "gaji"
+        ],
+        "proportion": 0.235,
+        "size": 208
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "pengusaha",
+          "hukum",
+          "haknya",
+          "percaya",
+          "pemimpin",
+          "berlaku",
+          "indonesia",
+          "oknum",
+          "hutang",
+          "karma"
+        ],
+        "proportion": 0.104,
+        "size": 92
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "ribet",
+          "haram",
+          "muis",
+          "utang",
+          "tanggung",
+          "diem",
+          "bu",
+          "mentri",
+          "tol",
+          "banyak"
+        ],
+        "proportion": 0.0791,
+        "size": 70
+      }
+    ]
+  },
+  "v9-mmr": {
+    "label": "v9-mmr",
+    "timestamp": "2026-09-02T11:19:00",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.5477,
+      "c_npmi": -0.4871,
+      "diversity": 0.9385,
+      "outlier_rate": 0.0814,
+      "num_topics": 13,
+      "seconds": 180.2,
+      "requested_topics": 15,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "bangun",
+          "bangkrut",
+          "pusing",
+          "ngemis",
+          "bikin",
+          "minjam",
+          "membagongkan",
+          "rubicon",
+          "kacau",
+          "happy"
+        ],
+        "proportion": 0.1141,
+        "size": 101
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "haknya",
+          "kejam",
+          "patut",
+          "iklas",
+          "piutang",
+          "kemenku",
+          "ha",
+          "contoh",
+          "atas",
+          "bobrok"
+        ],
+        "proportion": 0.0972,
+        "size": 86
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "anggota",
+          "tunggakkan",
+          "gayus",
+          "ditilep",
+          "malas",
+          "tahu",
+          "penegak",
+          "cinta",
+          "laporan",
+          "kocak"
+        ],
+        "proportion": 0.0847,
+        "size": 75
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "subsidi",
+          "masyarakat",
+          "dpr",
+          "rakus",
+          "pajak",
+          "kerja",
+          "petugasnya",
+          "solusinya",
+          "perut",
+          "cari"
+        ],
+        "proportion": 0.0836,
+        "size": 74
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "tuhan",
+          "ulah",
+          "karna",
+          "aneh",
+          "merajalela",
+          "bgmn",
+          "hati",
+          "bah",
+          "piye",
+          "melanggar"
+        ],
+        "proportion": 0.0757,
+        "size": 67
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "nagih",
+          "klo",
+          "bnyak",
+          "lucu",
+          "krna",
+          "bkin",
+          "jngn",
+          "wakanda",
+          "dzolim",
+          "bijak"
+        ],
+        "proportion": 0.0689,
+        "size": 61
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "kejahatan",
+          "enak",
+          "mundur",
+          "berlimpah",
+          "miris",
+          "penjajah",
+          "miskin",
+          "menggerogoti",
+          "buzzer",
+          "dibohongi"
+        ],
+        "proportion": 0.0678,
+        "size": 60
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "konoha",
+          "jawa",
+          "benar",
+          "kampungan",
+          "kolonial",
+          "colong",
+          "digituin",
+          "jenis",
+          "lelang",
+          "hedon"
+        ],
+        "proportion": 0.0678,
+        "size": 60
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "tangkap",
+          "narik",
+          "rampok",
+          "bos",
+          "triliun",
+          "harta",
+          "proyek",
+          "selesai",
+          "menang",
+          "dana"
+        ],
+        "proportion": 0.0633,
+        "size": 56
+      },
+      {
+        "topic_id": 9,
+        "words": [
+          "ribet",
+          "diem",
+          "ayo",
+          "tuh",
+          "rampok",
+          "duit",
+          "damai",
+          "maling",
+          "makan",
+          "pajak"
+        ],
+        "proportion": 0.0576,
+        "size": 51
+      },
+      {
+        "topic_id": 10,
+        "words": [
+          "ngutang",
+          "ngajarin",
+          "mintak",
+          "digituin",
+          "ngurusin",
+          "keluarin",
+          "pinjol",
+          "ditilep",
+          "kalo",
+          "telat"
+        ],
+        "proportion": 0.0554,
+        "size": 49
+      },
+      {
+        "topic_id": 11,
+        "words": [
+          "foya",
+          "bertanggungjawab",
+          "ribet",
+          "diskon",
+          "ujung",
+          "bancaan",
+          "pohon",
+          "klo",
+          "manfaatnya",
+          "lunas"
+        ],
+        "proportion": 0.0486,
+        "size": 43
+      },
+      {
+        "topic_id": 12,
+        "words": [
+          "duwit",
+          "ngemplang",
+          "ngajarin",
+          "pelanggan",
+          "cuih",
+          "ngatur",
+          "ngaca",
+          "giliran",
+          "nunggak",
+          "telat"
+        ],
+        "proportion": 0.0339,
+        "size": 30
+      }
+    ]
+  },
+  "v10-slang": {
+    "label": "v10-slang",
+    "timestamp": "2026-09-02T11:26:25",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.5061,
+      "c_npmi": -0.4047,
+      "diversity": 0.8889,
+      "outlier_rate": 0.0588,
+      "num_topics": 9,
+      "seconds": 180.9,
+      "requested_topics": 15,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "utang",
+          "bayar",
+          "pajak",
+          "masyarakat",
+          "malu",
+          "mati",
+          "koruptor",
+          "tagih",
+          "makan",
+          "kerja"
+        ],
+        "proportion": 0.5209,
+        "size": 461
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "bangun",
+          "bodoh",
+          "koruptor",
+          "bu",
+          "bangkrut",
+          "kaya",
+          "pintar",
+          "kacau",
+          "minjam",
+          "membagongkan"
+        ],
+        "proportion": 0.0972,
+        "size": 86
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "haknya",
+          "kejam",
+          "iklas",
+          "semangat",
+          "ha",
+          "disumbangkan",
+          "kemenku",
+          "bobrok",
+          "ngemis",
+          "lucu"
+        ],
+        "proportion": 0.0847,
+        "size": 75
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "foya",
+          "jawa",
+          "benar",
+          "kolonial",
+          "pelanggan",
+          "jenis",
+          "kampungan",
+          "babah",
+          "bancaan",
+          "ujung"
+        ],
+        "proportion": 0.0565,
+        "size": 50
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "piye",
+          "banyak",
+          "tol",
+          "ayo",
+          "mending",
+          "damai",
+          "miskin",
+          "makan",
+          "bayar",
+          "pajak"
+        ],
+        "proportion": 0.0463,
+        "size": 41
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "iklas",
+          "melanggar",
+          "hidup",
+          "senang",
+          "bobrok",
+          "enak",
+          "sibuk",
+          "berlimpah",
+          "hati",
+          "kehilangan"
+        ],
+        "proportion": 0.0441,
+        "size": 39
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "merajalela",
+          "gila",
+          "kemenku",
+          "noh",
+          "piye",
+          "dzolim",
+          "serakah",
+          "hebat",
+          "parah",
+          "lucu"
+        ],
+        "proportion": 0.0328,
+        "size": 29
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "tambang",
+          "rajin",
+          "bajingan",
+          "morowali",
+          "bansos",
+          "akibat",
+          "konoha",
+          "oknum",
+          "pejabat",
+          "pajak"
+        ],
+        "proportion": 0.0328,
+        "size": 29
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "reses",
+          "rapat",
+          "gtu",
+          "digituin",
+          "cuih",
+          "keluarin",
+          "ngajarin",
+          "ngaca",
+          "pajakin",
+          "duit"
+        ],
+        "proportion": 0.026,
+        "size": 23
+      }
+    ]
+  },
+  "v11-final": {
+    "label": "v11-final",
+    "timestamp": "2026-09-02T11:36:12",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.5225,
+      "c_npmi": -0.4783,
+      "diversity": 0.8375,
+      "outlier_rate": 0.052,
+      "num_topics": 16,
+      "seconds": 193.2,
+      "requested_topics": 20,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "dpr",
+          "anggota",
+          "patuh",
+          "harta",
+          "tunggakkan",
+          "rampok",
+          "koruptor",
+          "habis",
+          "malas",
+          "triliun"
+        ],
+        "proportion": 0.1537,
+        "size": 136
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "utang",
+          "malu",
+          "mengembalikan",
+          "investor",
+          "politik",
+          "jokowi",
+          "tunjangan",
+          "lelang",
+          "zaman",
+          "krisis"
+        ],
+        "proportion": 0.0994,
+        "size": 88
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "parah",
+          "semangat",
+          "disumbangkan",
+          "ha",
+          "kemenku",
+          "lucu",
+          "loh",
+          "ngemis",
+          "kasihan",
+          "miris"
+        ],
+        "proportion": 0.0814,
+        "size": 72
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "menggerogoti",
+          "kejahatan",
+          "mundur",
+          "berlimpah",
+          "otak",
+          "kaya",
+          "bagus",
+          "penjajah",
+          "mewah",
+          "sehat"
+        ],
+        "proportion": 0.0802,
+        "size": 71
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "desa",
+          "makan",
+          "masyarakat",
+          "kendaraan",
+          "suruh",
+          "malas",
+          "solusinya",
+          "sasaran",
+          "ilegal",
+          "petugasnya"
+        ],
+        "proportion": 0.078,
+        "size": 69
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "foya",
+          "konoha",
+          "jawa",
+          "babah",
+          "kampungan",
+          "mengakui",
+          "pelanggan",
+          "jenis",
+          "najis",
+          "digituin"
+        ],
+        "proportion": 0.0678,
+        "size": 60
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "jngn",
+          "berantas",
+          "lucu",
+          "cinta",
+          "bertobat",
+          "smoga",
+          "smpai",
+          "mati",
+          "wakanda",
+          "dzolim"
+        ],
+        "proportion": 0.0678,
+        "size": 60
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "rajin",
+          "piye",
+          "bajingan",
+          "banyak",
+          "mending",
+          "damai",
+          "pejabat",
+          "makan",
+          "kaya",
+          "bayar"
+        ],
+        "proportion": 0.0475,
+        "size": 42
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "iklas",
+          "hidup",
+          "senang",
+          "bobrok",
+          "ulah",
+          "sibuk",
+          "selesai",
+          "berlimpah",
+          "hati",
+          "kehilangan"
+        ],
+        "proportion": 0.0418,
+        "size": 37
+      },
+      {
+        "topic_id": 9,
+        "words": [
+          "herannya",
+          "merajalela",
+          "kemenku",
+          "noh",
+          "piye",
+          "hebat",
+          "serakah",
+          "parah",
+          "lucu",
+          "mewah"
+        ],
+        "proportion": 0.0384,
+        "size": 34
+      },
+      {
+        "topic_id": 10,
+        "words": [
+          "miliar",
+          "ganda",
+          "membagongkan",
+          "beneran",
+          "hedon",
+          "disumbangkan",
+          "proyek",
+          "pendukung",
+          "agustus",
+          "lha"
+        ],
+        "proportion": 0.0384,
+        "size": 34
+      },
+      {
+        "topic_id": 11,
+        "words": [
+          "kacau",
+          "munafik",
+          "jujur",
+          "sabar",
+          "bodoh",
+          "kaya",
+          "istana",
+          "beda",
+          "serakah",
+          "sibuk"
+        ],
+        "proportion": 0.035,
+        "size": 31
+      },
+      {
+        "topic_id": 12,
+        "words": [
+          "reses",
+          "makan",
+          "cuih",
+          "ngaca",
+          "digituin",
+          "gtu",
+          "keras",
+          "ngajarin",
+          "keluarin",
+          "sukses"
+        ],
+        "proportion": 0.0339,
+        "size": 30
+      },
+      {
+        "topic_id": 13,
+        "words": [
+          "pusing",
+          "proses",
+          "gerombolan",
+          "ha",
+          "lawak",
+          "ngerti",
+          "atas",
+          "ngemis",
+          "kocak",
+          "bangkrut"
+        ],
+        "proportion": 0.0328,
+        "size": 29
+      },
+      {
+        "topic_id": 14,
+        "words": [
+          "bangkrut",
+          "berat",
+          "hebat",
+          "apbn",
+          "berantas",
+          "ngemis",
+          "koruptor",
+          "habis",
+          "miskin",
+          "kaya"
+        ],
+        "proportion": 0.0294,
+        "size": 26
+      },
+      {
+        "topic_id": 15,
+        "words": [
+          "tambang",
+          "morowali",
+          "bansos",
+          "contoh",
+          "akibat",
+          "konoha",
+          "oknum",
+          "hasil",
+          "hutang",
+          "pengusaha"
+        ],
+        "proportion": 0.0226,
+        "size": 20
+      }
+    ]
+  },
+  "v12-final": {
+    "label": "v12-final",
+    "timestamp": "2026-09-02T11:42:30",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.5135,
+      "c_npmi": -0.4725,
+      "diversity": 0.8765,
+      "outlier_rate": 0.0576,
+      "num_topics": 17,
+      "seconds": 191.7,
+      "requested_topics": 20,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "laporan",
+          "tunggakkan",
+          "malas",
+          "ngemplang",
+          "buruh",
+          "ditilep",
+          "sadar",
+          "pajak",
+          "mati",
+          "tahu"
+        ],
+        "proportion": 0.1073,
+        "size": 95
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "bangun",
+          "bu",
+          "bangkrut",
+          "kacau",
+          "munafik",
+          "tambah",
+          "membagongkan",
+          "rubicon",
+          "minjam",
+          "makmur"
+        ],
+        "proportion": 0.0938,
+        "size": 83
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "parah",
+          "kejam",
+          "disumbangkan",
+          "ha",
+          "kemenku",
+          "bobrok",
+          "proses",
+          "loh",
+          "lucu",
+          "ngemis"
+        ],
+        "proportion": 0.0836,
+        "size": 74
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "malu",
+          "tunjangan",
+          "utang",
+          "cekik",
+          "hitam",
+          "iyakan",
+          "beres",
+          "mahal",
+          "mintak",
+          "sok"
+        ],
+        "proportion": 0.0723,
+        "size": 64
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "cindo",
+          "harga",
+          "mundur",
+          "lha",
+          "bagus",
+          "enak",
+          "duit",
+          "menggerogoti",
+          "sehat",
+          "gratis"
+        ],
+        "proportion": 0.0712,
+        "size": 63
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "proyek",
+          "duit",
+          "tagih",
+          "kongkalikong",
+          "sampek",
+          "membagongkan",
+          "ngajarin",
+          "beneran",
+          "koplak",
+          "bangkrut"
+        ],
+        "proportion": 0.061,
+        "size": 54
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "iklas",
+          "melanggar",
+          "hidup",
+          "ulah",
+          "bobrok",
+          "sibuk",
+          "enak",
+          "berlimpah",
+          "hati",
+          "kehilangan"
+        ],
+        "proportion": 0.0531,
+        "size": 47
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "bancaan",
+          "piye",
+          "bu",
+          "tol",
+          "ayo",
+          "mending",
+          "damai",
+          "duit",
+          "maling",
+          "miskin"
+        ],
+        "proportion": 0.052,
+        "size": 46
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "foya",
+          "jawa",
+          "pelanggan",
+          "jenis",
+          "digituin",
+          "tau",
+          "pohon",
+          "lunas",
+          "manfaatnya",
+          "lha"
+        ],
+        "proportion": 0.0497,
+        "size": 44
+      },
+      {
+        "topic_id": 9,
+        "words": [
+          "rampok",
+          "ribu",
+          "dana",
+          "diam",
+          "koruptor",
+          "triliun",
+          "selesai",
+          "parpol",
+          "klise",
+          "lenyap"
+        ],
+        "proportion": 0.0452,
+        "size": 40
+      },
+      {
+        "topic_id": 10,
+        "words": [
+          "mengembalikan",
+          "menteri",
+          "politik",
+          "lelang",
+          "utang",
+          "krisis",
+          "hamka",
+          "kirain",
+          "herannya",
+          "diklaim"
+        ],
+        "proportion": 0.0429,
+        "size": 38
+      },
+      {
+        "topic_id": 11,
+        "words": [
+          "pusing",
+          "proses",
+          "ha",
+          "gerombolan",
+          "alias",
+          "ngerti",
+          "lawak",
+          "kaya",
+          "mundur",
+          "akal"
+        ],
+        "proportion": 0.0395,
+        "size": 35
+      },
+      {
+        "topic_id": 12,
+        "words": [
+          "makan",
+          "lurah",
+          "malas",
+          "kumpul",
+          "desa",
+          "patuh",
+          "mending",
+          "rajin",
+          "rt",
+          "nego"
+        ],
+        "proportion": 0.0384,
+        "size": 34
+      },
+      {
+        "topic_id": 13,
+        "words": [
+          "sistem",
+          "subsidi",
+          "masyarakat",
+          "beli",
+          "dpr",
+          "berbenah",
+          "ilegal",
+          "perhitungan",
+          "solusinya",
+          "usut"
+        ],
+        "proportion": 0.0373,
+        "size": 33
+      },
+      {
+        "topic_id": 14,
+        "words": [
+          "merajalela",
+          "dibisniskan",
+          "gila",
+          "kemenku",
+          "piye",
+          "dzolim",
+          "hebat",
+          "serakah",
+          "parah",
+          "lucu"
+        ],
+        "proportion": 0.0373,
+        "size": 33
+      },
+      {
+        "topic_id": 15,
+        "words": [
+          "tambang",
+          "morowali",
+          "bansos",
+          "contoh",
+          "akibat",
+          "konoha",
+          "oknum",
+          "hasil",
+          "hutang",
+          "pengusaha"
+        ],
+        "proportion": 0.0305,
+        "size": 27
+      },
+      {
+        "topic_id": 16,
+        "words": [
+          "wakanda",
+          "dzolim",
+          "mati",
+          "bingung",
+          "mlu",
+          "nyolong",
+          "kejam",
+          "hoax",
+          "nuntut",
+          "hnya"
+        ],
+        "proportion": 0.0271,
+        "size": 24
+      }
+    ]
+  },
+  "v13": {
+    "label": "v13",
+    "timestamp": "2026-09-02T11:49:07",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.51,
+      "c_npmi": -0.4578,
+      "diversity": 0.7789,
+      "outlier_rate": 0.0305,
+      "num_topics": 19,
+      "seconds": 201.3,
+      "requested_topics": 20,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "anggota",
+          "dpr",
+          "harta",
+          "laporan",
+          "tunggakkan",
+          "rampok",
+          "koruptor",
+          "malas",
+          "habis",
+          "tangkap"
+        ],
+        "proportion": 0.1537,
+        "size": 136
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "untung",
+          "enak",
+          "makan",
+          "duit",
+          "murah",
+          "mundur",
+          "berlimpah",
+          "baik",
+          "miskin",
+          "otak"
+        ],
+        "proportion": 0.0836,
+        "size": 74
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "parah",
+          "kejam",
+          "iklas",
+          "semangat",
+          "kemenku",
+          "disumbangkan",
+          "bobrok",
+          "proses",
+          "ngemis",
+          "lucu"
+        ],
+        "proportion": 0.0814,
+        "size": 72
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "foya",
+          "jawa",
+          "benar",
+          "babah",
+          "pelanggan",
+          "digituin",
+          "keluarin",
+          "najis",
+          "jelata",
+          "pohon"
+        ],
+        "proportion": 0.0599,
+        "size": 53
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "bangkrut",
+          "koruptor",
+          "minjam",
+          "munafik",
+          "sabar",
+          "hebat",
+          "serakah",
+          "orba",
+          "ngemis",
+          "berantas"
+        ],
+        "proportion": 0.0588,
+        "size": 52
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "sahkan",
+          "tingkat",
+          "patuh",
+          "makan",
+          "petugasnya",
+          "solusinya",
+          "berbenah",
+          "malas",
+          "sistem",
+          "masyarakat"
+        ],
+        "proportion": 0.0576,
+        "size": 51
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "tunjangan",
+          "malu",
+          "utang",
+          "sebetulnya",
+          "hitam",
+          "beres",
+          "mahal",
+          "sok",
+          "asli",
+          "potong"
+        ],
+        "proportion": 0.0565,
+        "size": 50
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "piye",
+          "banyak",
+          "mending",
+          "damai",
+          "duit",
+          "maling",
+          "miskin",
+          "makan",
+          "bayar",
+          "pajak"
+        ],
+        "proportion": 0.0452,
+        "size": 40
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "kenyang",
+          "iklas",
+          "melanggar",
+          "senang",
+          "bobrok",
+          "ulah",
+          "sibuk",
+          "selesai",
+          "berlimpah",
+          "hati"
+        ],
+        "proportion": 0.0418,
+        "size": 37
+      },
+      {
+        "topic_id": 9,
+        "words": [
+          "mengembalikan",
+          "politik",
+          "utang",
+          "beban",
+          "krisis",
+          "miliar",
+          "damai",
+          "pengelola",
+          "ringan",
+          "muka"
+        ],
+        "proportion": 0.0395,
+        "size": 35
+      },
+      {
+        "topic_id": 10,
+        "words": [
+          "miliar",
+          "proyek",
+          "duit",
+          "membagongkan",
+          "beneran",
+          "koplak",
+          "alesan",
+          "hedon",
+          "trilyunan",
+          "disumbangkan"
+        ],
+        "proportion": 0.0384,
+        "size": 34
+      },
+      {
+        "topic_id": 11,
+        "words": [
+          "lucu",
+          "cinta",
+          "bertobat",
+          "berantas",
+          "hancur",
+          "mantu",
+          "mmbangun",
+          "ngatur",
+          "merajalela",
+          "sprti"
+        ],
+        "proportion": 0.0362,
+        "size": 32
+      },
+      {
+        "topic_id": 12,
+        "words": [
+          "sisi",
+          "pusing",
+          "proses",
+          "lawak",
+          "gerombolan",
+          "atas",
+          "ngemis",
+          "memeras",
+          "kocak",
+          "bangkrut"
+        ],
+        "proportion": 0.0362,
+        "size": 32
+      },
+      {
+        "topic_id": 13,
+        "words": [
+          "bangun",
+          "membagongkan",
+          "perut",
+          "proyek",
+          "akal",
+          "sibuk",
+          "bikin",
+          "pintar",
+          "miliar",
+          "raya"
+        ],
+        "proportion": 0.0339,
+        "size": 30
+      },
+      {
+        "topic_id": 14,
+        "words": [
+          "merajalela",
+          "dibisniskan",
+          "gila",
+          "kemenku",
+          "piye",
+          "serakah",
+          "hebat",
+          "dzolim",
+          "parah",
+          "lucu"
+        ],
+        "proportion": 0.0339,
+        "size": 30
+      },
+      {
+        "topic_id": 15,
+        "words": [
+          "bancaan",
+          "digituin",
+          "ngaca",
+          "makan",
+          "ujung",
+          "maling",
+          "mending",
+          "suka",
+          "anggota",
+          "coba"
+        ],
+        "proportion": 0.0316,
+        "size": 28
+      },
+      {
+        "topic_id": 16,
+        "words": [
+          "keras",
+          "colong",
+          "kongkalikong",
+          "giliran",
+          "gerombolan",
+          "rapat",
+          "sukses",
+          "pajakin",
+          "diem",
+          "coba"
+        ],
+        "proportion": 0.0282,
+        "size": 25
+      },
+      {
+        "topic_id": 17,
+        "words": [
+          "tambang",
+          "morowali",
+          "bajingan",
+          "bansos",
+          "contoh",
+          "konoha",
+          "korupsi",
+          "oknum",
+          "pejabat",
+          "pajak"
+        ],
+        "proportion": 0.0271,
+        "size": 24
+      },
+      {
+        "topic_id": 18,
+        "words": [
+          "tangan",
+          "lelang",
+          "ampuni",
+          "perhitungan",
+          "dasar",
+          "triliun",
+          "utang",
+          "jokowi",
+          "malu",
+          "koruptor"
+        ],
+        "proportion": 0.026,
+        "size": 23
+      }
+    ]
+  },
+  "setelah-perbaikan-preprocessing": {
+    "label": "setelah-perbaikan-preprocessing",
+    "timestamp": "2026-09-02T22:38:58",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.5139,
+      "c_npmi": -0.394,
+      "diversity": 0.9357,
+      "outlier_rate": 0.1887,
+      "num_topics": 14,
+      "seconds": 234.9,
+      "requested_topics": 0,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "dpr",
+          "patuh",
+          "pajak",
+          "tunggakkan",
+          "rampok",
+          "bayar",
+          "koruptor",
+          "ogah",
+          "srimulyono",
+          "malas"
+        ],
+        "proportion": 0.1367,
+        "size": 121
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "makan",
+          "desa",
+          "maling",
+          "duit",
+          "pajak",
+          "bayar",
+          "miskin",
+          "bagus",
+          "gaji",
+          "enak"
+        ],
+        "proportion": 0.1288,
+        "size": 114
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "mahakuasah",
+          "majak",
+          "kendaran",
+          "lillahi",
+          "fuul",
+          "rakya",
+          "kabbah",
+          "sahroni",
+          "hilagkan",
+          "sieikan"
+        ],
+        "proportion": 0.0712,
+        "size": 63
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "koruptor",
+          "bangkrut",
+          "bullshit",
+          "tenang",
+          "subur",
+          "sepi",
+          "istiqamah",
+          "libur",
+          "kacau",
+          "minjam"
+        ],
+        "proportion": 0.0599,
+        "size": 53
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "investor",
+          "utang",
+          "malu",
+          "periode",
+          "ounya",
+          "nagihnya",
+          "mulyodong",
+          "meninggsl",
+          "dahsyat",
+          "alhamdulilah"
+        ],
+        "proportion": 0.0576,
+        "size": 51
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "ahh",
+          "buahx",
+          "kuruptor",
+          "presidennta",
+          "preseden",
+          "merintih",
+          "semboyanya",
+          "separoh",
+          "trirlunan",
+          "ugalan"
+        ],
+        "proportion": 0.0542,
+        "size": 48
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "nganggur",
+          "bancaan",
+          "capek",
+          "nyalahin",
+          "kalid",
+          "hadeuh",
+          "nnti",
+          "salahin",
+          "diutamgin",
+          "disalahin"
+        ],
+        "proportion": 0.052,
+        "size": 46
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "saham",
+          "krisis",
+          "mengembalikan",
+          "boss",
+          "indonesia",
+          "uang",
+          "berantas",
+          "damai",
+          "cinta",
+          "bertobat"
+        ],
+        "proportion": 0.052,
+        "size": 46
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "gile",
+          "pemgusaha",
+          "jongos",
+          "duhh",
+          "hlawong",
+          "hayo",
+          "ginian",
+          "gedein",
+          "gaban",
+          "enakn"
+        ],
+        "proportion": 0.0452,
+        "size": 40
+      },
+      {
+        "topic_id": 9,
+        "words": [
+          "begundal",
+          "atas",
+          "rusak",
+          "kasihan",
+          "menang",
+          "penguasa",
+          "dasar",
+          "malu",
+          "koruptor",
+          "uang"
+        ],
+        "proportion": 0.0384,
+        "size": 34
+      },
+      {
+        "topic_id": 10,
+        "words": [
+          "bantuu",
+          "dalih",
+          "semangat",
+          "iklas",
+          "kejam",
+          "parah",
+          "ngemis",
+          "aneh",
+          "miris",
+          "kerja"
+        ],
+        "proportion": 0.0328,
+        "size": 29
+      },
+      {
+        "topic_id": 11,
+        "words": [
+          "kadaluwarsa",
+          "ngomongnya",
+          "kalimantan",
+          "chuakks",
+          "membagongkan",
+          "dibohongi",
+          "proyek",
+          "perut",
+          "sibuk",
+          "dibiayai"
+        ],
+        "proportion": 0.0305,
+        "size": 27
+      },
+      {
+        "topic_id": 12,
+        "words": [
+          "anteng",
+          "tangan",
+          "lelang",
+          "menteri",
+          "perhitungan",
+          "kantong",
+          "rampok",
+          "uang",
+          "bank",
+          "utang"
+        ],
+        "proportion": 0.026,
+        "size": 23
+      },
+      {
+        "topic_id": 13,
+        "words": [
+          "waw",
+          "tambang",
+          "morowali",
+          "bansos",
+          "contoh",
+          "akibat",
+          "korupsi",
+          "konoha",
+          "hutang",
+          "oknum"
+        ],
+        "proportion": 0.026,
+        "size": 23
+      }
+    ]
+  },
+  "filter-token-langka": {
+    "label": "filter-token-langka",
+    "timestamp": "2026-09-02T22:48:17",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.5205,
+      "c_npmi": -0.4633,
+      "diversity": 0.875,
+      "outlier_rate": 0.0497,
+      "num_topics": 20,
+      "seconds": 223.3,
+      "requested_topics": 0,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "bangun",
+          "bikin",
+          "membagongkan",
+          "rubicon",
+          "tumbuh",
+          "dinasti",
+          "bangkrut",
+          "jawa",
+          "kemenku",
+          "proyek"
+        ],
+        "proportion": 0.0723,
+        "size": 64
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "kejahatan",
+          "same",
+          "menggerogoti",
+          "jaksa",
+          "billion",
+          "bertobat",
+          "dibiayai",
+          "berantas",
+          "mundur",
+          "hancur"
+        ],
+        "proportion": 0.0678,
+        "size": 60
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "pejabat",
+          "kenyang",
+          "kampungan",
+          "rumah",
+          "senang",
+          "hidup",
+          "pendukung",
+          "bajingan",
+          "capek",
+          "bobrok"
+        ],
+        "proportion": 0.0621,
+        "size": 55
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "haknya",
+          "babah",
+          "patut",
+          "kejam",
+          "iklas",
+          "jawa",
+          "pengusaha",
+          "benar",
+          "atas",
+          "bobrok"
+        ],
+        "proportion": 0.0599,
+        "size": 53
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "tambang",
+          "konoha",
+          "morowali",
+          "banyak",
+          "bansos",
+          "tol",
+          "akibat",
+          "korupsi",
+          "oknum",
+          "utang"
+        ],
+        "proportion": 0.0576,
+        "size": 51
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "ribet",
+          "bancaan",
+          "laporan",
+          "semoga",
+          "pohon",
+          "tau",
+          "ujung",
+          "kehilangan",
+          "ayo",
+          "bayar"
+        ],
+        "proportion": 0.0542,
+        "size": 48
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "mengembalikan",
+          "saham",
+          "utang",
+          "moneter",
+          "bidang",
+          "cinta",
+          "narik",
+          "uang",
+          "tagih",
+          "dana"
+        ],
+        "proportion": 0.0542,
+        "size": 48
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "cawagub",
+          "warga",
+          "tunggakkan",
+          "tahu",
+          "penegakan",
+          "besok",
+          "ogah",
+          "oligarki",
+          "menyedihkan",
+          "melibatkan"
+        ],
+        "proportion": 0.052,
+        "size": 46
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "perut",
+          "laporan",
+          "syukur",
+          "yo",
+          "kempis",
+          "ngaca",
+          "nilep",
+          "pemasukan",
+          "umkm",
+          "rt"
+        ],
+        "proportion": 0.0497,
+        "size": 44
+      },
+      {
+        "topic_id": 9,
+        "words": [
+          "kemaren",
+          "cekik",
+          "beres",
+          "utang",
+          "menyakiti",
+          "satu",
+          "china",
+          "bunganya",
+          "lucu",
+          "kuat"
+        ],
+        "proportion": 0.0497,
+        "size": 44
+      },
+      {
+        "topic_id": 10,
+        "words": [
+          "ribu",
+          "kongkalikong",
+          "tangkap",
+          "jago",
+          "kehilangan",
+          "mulyono",
+          "koruptor",
+          "coba",
+          "parpol",
+          "ngatur"
+        ],
+        "proportion": 0.0463,
+        "size": 41
+      },
+      {
+        "topic_id": 11,
+        "words": [
+          "gila",
+          "gile",
+          "mna",
+          "merajalela",
+          "potong",
+          "piye",
+          "pajakin",
+          "bancakan",
+          "disumbangkan",
+          "gada"
+        ],
+        "proportion": 0.0441,
+        "size": 39
+      },
+      {
+        "topic_id": 12,
+        "words": [
+          "menkeu",
+          "srimulyono",
+          "yusup",
+          "dana",
+          "struktur",
+          "menuntut",
+          "departemen",
+          "iklas",
+          "miliar",
+          "melanggar"
+        ],
+        "proportion": 0.0429,
+        "size": 38
+      },
+      {
+        "topic_id": 13,
+        "words": [
+          "lucu",
+          "nuntut",
+          "disumbangkan",
+          "parah",
+          "ngemis",
+          "rusak",
+          "menang",
+          "miris",
+          "masyarakat",
+          "uang"
+        ],
+        "proportion": 0.0407,
+        "size": 36
+      },
+      {
+        "topic_id": 14,
+        "words": [
+          "kantor",
+          "sahkan",
+          "tamak",
+          "depkeu",
+          "masyarakat",
+          "berbenah",
+          "selangit",
+          "sistem",
+          "subsidi",
+          "rumus"
+        ],
+        "proportion": 0.0362,
+        "size": 32
+      },
+      {
+        "topic_id": 15,
+        "words": [
+          "kau",
+          "digituin",
+          "piye",
+          "ujung",
+          "capek",
+          "bos",
+          "benar",
+          "repot",
+          "perhitungan",
+          "mending"
+        ],
+        "proportion": 0.035,
+        "size": 31
+      },
+      {
+        "topic_id": 16,
+        "words": [
+          "gelap",
+          "desa",
+          "mana",
+          "payah",
+          "rajin",
+          "jelata",
+          "malas",
+          "takut",
+          "juta",
+          "gerombolan"
+        ],
+        "proportion": 0.0339,
+        "size": 30
+      },
+      {
+        "topic_id": 17,
+        "words": [
+          "bodoh",
+          "munafik",
+          "jujur",
+          "alias",
+          "sabar",
+          "mundur",
+          "serakah",
+          "orba",
+          "koruptor",
+          "mewah"
+        ],
+        "proportion": 0.0316,
+        "size": 28
+      },
+      {
+        "topic_id": 18,
+        "words": [
+          "sah",
+          "jelas",
+          "damai",
+          "dki",
+          "ruu",
+          "beres",
+          "bubar",
+          "miliar",
+          "reses",
+          "sukses"
+        ],
+        "proportion": 0.0305,
+        "size": 27
+      },
+      {
+        "topic_id": 19,
+        "words": [
+          "boss",
+          "pusing",
+          "kumpul",
+          "gerombolan",
+          "masak",
+          "emas",
+          "senang",
+          "capek",
+          "serakah",
+          "atas"
+        ],
+        "proportion": 0.0294,
+        "size": 26
+      }
+    ]
+  },
+  "final-preprocessing": {
+    "label": "final-preprocessing",
+    "timestamp": "2026-09-02T23:34:33",
+    "corpus": "data/external/youtube/test_gold.json",
+    "metrics": {
+      "c_v": 0.5032,
+      "c_npmi": -0.3641,
+      "diversity": 0.9222,
+      "outlier_rate": 0.1638,
+      "num_topics": 9,
+      "seconds": 338.5,
+      "requested_topics": 0,
+      "num_texts": 885,
+      "method": "bertopic-indobert"
+    },
+    "topics": [
+      {
+        "topic_id": 0,
+        "words": [
+          "dpr",
+          "pajak",
+          "bayar",
+          "utang",
+          "malu",
+          "koruptor",
+          "reses",
+          "indonesia",
+          "tangkap",
+          "ngemplang"
+        ],
+        "proportion": 0.2068,
+        "size": 183
+      },
+      {
+        "topic_id": 1,
+        "words": [
+          "uang",
+          "bayar",
+          "makan",
+          "pajak",
+          "gaji",
+          "duit",
+          "mengembalikan",
+          "utang",
+          "korupsi",
+          "hati"
+        ],
+        "proportion": 0.2023,
+        "size": 179
+      },
+      {
+        "topic_id": 2,
+        "words": [
+          "bangun",
+          "pejabat",
+          "negara",
+          "bodoh",
+          "kaya",
+          "bangkrut",
+          "sri",
+          "korupsi",
+          "sibuk",
+          "disanjung"
+        ],
+        "proportion": 0.1356,
+        "size": 120
+      },
+      {
+        "topic_id": 3,
+        "words": [
+          "wakakakakakak",
+          "bantuu",
+          "begundal",
+          "waw",
+          "badi",
+          "gatel",
+          "maattane",
+          "he",
+          "iklas",
+          "semangat"
+        ],
+        "proportion": 0.1096,
+        "size": 97
+      },
+      {
+        "topic_id": 4,
+        "words": [
+          "pusing",
+          "jongos",
+          "jkowi",
+          "mengeruk",
+          "presidennta",
+          "hayo",
+          "gmana",
+          "saat",
+          "tersandung",
+          "enakn"
+        ],
+        "proportion": 0.0554,
+        "size": 49
+      },
+      {
+        "topic_id": 5,
+        "words": [
+          "ribet",
+          "dilupakan",
+          "berak",
+          "telan",
+          "hilagkan",
+          "kendaran",
+          "tol",
+          "duit",
+          "damai",
+          "maling"
+        ],
+        "proportion": 0.0362,
+        "size": 32
+      },
+      {
+        "topic_id": 6,
+        "words": [
+          "foya",
+          "rabowp",
+          "dengannmas",
+          "mahakuasah",
+          "dipenjarain",
+          "mampus",
+          "ngenakin",
+          "kabbah",
+          "sieikan",
+          "tetikus"
+        ],
+        "proportion": 0.0339,
+        "size": 30
+      },
+      {
+        "topic_id": 7,
+        "words": [
+          "salahin",
+          "jngan",
+          "wkkwk",
+          "disalahin",
+          "diutamgin",
+          "hadeuh",
+          "ngutangi",
+          "dipikirin",
+          "ngaca",
+          "cuih"
+        ],
+        "proportion": 0.0294,
+        "size": 26
+      },
+      {
+        "topic_id": 8,
+        "words": [
+          "negra",
+          "anteng",
+          "ampuni",
+          "lelang",
+          "tangan",
+          "perhitungan",
+          "uang",
+          "utang",
+          "triliun",
+          "jokowi"
+        ],
+        "proportion": 0.0271,
+        "size": 24
+      }
+    ]
+  }
+}

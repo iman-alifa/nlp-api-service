@@ -1,0 +1,46 @@
+{
+  "epochs_completed": 3,
+  "train_loss": [
+    0.1283,
+    0.0227,
+    0.0075
+  ],
+  "val_loss": [],
+  "model_path": "./models\\aspect_retrained.pt",
+  "saved": true,
+  "rejected_for_regression": false,
+  "seed": 42,
+  "train_size": 707,
+  "val_size": 178,
+  "metrics_before": {
+    "precision": 0.1033,
+    "recall": 0.453,
+    "f1": 0.1683,
+    "aspect_token_support": 543
+  },
+  "metrics_after": {
+    "precision": 0.9671,
+    "recall": 0.9742,
+    "f1": 0.9706,
+    "aspect_token_support": 543
+  },
+  "f1_delta": 0.8023,
+  "bio_report": {
+    "samples_received": 885,
+    "samples_used": 885,
+    "samples_skipped_empty": 0,
+    "aspects_total": 2692,
+    "aspects_unmatched": 2,
+    "aspects_unmatched_pct": 0.07,
+    "samples_all_O": 0,
+    "unmatched_examples": [
+      {
+        "text": "Milyuner aja di BULLY MENKEU??\nAPALG RAKYAT JELATA😂😂\nİDEALNYA NEGARA MELİNDUNGİ SELURUH RAKYAT NYA BUKAN JD PREMAN UTK R",
+        "unmatched_aspects": [
+          "EGARA ",
+          "YAT NY"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,581 @@
+{
+  "K1": {
+    "condition": {
+      "id": "K1",
+      "name": "leksikon-youtube",
+      "label": "Leksikon (YouTube pajak)",
+      "data": "data/aspect_dataset_retrain.json",
+      "eval_data": null,
+      "model_dir": "models_exp/k1_youtube",
+      "human_labels": false
+    },
+    "train_minutes": 20.0,
+    "train": {
+      "train_size": 707,
+      "val_size": 178,
+      "split": "stratified_80_20",
+      "best_epoch": 3,
+      "epoch_history": [
+        {
+          "epoch": 1,
+          "train_loss": 0.2425,
+          "precision": 0.9094,
+          "recall": 0.9613,
+          "f1": 0.9346,
+          "aspect_token_support": 543
+        },
+        {
+          "epoch": 2,
+          "train_loss": 0.0301,
+          "precision": 0.9595,
+          "recall": 0.9595,
+          "f1": 0.9595,
+          "aspect_token_support": 543
+        },
+        {
+          "epoch": 3,
+          "train_loss": 0.0123,
+          "precision": 0.9545,
+          "recall": 0.9669,
+          "f1": 0.9607,
+          "aspect_token_support": 543
+        }
+      ],
+      "val_f1_before": 0.1683,
+      "val_f1_after": 0.9607
+    },
+    "eval": {
+      "terma-test": {
+        "span": {
+          "precision": 0.4138,
+          "recall": 0.0204,
+          "f1": 0.039
+        },
+        "token": {
+          "precision": 0.7208,
+          "recall": 0.0538,
+          "f1": 0.1001
+        }
+      },
+      "keps-test": {
+        "span": {
+          "precision": 0.25,
+          "recall": 0.0051,
+          "f1": 0.01
+        },
+        "token": {
+          "precision": 0.6429,
+          "recall": 0.0086,
+          "f1": 0.017
+        }
+      },
+      "youtube": {
+        "span": {
+          "precision": 0.9708,
+          "recall": 0.9744,
+          "f1": 0.9726
+        },
+        "token": {
+          "precision": 0.9824,
+          "recall": 0.9881,
+          "f1": 0.9852
+        }
+      },
+      "youtube-heldout": {
+        "span": {
+          "precision": 0.9576,
+          "recall": 0.9669,
+          "f1": 0.9622
+        },
+        "token": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    }
+  },
+  "K2": {
+    "condition": {
+      "id": "K2",
+      "name": "leksikon-berita",
+      "label": "Leksikon+LLM (berita)",
+      "data": "data/aspect_news_retrain.json",
+      "eval_data": null,
+      "model_dir": "models_exp/k2_berita",
+      "human_labels": false
+    },
+    "train_minutes": 42.4,
+    "train": {
+      "train_size": 1551,
+      "val_size": 388,
+      "split": "stratified_80_20",
+      "best_epoch": 3,
+      "epoch_history": [
+        {
+          "epoch": 1,
+          "train_loss": 0.3204,
+          "precision": 0.8767,
+          "recall": 0.7398,
+          "f1": 0.8024,
+          "aspect_token_support": 1595
+        },
+        {
+          "epoch": 2,
+          "train_loss": 0.1115,
+          "precision": 0.8661,
+          "recall": 0.795,
+          "f1": 0.829,
+          "aspect_token_support": 1595
+        },
+        {
+          "epoch": 3,
+          "train_loss": 0.0528,
+          "precision": 0.8603,
+          "recall": 0.8144,
+          "f1": 0.8367,
+          "aspect_token_support": 1595
+        }
+      ],
+      "val_f1_before": 0.2774,
+      "val_f1_after": 0.8367
+    },
+    "eval": {
+      "terma-test": {
+        "span": {
+          "precision": 0.4762,
+          "recall": 0.5406,
+          "f1": 0.5064
+        },
+        "token": {
+          "precision": 0.5618,
+          "recall": 0.7169,
+          "f1": 0.6299
+        }
+      },
+      "keps-test": {
+        "span": {
+          "precision": 0.3795,
+          "recall": 0.1699,
+          "f1": 0.2347
+        },
+        "token": {
+          "precision": 0.7735,
+          "recall": 0.3152,
+          "f1": 0.4478
+        }
+      },
+      "youtube": {
+        "span": {
+          "precision": 0.4069,
+          "recall": 0.2192,
+          "f1": 0.2849
+        },
+        "token": {
+          "precision": 0.4842,
+          "recall": 0.387,
+          "f1": 0.4302
+        }
+      },
+      "youtube-heldout": {
+        "span": {
+          "precision": 0.3986,
+          "recall": 0.214,
+          "f1": 0.2785
+        },
+        "token": {
+          "precision": 0.4674,
+          "recall": 0.3873,
+          "f1": 0.4236
+        }
+      }
+    }
+  },
+  "K3": {
+    "condition": {
+      "id": "K3",
+      "name": "terma",
+      "label": "TermA (label manusia)",
+      "data": "data/external/terma/train_retrain.json",
+      "eval_data": "data/external/terma/valid_retrain.json",
+      "model_dir": "models_exp/k3_terma",
+      "human_labels": true
+    },
+    "train_minutes": 43.8,
+    "train": {
+      "train_size": 1638,
+      "val_size": 822,
+      "split": "official",
+      "best_epoch": 3,
+      "epoch_history": [
+        {
+          "epoch": 1,
+          "train_loss": 0.2335,
+          "precision": 0.8855,
+          "recall": 0.9208,
+          "f1": 0.9028,
+          "aspect_token_support": 2663
+        },
+        {
+          "epoch": 2,
+          "train_loss": 0.061,
+          "precision": 0.8997,
+          "recall": 0.9328,
+          "f1": 0.9159,
+          "aspect_token_support": 2663
+        },
+        {
+          "epoch": 3,
+          "train_loss": 0.0269,
+          "precision": 0.8967,
+          "recall": 0.9392,
+          "f1": 0.9175,
+          "aspect_token_support": 2663
+        }
+      ],
+      "val_f1_before": 0.271,
+      "val_f1_after": 0.9175
+    },
+    "eval": {
+      "terma-test": {
+        "span": {
+          "precision": 0.8659,
+          "recall": 0.9091,
+          "f1": 0.887
+        },
+        "token": {
+          "precision": 0.8792,
+          "recall": 0.9348,
+          "f1": 0.9062
+        }
+      },
+      "keps-test": {
+        "span": {
+          "precision": 0.2286,
+          "recall": 0.0163,
+          "f1": 0.0304
+        },
+        "token": {
+          "precision": 0.7815,
+          "recall": 0.0445,
+          "f1": 0.0842
+        }
+      },
+      "youtube": {
+        "span": {
+          "precision": 0.7644,
+          "recall": 0.0591,
+          "f1": 0.1097
+        },
+        "token": {
+          "precision": 0.7004,
+          "recall": 0.0676,
+          "f1": 0.1234
+        }
+      },
+      "youtube-heldout": {
+        "span": {
+          "precision": 0.825,
+          "recall": 0.0642,
+          "f1": 0.1191
+        },
+        "token": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    }
+  },
+  "K4": {
+    "condition": {
+      "id": "K4",
+      "name": "terma+keps",
+      "label": "TermA+KEPS (manusia, 2 domain)",
+      "data": "data/external/combined_train_retrain.json",
+      "eval_data": "data/external/combined_valid_retrain.json",
+      "model_dir": "models_exp/k4_combined",
+      "human_labels": true
+    },
+    "train_minutes": 63.2,
+    "train": {
+      "train_size": 2435,
+      "val_size": 1020,
+      "split": "official",
+      "best_epoch": 3,
+      "epoch_history": [
+        {
+          "epoch": 1,
+          "train_loss": 0.3245,
+          "precision": 0.8264,
+          "recall": 0.9595,
+          "f1": 0.888,
+          "aspect_token_support": 4148
+        },
+        {
+          "epoch": 2,
+          "train_loss": 0.1326,
+          "precision": 0.8888,
+          "recall": 0.9094,
+          "f1": 0.899,
+          "aspect_token_support": 4148
+        },
+        {
+          "epoch": 3,
+          "train_loss": 0.0715,
+          "precision": 0.8871,
+          "recall": 0.9301,
+          "f1": 0.9081,
+          "aspect_token_support": 4148
+        }
+      ],
+      "val_f1_before": 0.3503,
+      "val_f1_after": 0.9081
+    },
+    "eval": {
+      "terma-test": {
+        "span": {
+          "precision": 0.8584,
+          "recall": 0.8949,
+          "f1": 0.8763
+        },
+        "token": {
+          "precision": 0.8777,
+          "recall": 0.9223,
+          "f1": 0.8995
+        }
+      },
+      "keps-test": {
+        "span": {
+          "precision": 0.6758,
+          "recall": 0.7742,
+          "f1": 0.7217
+        },
+        "token": {
+          "precision": 0.8204,
+          "recall": 0.922,
+          "f1": 0.8683
+        }
+      },
+      "youtube": {
+        "span": {
+          "precision": 0.3685,
+          "recall": 0.1348,
+          "f1": 0.1974
+        },
+        "token": {
+          "precision": 0.3417,
+          "recall": 0.1732,
+          "f1": 0.2299
+        }
+      },
+      "youtube-heldout": {
+        "span": {
+          "precision": 0.3544,
+          "recall": 0.142,
+          "f1": 0.2028
+        },
+        "token": {
+          "precision": 0.0,
+          "recall": 0.0,
+          "f1": 0.0
+        }
+      }
+    }
+  },
+  "K5": {
+    "condition": {
+      "id": "K5",
+      "name": "terma+keps+augmentasi",
+      "label": "K4 + negatif + substitusi + bobot kelas",
+      "data": "data/external/k5_train_retrain.json",
+      "eval_data": "data/external/combined_valid_retrain.json",
+      "model_dir": "models_exp/k5_augmented",
+      "human_labels": true,
+      "extra_args": [
+        "--class-weights"
+      ]
+    },
+    "train_minutes": 124.3,
+    "train": {
+      "train_size": 5198,
+      "val_size": 1020,
+      "split": "official",
+      "best_epoch": 3,
+      "epoch_history": [
+        {
+          "epoch": 1,
+          "train_loss": 0.3461,
+          "precision": 0.7878,
+          "recall": 0.9655,
+          "f1": 0.8676,
+          "aspect_token_support": 4148
+        },
+        {
+          "epoch": 2,
+          "train_loss": 0.121,
+          "precision": 0.82,
+          "recall": 0.9576,
+          "f1": 0.8835,
+          "aspect_token_support": 4148
+        },
+        {
+          "epoch": 3,
+          "train_loss": 0.0586,
+          "precision": 0.8463,
+          "recall": 0.9453,
+          "f1": 0.8931,
+          "aspect_token_support": 4148
+        }
+      ],
+      "val_f1_before": 0.3503,
+      "val_f1_after": 0.8931
+    },
+    "eval": {
+      "terma-test": {
+        "span": {
+          "precision": 0.8274,
+          "recall": 0.9063,
+          "f1": 0.865
+        },
+        "token": {
+          "precision": 0.8424,
+          "recall": 0.9337,
+          "f1": 0.8857
+        }
+      },
+      "keps-test": {
+        "span": {
+          "precision": 0.6231,
+          "recall": 0.8138,
+          "f1": 0.7058
+        },
+        "token": {
+          "precision": 0.7739,
+          "recall": 0.966,
+          "f1": 0.8594
+        }
+      },
+      "youtube": {
+        "span": {
+          "precision": 0.3112,
+          "recall": 0.1497,
+          "f1": 0.2022
+        },
+        "token": {
+          "precision": 0.2744,
+          "recall": 0.187,
+          "f1": 0.2224
+        }
+      },
+      "youtube-heldout": {
+        "span": {
+          "precision": 0.3566,
+          "recall": 0.179,
+          "f1": 0.2383
+        },
+        "token": {
+          "precision": 0.285,
+          "recall": 0.2081,
+          "f1": 0.2405
+        }
+      }
+    }
+  },
+  "K6": {
+    "condition": {
+      "id": "K6",
+      "name": "terma+youtube",
+      "label": "TermA + YouTube in-domain",
+      "data": "data/external/k6_train_retrain.json",
+      "eval_data": "data/external/terma/valid_retrain.json",
+      "model_dir": "models_exp/k6_production",
+      "human_labels": true
+    },
+    "train_minutes": 64.6,
+    "train": {
+      "train_size": 2346,
+      "val_size": 822,
+      "split": "official",
+      "best_epoch": 3,
+      "epoch_history": [
+        {
+          "epoch": 1,
+          "train_loss": 0.1998,
+          "precision": 0.9112,
+          "recall": 0.9129,
+          "f1": 0.912,
+          "aspect_token_support": 2663
+        },
+        {
+          "epoch": 2,
+          "train_loss": 0.0465,
+          "precision": 0.88,
+          "recall": 0.9471,
+          "f1": 0.9123,
+          "aspect_token_support": 2663
+        },
+        {
+          "epoch": 3,
+          "train_loss": 0.0197,
+          "precision": 0.8978,
+          "recall": 0.9407,
+          "f1": 0.9188,
+          "aspect_token_support": 2663
+        }
+      ],
+      "val_f1_before": 0.271,
+      "val_f1_after": 0.9188
+    },
+    "eval": {
+      "terma-test": {
+        "span": {
+          "precision": 0.8618,
+          "recall": 0.9063,
+          "f1": 0.8835
+        },
+        "token": {
+          "precision": 0.8828,
+          "recall": 0.9307,
+          "f1": 0.9061
+        }
+      },
+      "keps-test": {
+        "span": {
+          "precision": 0.2151,
+          "recall": 0.0203,
+          "f1": 0.0372
+        },
+        "token": {
+          "precision": 0.7687,
+          "recall": 0.0493,
+          "f1": 0.0926
+        }
+      },
+      "youtube": {
+        "span": {
+          "precision": 0.9833,
+          "recall": 0.9822,
+          "f1": 0.9827
+        },
+        "token": {
+          "precision": 0.9853,
+          "recall": 0.9935,
+          "f1": 0.9894
+        }
+      },
+      "youtube-heldout": {
+        "span": {
+          "precision": 0.9449,
+          "recall": 0.9669,
+          "f1": 0.9558
+        },
+        "token": {
+          "precision": 0.9464,
+          "recall": 0.9865,
+          "f1": 0.966
+        }
+      }
+    }
+  }
+}

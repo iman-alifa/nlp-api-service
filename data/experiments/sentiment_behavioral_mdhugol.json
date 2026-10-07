@@ -1,0 +1,196 @@
+{
+  "summary": {
+    "DIR tambah klausa negatif": {
+      "lulus": 12,
+      "total": 12
+    },
+    "INV ejaan slang": {
+      "lulus": 24,
+      "total": 24
+    },
+    "INV emoji": {
+      "lulus": 24,
+      "total": 24
+    },
+    "INV huruf berulang": {
+      "lulus": 24,
+      "total": 24
+    },
+    "INV huruf kapital": {
+      "lulus": 24,
+      "total": 24
+    },
+    "INV tanda baca": {
+      "lulus": 24,
+      "total": 24
+    },
+    "MFT dasar negatif": {
+      "lulus": 20,
+      "total": 20
+    },
+    "MFT dasar positif": {
+      "lulus": 20,
+      "total": 20
+    },
+    "MFT faktual netral": {
+      "lulus": 5,
+      "total": 5
+    },
+    "MFT kontras -> negatif": {
+      "lulus": 12,
+      "total": 12
+    },
+    "MFT kontras -> positif": {
+      "lulus": 5,
+      "total": 12
+    },
+    "MFT negasi atas negatif": {
+      "lulus": 12,
+      "total": 24
+    },
+    "MFT negasi atas positif": {
+      "lulus": 24,
+      "total": 24
+    }
+  },
+  "total": {
+    "lulus": 230,
+    "total": 249,
+    "rate": 0.9237
+  },
+  "failures": [
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "pelayanannya kurang buruk",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.9789
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "pelayanannya kurang mengecewakan",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.9727
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "pelayanannya kurang lambat",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.9635
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "produknya kurang buruk",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.9522
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "produknya kurang mengecewakan",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.8565
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "produknya kurang lambat",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.7648
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "aplikasinya kurang buruk",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.9542
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "aplikasinya kurang mengecewakan",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.9084
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "aplikasinya kurang lambat",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.7924
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "makanannya kurang buruk",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.9392
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "makanannya kurang mengecewakan",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.8455
+    },
+    {
+      "uji": "MFT negasi atas negatif",
+      "teks": "makanannya kurang lambat",
+      "harapan": "not-negative",
+      "prediksi": "negative",
+      "confidence": 0.5973
+    },
+    {
+      "uji": "MFT kontras -> positif",
+      "teks": "pelayanannya buruk tapi tempatnya bagus",
+      "harapan": "positive",
+      "prediksi": "negative",
+      "confidence": 0.6634
+    },
+    {
+      "uji": "MFT kontras -> positif",
+      "teks": "pelayanannya mengecewakan tapi tempatnya memuaskan",
+      "harapan": "positive",
+      "prediksi": "negative",
+      "confidence": 0.9819
+    },
+    {
+      "uji": "MFT kontras -> positif",
+      "teks": "produknya buruk tapi harganya bagus",
+      "harapan": "positive",
+      "prediksi": "negative",
+      "confidence": 0.5486
+    },
+    {
+      "uji": "MFT kontras -> positif",
+      "teks": "produknya mengecewakan tapi harganya memuaskan",
+      "harapan": "positive",
+      "prediksi": "negative",
+      "confidence": 0.8122
+    },
+    {
+      "uji": "MFT kontras -> positif",
+      "teks": "aplikasinya buruk tapi kualitasnya bagus",
+      "harapan": "positive",
+      "prediksi": "negative",
+      "confidence": 0.8639
+    },
+    {
+      "uji": "MFT kontras -> positif",
+      "teks": "aplikasinya mengecewakan tapi kualitasnya memuaskan",
+      "harapan": "positive",
+      "prediksi": "negative",
+      "confidence": 0.8431
+    },
+    {
+      "uji": "MFT kontras -> positif",
+      "teks": "makanannya mengecewakan tapi petugasnya memuaskan",
+      "harapan": "positive",
+      "prediksi": "negative",
+      "confidence": 0.955
+    }
+  ]
+}

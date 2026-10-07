@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Tidur yang cukup tiap harinya bisa bikin badan tidak kecapekan dan segar ketika bangun di pagi hari.",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9945
+  },
+  {
+    "text": "Hotel ini sudah berdiri sejak tiga puluh tahun yang lalu, sebelum saya lahir. Penginapan pertama di kota ini. Sekarang sudah banyak berdiri hotel di sini.",
+    "gold": "neutral",
+    "pred": "positive",
+    "confidence": 0.9729
+  },
+  {
+    "text": "Restoran seafood. Menu spesialnyanya kepiting yang dimakan dengan kulitnya. Untuk saya kurang enak. Kulitnya masih agak keras. Pelayanannya biasa-biasa saja.",
+    "gold": "negative",
+    "pred": "positive",
+    "confidence": 0.7084
+  }
+]

@@ -1,0 +1,9 @@
+# Dependensi khusus pengembangan/pengujian.
+# Sengaja dipisah dari requirements.txt agar image Railway tetap ramping.
+-r requirements.txt
+
+pytest==7.4.4
+# starlette bawaan fastapi 0.109 memakai TestClient(app=...) yang dihapus di httpx 0.28
+httpx>=0.24,<0.28
+# untuk menguji method async AspectService.analyze()
+pytest-asyncio==1.4.0
